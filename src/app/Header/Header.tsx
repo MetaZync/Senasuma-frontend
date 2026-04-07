@@ -52,9 +52,13 @@ export default function Header() {
   const isPlaceOrderPage = /^\/products\/\d+\/place-order$/.test(pathname || "");
   const isAboutPage = pathname === "/about";
   const isContactPage = pathname === "/contact";
+  const isSustainabilityPage = pathname === "/sustainability";
+  const isBlogPage = pathname?.startsWith("/blog");
   const showNav = !(isProductDetailsPage || isPlaceOrderPage);
 
-  const useDarkNav = isAboutPage || isContactPage;
+  const useDarkNav = isAboutPage || isContactPage || isSustainabilityPage || isBlogPage;
+
+
 
   const buttonText = (isProductsPage || isProductDetailsPage || isPlaceOrderPage) ? "Contact Now" : "Place Your Order";
   const buttonIcon = (isProductsPage || isProductDetailsPage || isPlaceOrderPage) ? (

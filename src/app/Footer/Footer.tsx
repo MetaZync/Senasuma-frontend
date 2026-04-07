@@ -1,13 +1,12 @@
 "use client";
 
 import React from "react";
-import { Box, Typography, Container, Grid, Link, Stack, IconButton, Divider } from "@mui/material";
+import { Box, Typography, Container, Grid, Link, Stack, Divider } from "@mui/material";
 import { Poppins } from "next/font/google";
 import Image from "next/image";
 import LocationOnIcon from "@mui/icons-material/LocationOn";
 import PhoneEnabledIcon from "@mui/icons-material/PhoneEnabled";
 import EmailIcon from "@mui/icons-material/Email";
-import ArrowForwardIcon from "@mui/icons-material/ArrowForward";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -20,7 +19,7 @@ const Footer: React.FC = () => {
       component="footer"
       sx={{
         width: "100%",
-        background: "linear-gradient(135deg, #7CA687 0%, #629474 100%)",
+        background: "linear-gradient(135deg, #8DC38B 0%, #527F65 100%)",
         color: "#fff",
         pt: { xs: 8, md: 10 },
         pb: 2,

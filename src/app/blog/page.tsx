@@ -1,0 +1,15 @@
+import { Box, Typography, Container } from "@mui/material";
+import BlogSection from "./BlogSection";
+
+export const metadata = {
+  title: "Blog | Senasuma",
+  description: "Read our latest insights, news, and guides related to the polythene industry.",
+};
+
+export default function BlogPage() {
+  return (
+    <Box component="main" sx={{ backgroundColor: "#ffffff", pt: 35 }}>
+      <BlogSection />
+    </Box>
+  );
+}
