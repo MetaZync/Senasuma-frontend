@@ -1,0 +1,1022 @@
+[
+  {
+    "id": 1,
+    "title": "Polythene Bags",
+    "tagline": "100% Recycled",
+    "type": "bags",
+    "material": "LDPE / HDPE premium-grade",
+    "cardDescription": "Lightweight, durable, and waterproof packaging solutions.",
+    "mainDescription": "Our Premium Polythene Bags are designed for both everyday use and industrial-level applications. Manufactured using high-quality LDPE and HDPE materials, these bags provide excellent strength, flexibility, and durability—making them suitable for packaging, storage, and transport across various industries.",
+    "ratingFromFive": 4.5,
+    "ratingCount": 203,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging",
+      "home-use"
+    ],
+    "regularPrice": 12000,
+    "wholeSalePrice": 10000,
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "image": "/Assets/BagTemp.webp",
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Biodegradable Trash Bags",
+    "tagline": "100% Recycled",
+    "type": "bags",
+    "material": "Cornstarch-based polymer",
+    "cardDescription": "Eco-friendly waste disposal for a cleaner planet.",
+    "mainDescription": "Our Biodegradable Trash Bags are fully compostable and break down naturally within 6 months in a composting environment. They offer the same strength and leak resistance as tradition plastic bags but without the environmental footprint.",
+    "ratingFromFive": 4.8,
+    "ratingCount": 456,
+    "neccessaryGoods": [
+      "compostable",
+      "heavy-duty",
+      "eco-friendly"
+    ],
+    "regularPrice": 1500,
+    "wholeSalePrice": 1200,
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "image": "/Assets/BagTemp.webp",
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Paper Shopping Bags",
+    "tagline": "100% Recycled",
+    "type": "bags",
+    "material": "Recycled Kraft Paper",
+    "cardDescription": "Sturdy and elegant bags for retail and gifting.",
+    "mainDescription": "High-quality Kraft paper shopping bags with reinforced handles. These bags are perfect for boutiques, grocery stores, and gift shops. They are 100% recyclable and made from post-consumer recycled content.",
+    "ratingFromFive": 4.2,
+    "ratingCount": 128,
+    "neccessaryGoods": [
+      "recyclable",
+      "retail",
+      "sustainable"
+    ],
+    "regularPrice": 8000,
+    "wholeSalePrice": 6500,
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "image": "/Assets/BagTemp.webp",
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Reusable Cotton Tote Bags",
+    "tagline": "100% Recycled",
+    "type": "sheeting",
+    "material": "100% Organic Cotton",
+    "cardDescription": "Durable and stylish alternative to single-use plastics.",
+    "mainDescription": "Our Organic Cotton Tote Bags are designed to last for years. With reinforced stitching and a spacious design, they are ideal for grocery shopping, school, or daily errands. Completely machine washable and plastic-free.",
+    "ratingFromFive": 4.9,
+    "ratingCount": 890,
+    "neccessaryGoods": [
+      "washable",
+      "reusable",
+      "organic"
+    ],
+    "regularPrice": 2500,
+    "wholeSalePrice": 1800,
+    "image": "/Assets/BagTemp.webp",
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Cardboard Shipping Boxes",
+    "tagline": "100% Recycled",
+    "type": "sheeting",
+    "material": "Double-walled Corrugated Cardboard",
+    "cardDescription": "Heavy-duty protection for your shipping needs.",
+    "mainDescription": "Our corrugated cardboard boxes provide maximum protection for shipping fragile items. They are easy to assemble and 100% recyclable. Available in various sizes to fit all your logistics requirements.",
+    "ratingFromFive": 4.6,
+    "ratingCount": 567,
+    "neccessaryGoods": [
+      "heavy-duty",
+      "shipping",
+      "protective"
+    ],
+    "regularPrice": 45000,
+    "wholeSalePrice": 38000,
+    "image": "/Assets/BagTemp.webp",
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Glass Storage Jars",
+    "tagline": "100% Recycled",
+    "type": "sheeting",
+    "material": "Borosilicate Glass with Bamboo Lid",
+    "cardDescription": "Elegant and airtight storage for your kitchen.",
+    "mainDescription": "Upgrade your pantry with our borosilicate glass jars. Featuring airtight bamboo lids with silicone seals, these jars keep your food fresh and organized. BPA-free, lead-free, and heat-resistant.",
+    "ratingFromFive": 4.7,
+    "ratingCount": 312,
+    "neccessaryGoods": [
+      "airtight",
+      "kitchenware",
+      "plastic-free"
+    ],
+    "regularPrice": 3500,
+    "wholeSalePrice": 2800,
+    "image": "/Assets/BagTemp.webp",
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Bamboo Straws",
+    "tagline": "100% Recycled",
+    "type": "wrap",
+    "material": "Natural Sustainable Bamboo",
+    "cardDescription": "The ultimate plastic straw alternative.",
+    "mainDescription": "Handcrafted from 100% natural bamboo, these straws are reusable, biodegradable, and chemical-free. Each set comes with a cleaning brush and a travel pouch for convenience on the go.",
+    "ratingFromFive": 4.4,
+    "ratingCount": 215,
+    "neccessaryGoods": [
+      "reusable",
+      "biodegradable",
+      "natural"
+    ],
+    "regularPrice": 1200,
+    "wholeSalePrice": 950,
+    "image": "/Assets/BagTemp.webp",
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Compostable Plates",
+    "tagline": "100% Recycled",
+    "type": "wrap",
+    "material": "Sugarcane Bagasse",
+    "cardDescription": "Durable disposable plates made from sugarcane fiber.",
+    "mainDescription": "Our sugarcane bagasse plates are microwave safe and liquid resistant. They are fully compostable in a home or industrial setting, providing a guilt-free solution for events and gatherings.",
+    "ratingFromFive": 4.3,
+    "ratingCount": 189,
+    "neccessaryGoods": [
+      "compostable",
+      "event-supply",
+      "microwave-safe"
+    ],
+    "regularPrice": 2200,
+    "wholeSalePrice": 1750,
+    "image": "/Assets/BagTemp.webp",
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Recycled Paper Notebooks",
+    "tagline": "100% Recycled",
+    "type": "wrap",
+    "material": "100% Post-consumer Recycled Paper",
+    "cardDescription": "Sustainable stationery for the conscious creator.",
+    "mainDescription": "These notebooks are made from high-quality recycled paper that provides a smooth writing experience. The covers are made from recycled cardboard, and the ink used is soy-based.",
+    "ratingFromFive": 4.8,
+    "ratingCount": 423,
+    "neccessaryGoods": [
+      "eco-stationery",
+      "recycled",
+      "soy-ink"
+    ],
+    "regularPrice": 1800,
+    "wholeSalePrice": 1400,
+    "image": "/Assets/BagTemp.webp",
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Hemp Twine",
+    "tagline": "100% Recycled",
+    "type": "tubing",
+    "material": "Natural Industrial Hemp Fiber",
+    "cardDescription": "Strong and eco-friendly cordage for any project.",
+    "mainDescription": "Natural hemp twine is biodegradable, strong, and UV resistant. It’s perfect for gardening, gift wrapping, and craft projects. No pesticides or herbicides are used in the cultivation of our hemp.",
+    "ratingFromFive": 4.5,
+    "ratingCount": 154,
+    "neccessaryGoods": [
+      "natural-fiber",
+      "gardening",
+      "craft"
+    ],
+    "regularPrice": 950,
+    "wholeSalePrice": 750,
+    "image": "/Assets/BagTemp.webp",
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Kraft Paper Rolls",
+    "tagline": "100% Recycled",
+    "type": "tubing",
+    "material": "Unbleached Natural Kraft Paper",
+    "cardDescription": "Versatile wrapping paper for shipping and art.",
+    "mainDescription": "Large rolls of unbleached Kraft paper. Thick enough for protection during shipping, yet flexible enough for creative gift wrapping or school art projects. 100% compostable and recyclable.",
+    "ratingFromFive": 4.6,
+    "ratingCount": 278,
+    "neccessaryGoods": [
+      "versatile",
+      "industrial",
+      "recyclable"
+    ],
+    "regularPrice": 5500,
+    "wholeSalePrice": 4500,
+    "image": "/Assets/BagTemp.webp",
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Metal Water Bottles",
+    "tagline": "100% Recycled",
+    "type": "tubing",
+    "material": "Double-walled Stainless Steel",
+    "cardDescription": "Keep drinks cold for 24 hours or hot for 12 hours.",
+    "mainDescription": "Sleek and durable stainless steel water bottles. Vacuum-sealed technology ensures no condensation. BPA-free and leak-proof. A perfect companion for gyms, offices, and hiking trips.",
+    "ratingFromFive": 4.9,
+    "ratingCount": 1024,
+    "neccessaryGoods": [
+      "insultated",
+      "BPA-free",
+      "durable"
+    ],
+    "regularPrice": 4800,
+    "wholeSalePrice": 3900,
+    "image": "/Assets/BagTemp.webp",
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Beeswax Wraps",
+    "tagline": "100% Recycled",
+    "type": "shrink film",
+    "material": "Organic Cotton, Beeswax, Jojoba Oil",
+    "cardDescription": "The natural alternative to plastic cling wrap.",
+    "mainDescription": "Washable and reusable food wraps made from organic cotton infused with sustainably harvested beeswax. They mold to the shape of your food, creating a breathable, protective seal.",
+    "ratingFromFive": 4.7,
+    "ratingCount": 387,
+    "neccessaryGoods": [
+      "washable",
+      "plastic-free",
+      "natural-seal"
+    ],
+    "regularPrice": 2900,
+    "wholeSalePrice": 2300,
+    "image": "/Assets/BagTemp.webp",
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Silicon Food Pouches",
+    "tagline": "100% Recycled",
+    "type": "shrink film",
+    "material": "Food-grade Platinum Silicone",
+    "cardDescription": "Reusable bags for sous-vide, freezing, and snacks.",
+    "mainDescription": "These high-quality silicone bags are airtight and leak-proof. They can be used in the microwave, dishwasher, and even the oven. A one-time purchase that replaces thousands of plastic bags.",
+    "ratingFromFive": 4.8,
+    "ratingCount": 542,
+    "neccessaryGoods": [
+      "heat-resistant",
+      "airtight",
+      "reusable"
+    ],
+    "regularPrice": 3200,
+    "wholeSalePrice": 2550,
+    "image": "/Assets/BagTemp.webp",
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Jute Sacks",
+    "tagline": "100% Recycled",
+    "type": "shrink film",
+    "material": "Natural Jute Fiber",
+    "cardDescription": "Traditional heavy-duty sacks for agricultural use.",
+    "mainDescription": "Heavy-duty jute sacks, also known as gunny bags. Highly breathable and strong, making them ideal for storing rice, beans, potatoes, and other agricultural products. 100% biodegradable.",
+    "ratingFromFive": 4.4,
+    "ratingCount": 167,
+    "neccessaryGoods": [
+      "breathable",
+      "agricultural",
+      "biodegradable"
+    ],
+    "regularPrice": 600,
+    "wholeSalePrice": 480,
+    "image": "/Assets/BagTemp.webp",
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Paper Bubble Wrap",
+    "tagline": "100% Recycled",
+    "type": "tarpaulin",
+    "material": "Honeycomb Die-cut Paper",
+    "cardDescription": "Eco-friendly alternative to plastic bubble wrap.",
+    "mainDescription": "Our honeycomb paper wrap expands to create a protective 3D layer for shipping fragile items. It eliminates the need for plastic wrap while providing excellent shock absorption and cushioning.",
+    "ratingFromFive": 4.6,
+    "ratingCount": 231,
+    "neccessaryGoods": [
+      "cushioning",
+      "recyclable",
+      "space-saving"
+    ],
+    "regularPrice": 7500,
+    "wholeSalePrice": 6200,
+    "image": "/Assets/BagTemp.webp",
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Bio-plastic Cutlery",
+    "tagline": "100% Recycled",
+    "type": "tarpaulin",
+    "material": "CPLA (Crystallized Polylactic Acid)",
+    "cardDescription": "Heat-resistant compostable forks, knives, and spoons.",
+    "mainDescription": "CPLA cutlery is derived from renewable plant resources. Unlike standard PLA, these are reinforced to withstand temperatures up to 85°C. Sturdy, functional, and eco-friendly.",
+    "ratingFromFive": 4.2,
+    "ratingCount": 198,
+    "neccessaryGoods": [
+      "compostable",
+      "heat-resistant",
+      "plant-based"
+    ],
+    "regularPrice": 15,
+    "wholeSalePrice": 12,
+    "image": "/Assets/BagTemp.webp",
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Glass Bottles with Cork",
+    "tagline": "100% Recycled",
+    "type": "tarpaulin",
+    "material": "Recycled Flint Glass",
+    "cardDescription": "Aesthetic bottles for liquids and decorative use.",
+    "mainDescription": "Beautifully crafted glass bottles with premium natural cork stoppers. Ideal for syrups, infused oils, and decorative elements. Completely non-reactive and 100% endlessly recyclable.",
+    "ratingFromFive": 4.7,
+    "ratingCount": 276,
+    "neccessaryGoods": [
+      "non-reactive",
+      "recyclable",
+      "aesthetic"
+    ],
+    "regularPrice": 1100,
+    "wholeSalePrice": 880,
+    "image": "/Assets/BagTemp.webp",
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Wooden Crates",
+    "tagline": "100% Recycled",
+    "type": "liners",
+    "material": "Sustainably Sourced Pine Wood",
+    "cardDescription": "Rustic and durable crates for storage and display.",
+    "mainDescription": "Sturdy pine wood crates with a rustic finish. These are perfect for retail displays, home organization, or as a classic shipping solution for heavy artisan products. Built to last.",
+    "ratingFromFive": 4.6,
+    "ratingCount": 143,
+    "neccessaryGoods": [
+      "stackable",
+      "sustainable",
+      "heavy-duty"
+    ],
+    "regularPrice": 4500,
+    "wholeSalePrice": 3600,
+    "image": "/Assets/BagTemp.webp",
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Fabric Produce Bags",
+    "tagline": "100% Recycled",
+    "type": "liners",
+    "material": "Cotton Mesh",
+    "cardDescription": "Lightweight bags for fresh fruit and vegetables.",
+    "mainDescription": "Eliminate single-use plastic bags in the produce aisle. These cotton mesh bags allow your fruits and vegetables to breathe, keeping them fresh for longer. Tag on the side shows the tare weight.",
+    "ratingFromFive": 4.8,
+    "ratingCount": 612,
+    "neccessaryGoods": [
+      "breathable",
+      "tare-weight-included",
+      "washable"
+    ],
+    "regularPrice": 1250,
+    "wholeSalePrice": 1000,
+    "image": "/Assets/BagTemp.webp",
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Corrugated Sheets",
+    "tagline": "100% Recycled",
+    "type": "liners",
+    "material": "Recyclable Kraft Paperboards",
+    "cardDescription": "Protect surfaces and pack large items with ease.",
+    "mainDescription": "Flexible and lightweight corrugated paper sheets. Ideal for wrapping furniture during a move or as a protective layer between stacked goods in a container. High compression strength.",
+    "ratingFromFive": 4.3,
+    "ratingCount": 98,
+    "neccessaryGoods": [
+      "protective",
+      "industrial",
+      "recyclable"
+    ],
+    "regularPrice": 35000,
+    "wholeSalePrice": 29000,
+    "image": "/Assets/BagTemp.webp",
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Recycled Tissue Paper",
+    "tagline": "100% Recycled",
+    "type": "packaging film",
+    "material": "100% Recycled Acid-free Tissue",
+    "cardDescription": "Premium wrapping for fragile gifts and products.",
+    "mainDescription": "Soft and acid-free tissue paper that won't damage delicate items. Perfect for wrapping jewelry, clothing, or for use in gift bags. Available in a variety of natural eco-friendly colors.",
+    "ratingFromFive": 4.5,
+    "ratingCount": 245,
+    "neccessaryGoods": [
+      "acid-free",
+      "soft-touch",
+      "biodegradable"
+    ],
+    "regularPrice": 6500,
+    "wholeSalePrice": 5200,
+    "image": "/Assets/BagTemp.webp",
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Eco-friendly Labels",
+    "tagline": "100% Recycled",
+    "type": "packaging film",
+    "material": "Recycled Paper with Vegan Adhesive",
+    "cardDescription": "Sustainable labeling for your branded products.",
+    "mainDescription": "Print-friendly labels made from recycled paper. We use a natural vegan adhesive that doesn't compromise the recyclability of the package they are applied to. Durable and clear.",
+    "ratingFromFive": 4.4,
+    "ratingCount": 176,
+    "neccessaryGoods": [
+      "vegan-adhesive",
+      "printable",
+      "recyclable"
+    ],
+    "regularPrice": 8500,
+    "wholeSalePrice": 7000,
+    "image": "/Assets/BagTemp.webp",
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Padded Envelopes",
+    "tagline": "100% Recycled",
+    "type": "packaging film",
+    "material": "Recycled Kraft and Shredded Paper Cushion",
+    "cardDescription": "Plastic-free protection for mailing small items.",
+    "mainDescription": "Ditch the bubble mailers. These envelopes are padded with shredded recycled paper, providing excellent protection for documents and small items while being fully curbside recyclable.",
+    "ratingFromFive": 4.7,
+    "ratingCount": 321,
+    "neccessaryGoods": [
+      "curbside-recyclable",
+      "cushioned",
+      "sturdy"
+    ],
+    "regularPrice": 120,
+    "wholeSalePrice": 95,
+    "image": "/Assets/BagTemp.webp",
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Gift Boxes",
+    "tagline": "100% Recycled",
+    "type": "mulch film",
+    "material": "Heavyweight Recycled Cardboard",
+    "cardDescription": "Elegant and sturdy boxes for premium presentation.",
+    "mainDescription": "Our collapsible gift boxes offer a premium look with an eco-friendly heart. They are easy to store flat and snap together in seconds. Perfect for corporate gifts or luxury retail.",
+    "ratingFromFive": 4.8,
+    "ratingCount": 156,
+    "neccessaryGoods": [
+      "premium-finish",
+      "collapsible",
+      "durable"
+    ],
+    "regularPrice": 450,
+    "wholeSalePrice": 380,
+    "image": "/Assets/BagTemp.webp",
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Paper Straws",
+    "tagline": "100% Recycled",
+    "type": "mulch film",
+    "material": "FSC-certified Paper",
+    "cardDescription": "Durable and liquid-resistant paper straws.",
+    "mainDescription": "Engineered to last for hours in both hot and cold beverages. These paper straws use food-grade ink and adhesives, ensuring they are safe for you and the environment. 100% oceanic biodegradable.",
+    "ratingFromFive": 4.1,
+    "ratingCount": 567,
+    "neccessaryGoods": [
+      "FSC-certified",
+      "ocean-friendly",
+      "food-grade"
+    ],
+    "regularPrice": 800,
+    "wholeSalePrice": 650,
+    "image": "/Assets/BagTemp.webp",
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Bamboo Cutlery Set",
+    "tagline": "100% Recycled",
+    "type": "mulch film",
+    "material": "Moso Bamboo",
+    "cardDescription": "Individual travel cutlery set with cloth wrap.",
+    "mainDescription": "Each set includes a fork, knife, spoon, and a set of chopsticks. Finished with a food-safe vegetable oil coating and housed in a washable cotton wrap. Lightweight and perfect for travel.",
+    "ratingFromFive": 4.9,
+    "ratingCount": 423,
+    "neccessaryGoods": [
+      "travel-friendly",
+      "vegetable-oil-finish",
+      "lightweight"
+    ],
+    "regularPrice": 2200,
+    "wholeSalePrice": 1800,
+    "image": "/Assets/BagTemp.webp",
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Compostable Coffee Cups",
+    "tagline": "100% Recycled",
+    "type": "bubble wrap",
+    "material": "Paper with PLA Lining",
+    "cardDescription": "The perfect cup for hot coffee on the go.",
+    "mainDescription": "Unlike standard poly-lined cups, our coffee cups feature a plant-based PLA lining. They are fully compostable and keep beverages hot while protecting hands. Sustainably sourced paper.",
+    "ratingFromFive": 4.6,
+    "ratingCount": 894,
+    "neccessaryGoods": [
+      "compostable",
+      "heat-insulation",
+      "plant-lined"
+    ],
+    "regularPrice": 15000,
+    "wholeSalePrice": 12500,
+    "image": "/Assets/BagTemp.webp",
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Recycled Plastic Bins",
+    "tagline": "100% Recycled",
+    "type": "bubble wrap",
+    "material": "Post-consumer Recycled Polypropylene",
+    "cardDescription": "Organize your space with recycled durable plastic.",
+    "mainDescription": "Sturdy and stackable storage bins made entirely from recycled household plastic waste. They provide a second life for plastics and help you declutter your home or office efficiently.",
+    "ratingFromFive": 4.5,
+    "ratingCount": 134,
+    "neccessaryGoods": [
+      "stackable",
+      "recycled-plastic",
+      "durable"
+    ],
+    "regularPrice": 3800,
+    "wholeSalePrice": 3100,
+    "image": "/Assets/BagTemp.webp",
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Eco-friendly Tape",
+    "tagline": "100% Recycled",
+    "type": "bubble wrap",
+    "material": "Self-adhesive Paper Tape",
+    "cardDescription": "Strong and recyclable alternative to plastic tape.",
+    "mainDescription": "Our paper tape provides a strong, tamper-evident seal for your packages. It replaces traditional plastic tape and, most importantly, doesn't need to be removed from the box before recycling.",
+    "ratingFromFive": 4.7,
+    "ratingCount": 289,
+    "neccessaryGoods": [
+      "tamper-evident",
+      "recyclable",
+      "strong-adhesive"
+    ],
+    "regularPrice": 1800,
+    "wholeSalePrice": 1500,
+    "image": "/Assets/BagTemp.webp",
+    "commonUsages": [
+      "Food Packaging",
+      "Agriculture",
+      "Textile",
+      "Medical",
+      "Retail",
+      "Industrial",
+      "Logistics"
+    ],
+    "options": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ]
+  }
+]
