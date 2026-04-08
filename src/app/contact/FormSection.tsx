@@ -16,7 +16,6 @@ import { Poppins } from "next/font/google";
 import emailjs from "@emailjs/browser";
 import OrderButton from "@/components/Button";
 
-// ─── EmailJS Config ────────────────────────────────────────────
 const EMAILJS_SERVICE_ID  = "service_96en3q5";
 const EMAILJS_TEMPLATE_ID = "template_r5ojxl7";
 const EMAILJS_PUBLIC_KEY  = "H_E1zqUt0b52Y-RI4";
@@ -26,7 +25,6 @@ const poppins = Poppins({
   weight: ["300", "400", "500", "600", "700"],
 });
 
-// ─── Styles ────────────────────────────────────────────────────
 const inputSx = {
   mt: 1,
   "& .MuiOutlinedInput-root": {
@@ -70,7 +68,6 @@ const labelSx = {
   ml: 1,
 };
 
-// ─── Types ──────────────────────────────────────────────────────
 type ToastState = {
   open: boolean;
   severity: "success" | "error";
@@ -91,7 +88,6 @@ const INITIAL_FORM = {
   },
 };
 
-// ─── Component ──────────────────────────────────────────────────
 export default function FormSection() {
   const formRef = useRef<HTMLFormElement>(null);
   const [formData, setFormData] = useState(INITIAL_FORM);
@@ -99,7 +95,6 @@ export default function FormSection() {
   const [loading, setLoading] = useState(false);
   const [toast, setToast] = useState<ToastState>({ open: false, severity: "success", message: "" });
 
-  // ── Handlers ──────────────────────────────────────────────────
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
     const { name, value } = e.target;
     setFormData((prev) => ({ ...prev, [name]: value }));
@@ -116,7 +111,6 @@ export default function FormSection() {
     }));
   };
 
-  // ── Validation ────────────────────────────────────────────────
   const validate = () => {
     const newErrors: { [key: string]: string } = {};
     if (!formData.fullname.trim())
@@ -134,7 +128,6 @@ export default function FormSection() {
     return newErrors;
   };
 
-  // ── Submit ────────────────────────────────────────────────────
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
 
@@ -147,14 +140,12 @@ export default function FormSection() {
 
     setLoading(true);
 
-    // Build the template parameters — variable names must match the EmailJS template exactly
     const templateParams = {
       fullname:          formData.fullname,
       contactNumber:     formData.contactNumber,
       email:             formData.email,
       subject:           formData.subject,
       message:           formData.message,
-      // Checkboxes: send "Yes" / "No" to match text-based template variables
       orderRequest:      formData.options.orderRequest      ? "Yes" : "No",
       problemSubmission: formData.options.problemSubmission ? "Yes" : "No",
       collaboration:     formData.options.collaboration     ? "Yes" : "No",
@@ -175,7 +166,6 @@ export default function FormSection() {
         message: "Your inquiry has been sent successfully! We'll get back to you shortly.",
       });
 
-      // Reset form on success
       setFormData(INITIAL_FORM);
       setErrors({});
     } catch (err) {
@@ -195,11 +185,9 @@ export default function FormSection() {
     setToast((prev) => ({ ...prev, open: false }));
   };
 
-  // ── Render ────────────────────────────────────────────────────
   return (
     <Box sx={{ width: "100%", py: 4 }}>
 
-      {/* ── Heading ── */}
       <Box sx={{ textAlign: "center", mb: { xs: 6, md: 5 } }}>
         <Typography
           variant="h1"
@@ -218,7 +206,6 @@ export default function FormSection() {
         </Typography>
       </Box>
 
-      {/* ── Form ── */}
       <Box
         ref={formRef}
         component="form"
@@ -228,7 +215,6 @@ export default function FormSection() {
       >
         <Box sx={{ display: "flex", flexDirection: "column", gap: 2 }}>
 
-          {/* Row: Name / Contact / Email */}
           <Box sx={{ display: "flex", flexDirection: { xs: "column", md: "row" }, gap: 3 }}>
             <Box sx={{ flex: 1 }}>
               <Typography sx={labelSx}>Your Fullname *</Typography>
@@ -278,7 +264,6 @@ export default function FormSection() {
             </Box>
           </Box>
 
-          {/* Options checkboxes */}
           <Box>
             <Stack direction={{ xs: "column", sm: "row" }} flexWrap="wrap" spacing={{ xs: 1, sm: 4 }}>
               {[
@@ -307,7 +292,6 @@ export default function FormSection() {
             </Stack>
           </Box>
 
-          {/* Subject */}
           <Box>
             <Typography sx={labelSx}>Subject *</Typography>
             <TextField
@@ -324,7 +308,6 @@ export default function FormSection() {
             />
           </Box>
 
-          {/* Message */}
           <Box>
             <Typography sx={labelSx}>Message *</Typography>
             <TextField
@@ -343,7 +326,6 @@ export default function FormSection() {
             />
           </Box>
 
-          {/* Submit */}
           <Box sx={{ display: "flex", justifyContent: "flex-end", alignItems: "center", gap: 2 }}>
             {loading && <CircularProgress size={24} sx={{ color: "#629474" }} />}
             <OrderButton type="submit" disabled={loading}>
@@ -354,7 +336,6 @@ export default function FormSection() {
         </Box>
       </Box>
 
-      {/* ── Toast Notifications ── */}
       <Snackbar
         open={toast.open}
         autoHideDuration={6000}
