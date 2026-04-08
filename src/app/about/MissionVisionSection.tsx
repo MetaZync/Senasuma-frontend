@@ -4,6 +4,7 @@ import { Box, Typography, Stack, Container } from "@mui/material";
 import { Poppins } from "next/font/google";
 import OrderButton from "@/components/Button";
 import LogoCarousel from "@/components/LogoCarousel";
+import FadeIn from "@/components/FadeIn";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -36,6 +37,7 @@ export default function MissionVisionSection() {
         >
           {/* Card 1: Collaborations */}
           <Box
+            component={FadeIn} delay={0.1}
             sx={{
               flex: { xs: "1 1 100%", lg: "1.8 1 0" },
               width: "100%",
@@ -109,6 +111,7 @@ export default function MissionVisionSection() {
 
           {/* Card 2: Vision */}
           <Box
+            component={FadeIn} delay={0.2}
             sx={{
               flex: { xs: "1 1 100%", md: "1 1 calc(50% - 12px)", lg: "1 1 0" },
               backgroundColor: "#95C592",
@@ -158,6 +161,7 @@ export default function MissionVisionSection() {
 
           {/* Card 3: Mission */}
           <Box
+            component={FadeIn} delay={0.3}
             sx={{
               flex: { xs: "1 1 100%", md: "1 1 calc(50% - 12px)", lg: "1 1 0" },
               backgroundColor: "#527F65",

@@ -4,6 +4,7 @@ import React from "react";
 import { Box, Typography, Container } from "@mui/material";
 import { Poppins } from "next/font/google";
 import OrderButton from "@/components/Button";
+import FadeIn from "@/components/FadeIn";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -26,22 +27,25 @@ const BuildSolutionsSection: React.FC = () => {
       }}
     >
       <Container maxWidth="xl">
-        <Typography
-          sx={{
-            fontFamily: poppins.style.fontFamily,
-            fontSize: { xs: "28px", md: "42px", lg: "48px" },
-            fontWeight: 500,
-            color: "#000",
-            lineHeight: 1.2,
-            mb: 4,
-            maxWidth: "1100px",
-            mx: "auto",
-          }}
-        >
-          Let’s build solutions that elevate your brand while protecting the environment.
-        </Typography>
+        <FadeIn delay={0.1}>
+          <Typography
+            sx={{
+              fontFamily: poppins.style.fontFamily,
+              fontSize: { xs: "28px", md: "42px", lg: "48px" },
+              fontWeight: 500,
+              color: "#000",
+              lineHeight: 1.2,
+              mb: 4,
+              maxWidth: "1100px",
+              mx: "auto",
+            }}
+          >
+            Let’s build solutions that elevate your brand while protecting the environment.
+          </Typography>
+        </FadeIn>
 
-        <Box sx={{ display: "flex", justifyContent: "center" }}>
+        <FadeIn delay={0.2}>
+          <Box sx={{ display: "flex", justifyContent: "center" }}>
           <OrderButton
             onClick={() => {}}
             icon={
@@ -53,6 +57,7 @@ const BuildSolutionsSection: React.FC = () => {
             Order Now
           </OrderButton>
         </Box>
+        </FadeIn>
       </Container>
     </Box>
   );

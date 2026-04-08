@@ -16,6 +16,7 @@
     "@mui/material": "^7.3.9",
     "@mui/material-nextjs": "^7.3.9",
     "@wisp-cms/client": "^0.0.23",
+    "framer-motion": "^12.38.0",
     "gsap": "^3.14.2",
     "next": "16.2.1",
     "react": "19.2.4",

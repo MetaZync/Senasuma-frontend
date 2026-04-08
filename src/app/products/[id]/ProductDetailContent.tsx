@@ -13,6 +13,7 @@ import { Poppins } from "next/font/google";
 import ShoppingBagIcon from "@mui/icons-material/ShoppingBag";
 import StarIcon from "@mui/icons-material/Star";
 import OrderButton from "@/components/Button";
+import FadeIn from "@/components/FadeIn";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -51,6 +52,7 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
           alignItems="flex-start"
         >
           <Box
+            component={FadeIn} delay={0.1}
             sx={{
               flex: 1,
               width: "100%",
@@ -74,7 +76,7 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
             </Box>
           </Box>
 
-          <Box sx={{ flex: 1.2, width: "100%", px: { xs: 1, sm: 0 } }}>
+          <Box component={FadeIn} delay={0.2} sx={{ flex: 1.2, width: "100%", px: { xs: 1, sm: 0 } }}>
             <Typography
               variant="h1"
               sx={{

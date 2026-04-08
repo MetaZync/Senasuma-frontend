@@ -4,6 +4,7 @@ import React from "react";
 import { Box, Typography, Container, Grid } from "@mui/material";
 import { Poppins } from "next/font/google";
 import Image from "next/image";
+import FadeIn from "@/components/FadeIn";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -24,7 +25,8 @@ const SenasumaMehewara: React.FC = () => {
       }}
     >
       <Container maxWidth="xl">
-        <Box sx={{ textAlign: "center", mb: { xs: 6, md: 10 } }}>
+        <FadeIn delay={0.1}>
+          <Box sx={{ textAlign: "center", mb: { xs: 6, md: 10 } }}>
           <Typography
             sx={{
               fontFamily: poppins.style.fontFamily,
@@ -62,7 +64,9 @@ const SenasumaMehewara: React.FC = () => {
             </Typography>
           </Box>
         </Box>
+        </FadeIn>
 
+        <FadeIn delay={0.2}>
         <Box
           sx={{
             display: "grid",
@@ -324,9 +328,9 @@ const SenasumaMehewara: React.FC = () => {
                 Support Animal Welfare
               </Typography>
             </Box>
+            </Box>
           </Box>
-
-        </Box>
+        </FadeIn>
       </Container>
     </Box>
   );

@@ -4,6 +4,7 @@ import React, { useState } from "react";
 import { Box, Typography, Stack, IconButton, Pagination, Chip, Select, MenuItem, TextField, InputAdornment } from "@mui/material";
 import SearchIcon from "@mui/icons-material/Search";
 import ProductCard from "./ProductCard";
+import FadeIn from "@/components/FadeIn";
 import { Poppins } from "next/font/google";
 
 const poppins = Poppins({
@@ -105,6 +106,7 @@ export default function CardSection({ hideFilters, filterByType, title, excludeI
     <Box sx={{ py: { xs: 6, md: 10 }, px: { xs: 2, md: 4, lg: 8 } }}>
       {!hideFilters && (
         <Stack
+          component={FadeIn} delay={0.1}
           direction="row"
           sx={{
             justifyContent: { xs: "flex-start", md: "center" },
@@ -157,6 +159,7 @@ export default function CardSection({ hideFilters, filterByType, title, excludeI
 
       {!hideFilters ? (
         <Box
+          component={FadeIn} delay={0.2}
           sx={{
             display: "flex",
             flexDirection: { xs: "column", md: "row" },
@@ -268,6 +271,7 @@ export default function CardSection({ hideFilters, filterByType, title, excludeI
         </Box>
       ) : title ? (
         <Typography
+          component={FadeIn} delay={0.1}
           variant="h2"
           sx={{
             fontSize: { xs: "32px", md: "48px" },
@@ -283,6 +287,7 @@ export default function CardSection({ hideFilters, filterByType, title, excludeI
       ) : null}
 
       <Box
+        component={FadeIn} delay={0.3}
         sx={{
           display: "grid",
           gridTemplateColumns: {
@@ -309,7 +314,7 @@ export default function CardSection({ hideFilters, filterByType, title, excludeI
         ))}
       </Box>
 
-      <Box sx={{ mt: { xs: 8, md: 12 }, display: "flex", justifyContent: "center" }}>
+      <Box component={FadeIn} delay={0.4} sx={{ mt: { xs: 8, md: 12 }, display: "flex", justifyContent: "center" }}>
         <Pagination
           count={totalPages}
           page={page}

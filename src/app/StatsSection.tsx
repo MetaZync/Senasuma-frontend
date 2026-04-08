@@ -3,6 +3,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import { Box, Typography } from "@mui/material";
 import { Poppins } from "next/font/google";
+import FadeIn from "@/components/FadeIn";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -119,6 +120,7 @@ const StatsSection: React.FC = () => {
         width: "100%",
       }}
     >
+      <FadeIn delay={0.1}>
       <Box
         sx={{
           display: "flex",
@@ -152,6 +154,7 @@ const StatsSection: React.FC = () => {
           </Box>
         ))}
       </Box>
+      </FadeIn>
     </Box>
   );
 };

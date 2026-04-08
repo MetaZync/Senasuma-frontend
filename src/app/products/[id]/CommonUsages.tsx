@@ -5,6 +5,7 @@ import { Box, Typography, Container, Stack } from "@mui/material";
 import { Poppins } from "next/font/google";
 import Image from "next/image";
 import { commonUsagesMap } from "./CommonUsageData";
+import FadeIn from "@/components/FadeIn";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -93,6 +94,7 @@ export default function CommonUsages({ usages }: CommonUsagesProps) {
     <Box sx={{ backgroundColor: "#ffffff", py: 10 }}>
       <Container maxWidth="xl">
         <Typography
+          component={FadeIn} delay={0.1}
           variant="h2"
           sx={{
             textAlign: "center",
@@ -107,6 +109,7 @@ export default function CommonUsages({ usages }: CommonUsagesProps) {
         </Typography>
 
         <Stack
+          component={FadeIn} delay={0.2}
           direction="row"
           useFlexGap
           sx={{

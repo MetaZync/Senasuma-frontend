@@ -5,6 +5,7 @@ import { Box, Typography, Container } from "@mui/material";
 import { Poppins } from "next/font/google";
 import OrderButton from "../components/Button";
 import Image from "next/image";
+import FadeIn from "@/components/FadeIn";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -25,24 +26,25 @@ const SustainabilitySection: React.FC = () => {
       }}
     >
       <Container maxWidth="lg">
-        <Box
-          sx={{
-            mb: 2,
-            display: "flex",
-            justifyContent: "center",
-            alignItems: "center",
-          }}
-        >
-          <Image
-            src="/Assets/GreenRoundLogo.webp"
-            alt="Sustainability"
-            width={120}
-            height={120}
-            style={{ objectFit: "contain" }}
-          />
-        </Box>
+        <FadeIn delay={0.1}>
+          <Box
+            sx={{
+              mb: 2,
+              display: "flex",
+              justifyContent: "center",
+              alignItems: "center",
+            }}
+          >
+            <Image
+              src="/Assets/GreenRoundLogo.webp"
+              alt="Sustainability"
+              width={120}
+              height={120}
+              style={{ objectFit: "contain" }}
+            />
+          </Box>
 
-        <Typography
+          <Typography
           sx={{
             fontFamily: poppins.style.fontFamily,
             fontSize: {xs: "12px", sm: "14px", md: "16px", lg: "18px"},
@@ -53,9 +55,11 @@ const SustainabilitySection: React.FC = () => {
           }}
         >
           Sustainability
-        </Typography>
+          </Typography>
+        </FadeIn>
 
-        <Typography
+        <FadeIn delay={0.2}>
+          <Typography
           variant="h2"
           sx={{
             fontFamily: poppins.style.fontFamily,
@@ -69,13 +73,16 @@ const SustainabilitySection: React.FC = () => {
           }}
         >
           Eco-efficient facilities of Senasuma Polythene strict quality benchmarks, and long-term partnerships allow us to create packaging that is durable, ethical, and aligned with global sustainability standards.
-        </Typography>
+          </Typography>
+        </FadeIn>
 
-        <Box sx={{ display: "flex", justifyContent: "center" }}>
+        <FadeIn delay={0.3}>
+          <Box sx={{ display: "flex", justifyContent: "center" }}>
           <OrderButton href="/products">
             Explore Products
-          </OrderButton>
-        </Box>
+            </OrderButton>
+          </Box>
+        </FadeIn>
       </Container>
     </Box>
   );

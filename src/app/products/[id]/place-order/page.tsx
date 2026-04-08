@@ -20,6 +20,7 @@ import CloseIcon from "@mui/icons-material/Close";
 import CheckIcon from "@mui/icons-material/Check";
 import AddIcon from "@mui/icons-material/Add";
 import DeleteIcon from "@mui/icons-material/Delete";
+import FadeIn from "@/components/FadeIn";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -128,6 +129,7 @@ export default function PlaceOrderPage() {
     <Box sx={{ minHeight: "100vh", backgroundColor: "#ffffff", pt: { xs: 12, md: 16 } }}>
       <Container maxWidth="lg" sx={{ py: { xs: 6, md: 10 } }}>
         <Typography
+          component={FadeIn} delay={0.1}
           variant="h3"
           align="center"
           sx={{
@@ -141,7 +143,7 @@ export default function PlaceOrderPage() {
           Place Your Order
         </Typography>
 
-        <Box sx={{ display: 'grid', gridTemplateColumns: { xs: '1fr', md: 'repeat(3, 1fr)' }, gap: 4, mb: 4 }}>
+        <Box component={FadeIn} delay={0.2} sx={{ display: 'grid', gridTemplateColumns: { xs: '1fr', md: 'repeat(3, 1fr)' }, gap: 4, mb: 4 }}>
           <Box>
             <Typography sx={{ mb: 1, fontFamily: poppins.style.fontFamily, fontSize: "14px", fontWeight: 500 }}>
               Your Fullname
@@ -190,7 +192,7 @@ export default function PlaceOrderPage() {
           const optionsList = selectedProd?.options?.length ? selectedProd.options : [];
           
           return (
-            <Box key={item.id} sx={{ mb: 4 }}>
+            <Box component={FadeIn} delay={0.3} key={item.id} sx={{ mb: 4 }}>
               <Box sx={{ display: "flex", justifyContent: "space-between", alignItems: "center", mb: 2 }}>
                 <Typography sx={{ fontFamily: poppins.style.fontFamily, fontWeight: 600 }}>
                   Product #{index + 1}
@@ -293,7 +295,7 @@ export default function PlaceOrderPage() {
 
         <Box sx={{ borderBottom: "1px solid #eaeaea", mb: 4 }} />
 
-        <Box sx={{ display: "flex", flexDirection: "column", alignItems: "flex-end", mb: 4 }}>
+        <Box component={FadeIn} delay={0.4} sx={{ display: "flex", flexDirection: "column", alignItems: "flex-end", mb: 4 }}>
           <Typography sx={{ fontFamily: poppins.style.fontFamily, fontSize: "18px", fontWeight: 500, mb: 1 }}>
             Total Order Price
           </Typography>

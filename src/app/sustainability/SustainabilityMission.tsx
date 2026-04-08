@@ -5,6 +5,7 @@ import Image from "next/image";
 import { Poppins } from "next/font/google";
 import OrderButton from "../../components/Button";
 import GreenSrilanka from "../../../public/Assets/GreenSrilanka.webp";
+import FadeIn from "@/components/FadeIn";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -24,6 +25,7 @@ export default function SustainabilityMission() {
           }}
         >
           <Box
+            component={FadeIn} delay={0.1}
             sx={{
               flex: 1,
               display: {xs: "none", md: "flex"},
@@ -40,7 +42,7 @@ export default function SustainabilityMission() {
             />
           </Box>
 
-          <Box sx={{ flex: 1 }}>
+          <Box component={FadeIn} delay={0.2} sx={{ flex: 1 }}>
             <Box sx={{ maxWidth: "700px" }}>
               <Typography
                 variant="h2"

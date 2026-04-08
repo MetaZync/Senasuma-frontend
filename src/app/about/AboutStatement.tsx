@@ -2,6 +2,7 @@
 
 import { Box, Typography } from "@mui/material";
 import { Poppins } from "next/font/google";
+import FadeIn from "@/components/FadeIn";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -10,7 +11,7 @@ const poppins = Poppins({
 
 export default function AboutStatement() {
   return (
-    <Box
+    <Box component={FadeIn} delay={0.1}
       sx={{
         width: "100%",
         py: { xs: 10, sm: 14, md: 10 },

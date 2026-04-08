@@ -4,6 +4,7 @@ import React from "react";
 import { Box, Typography } from "@mui/material";
 import { Poppins } from "next/font/google";
 import Image from "next/image";
+import FadeIn from "@/components/FadeIn";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -29,16 +30,17 @@ const RecognizedSection: React.FC = () => {
         width: "100%",
       }}
     >
-      <Box 
-        sx={{ 
-          display: "flex", 
-          flexDirection: "column", 
-          alignItems: "center",
-          mb: { xs: 3, md: 5 } 
-        }}
-      >
+      <FadeIn delay={0.1}>
         <Box 
           sx={{ 
+            display: "flex", 
+            flexDirection: "column", 
+            alignItems: "center",
+            mb: { xs: 3, md: 5 } 
+          }}
+        >
+          <Box 
+            sx={{ 
             display: "flex", 
             alignItems: "center", 
             justifyContent: "center",
@@ -101,11 +103,13 @@ const RecognizedSection: React.FC = () => {
           }}
         >
           Innovation
-        </Typography>
-      </Box>
+          </Typography>
+        </Box>
+      </FadeIn>
 
-      <Typography
-        sx={{
+      <FadeIn delay={0.2}>
+        <Typography
+          sx={{
           fontFamily: poppins.style.fontFamily,
           fontSize: { xs: "12px", sm: "14px", md: "16px", lg: "18px" },
           fontWeight: 400,
@@ -121,7 +125,9 @@ const RecognizedSection: React.FC = () => {
         Senasuma has consistently been acknowledged for sustainable production practices and ethical 
         industrial operations.
       </Typography>
+      </FadeIn>
 
+      <FadeIn delay={0.3}>
       <Box
         sx={{
           display: "flex",
@@ -155,8 +161,9 @@ const RecognizedSection: React.FC = () => {
               style={{ objectFit: "contain" }}
             />
           </Box>
-        ))}
-      </Box>
+          ))}
+        </Box>
+      </FadeIn>
     </Box>
   );
 };
