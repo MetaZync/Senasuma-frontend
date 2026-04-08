@@ -67,7 +67,6 @@ export default function QuickLinks() {
 
   return (
     <Box sx={{ width: "100%", pt: 4, pb: 10 }}>
-      {/* Heading */}
       <Box sx={{ textAlign: "center", mb: 10 }}>
         <Typography
           sx={{
@@ -81,11 +80,10 @@ export default function QuickLinks() {
         </Typography>
       </Box>
 
-      {/* Address */}
-      <Box 
-        sx={{ 
-          maxWidth: "1100px", 
-          mx: "auto", 
+      <Box
+        sx={{
+          maxWidth: "1100px",
+          mx: "auto",
           mb: 10,
           display: "grid",
           gridTemplateColumns: { xs: "1fr", sm: "1fr 1fr" },
@@ -93,8 +91,19 @@ export default function QuickLinks() {
           px: { xs: 2, sm: 0 }
         }}
       >
-        {/* Hotline */}
-        <Box sx={{ display: "flex", alignItems: "center", gap: 3 }}>
+        <Box
+          component="a"
+          href="https://wa.me/94777796955"
+          target="_blank"
+          rel="noopener noreferrer"
+          sx={{
+            display: "flex", alignItems: "center", gap: 3,
+            textDecoration: "none",
+            cursor: "pointer",
+            transition: "transform 0.2s",
+            "&:hover": { transform: "translateY(-3px)" },
+          }}
+        >
           <Box sx={iconCircleSx}>
             <PhoneEnabledIcon sx={{ fontSize: "30px" }} />
           </Box>
@@ -104,8 +113,17 @@ export default function QuickLinks() {
           </Box>
         </Box>
 
-        {/* Email */}
-        <Box sx={{ display: "flex", alignItems: "center", gap: 3 }}>
+        <Box
+          component="a"
+          href="mailto:info@senasuma.lk"
+          sx={{
+            display: "flex", alignItems: "center", gap: 3,
+            textDecoration: "none",
+            cursor: "pointer",
+            transition: "transform 0.2s",
+            "&:hover": { transform: "translateY(-3px)" },
+          }}
+        >
           <Box sx={iconCircleSx}>
             <EmailIcon sx={{ fontSize: "30px" }} />
           </Box>
@@ -115,7 +133,6 @@ export default function QuickLinks() {
           </Box>
         </Box>
 
-        {/* Social Media */}
         <Box sx={{ display: "flex", alignItems: "center", gap: 3 }}>
           <Box sx={iconCircleSx}>
             <ShareIcon sx={{ fontSize: "28px" }} />
@@ -123,17 +140,28 @@ export default function QuickLinks() {
           <Box>
             <Typography sx={titleSx}>Social Media</Typography>
             <Stack direction="row" spacing={1.5} sx={{ mt: 0.5 }}>
-              <Link href="#" target="_blank"><FacebookIcon sx={socialIconSx} /></Link>
-              <Link href="#" target="_blank"><InstagramIcon sx={socialIconSx} /></Link>
-              <Link href="#" target="_blank"><LinkedInIcon sx={socialIconSx} /></Link>
-              <Link href="#" target="_blank"><XIcon sx={socialIconSx} /></Link>
-              <Link href="#" target="_blank"><YouTubeIcon sx={socialIconSx} /></Link>
+              <Link href="#"><FacebookIcon sx={socialIconSx} /></Link>
+              <Link href="#"><InstagramIcon sx={socialIconSx} /></Link>
+              <Link href="#"><LinkedInIcon sx={socialIconSx} /></Link>
+              <Link href="#"><XIcon sx={socialIconSx} /></Link>
+              <Link href="#"><YouTubeIcon sx={socialIconSx} /></Link>
             </Stack>
           </Box>
         </Box>
 
-        {/* Address */}
-        <Box sx={{ display: "flex", alignItems: "center", gap: 3 }}>
+        <Box
+          component="a"
+          href="https://www.google.com/maps/search/?api=1&query=Senasuma+Polythene+Center+Panadura+road+Henegama+Pokunuwita+Horana"
+          target="_blank"
+          rel="noopener noreferrer"
+          sx={{
+            display: "flex", alignItems: "center", gap: 3,
+            textDecoration: "none",
+            cursor: "pointer",
+            transition: "transform 0.2s",
+            "&:hover": { transform: "translateY(-3px)" },
+          }}
+        >
           <Box sx={iconCircleSx}>
             <LocationOnIcon sx={{ fontSize: "30px" }} />
           </Box>
@@ -148,12 +176,11 @@ export default function QuickLinks() {
         </Box>
       </Box>
 
-      {/* Map Container */}
-      <Box 
-        sx={{ 
-          width: "100%", 
-          maxWidth: "1100px", 
-          mx: "auto", 
+      <Box
+        sx={{
+          width: "100%",
+          maxWidth: "1100px",
+          mx: "auto",
           height: { xs: "350px", md: "520px" },
           borderRadius: "32px",
           overflow: "hidden",
@@ -163,14 +190,12 @@ export default function QuickLinks() {
         }}
       >
         <iframe
-          // Use the place name and full address to show the official business marker and title
-          // Set t=k for satellite view
           src="https://maps.google.com/maps?q=Senasuma%20Polythene%20Center,%20Panadura%20-%20Horana%20Rd,%20Pokunuwita%2012404&t=k&z=17&ie=UTF8&iwloc=&output=embed"
           width="100%"
           height="100%"
-          style={{ 
+          style={{
             border: 0,
-            filter: "contrast(1.2)" // Reduced filter to keep satellite colors natural but crisp
+            filter: "contrast(1.2)"
           }}
           allowFullScreen
           loading="lazy"

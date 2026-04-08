@@ -314,7 +314,7 @@ export default function CardSection({ hideFilters, filterByType, title, excludeI
         ))}
       </Box>
 
-      <Box component={FadeIn} delay={0.4} sx={{ mt: { xs: 8, md: 12 }, display: "flex", justifyContent: "center" }}>
+      <Box sx={{ mt: { xs: 8, md: 12 }, display: "flex", justifyContent: "center" }}>
         <Pagination
           count={totalPages}
           page={page}
@@ -339,7 +339,7 @@ export default function CardSection({ hideFilters, filterByType, title, excludeI
                 "&.Mui-disabled": {
                    opacity: 0.5,
                 },
-                visibility: type === 'page' || type === 'start-ellipsis' || type === 'end-ellipsis' ? 'visible' : 'hidden', // Hide prev/next for now to match image
+                visibility: type === 'page' || type === 'start-ellipsis' || type === 'end-ellipsis' ? 'visible' : 'hidden',
                 display: type === 'page' || type === 'start-ellipsis' || type === 'end-ellipsis' ? 'inline-flex' : 'none',
               }}
             >

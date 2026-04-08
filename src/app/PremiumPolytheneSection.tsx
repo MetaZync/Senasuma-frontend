@@ -89,7 +89,7 @@ const PremiumPolytheneSection: React.FC = () => {
               </Typography>
               <Box>
                 <OrderButton 
-                  onClick={() => {}}
+                  href="/contact"
                   icon={<CallIcon sx={{ fontSize: "18px" }} />}
                 >
                   Contact Now
