@@ -227,7 +227,7 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
                       color: "#ffffff !important",
                       fontFamily: poppins.style.fontFamily,
                       height: "50px",
-                      width: { xs: "100%", sm: "auto" },
+                      width: { xs: "auto", sm: "auto" },
                       minWidth: "200px",
                       fontSize: "14px",
                       borderRadius: "100px",
@@ -286,7 +286,7 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
                     sx={{
                       backgroundColor: "#629474 !important",
                       height: "50px",
-                      width: { xs: "100%", sm: "auto" },
+                      width: { xs: "auto", sm: "auto" },
                       minWidth: "200px",
                       fontSize: "14px",
                       borderRadius: "100px",
