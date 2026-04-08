@@ -44,27 +44,26 @@ interface ProductDetailContentProps {
 
 export default function ProductDetailContent({ product }: ProductDetailContentProps) {
   return (
-    <Box sx={{ backgroundColor: "#ffffff", pt: { xs: 14, sm: 16, md: 20, lg: 24 }, pb: 8 }}>
+    <Box sx={{ backgroundColor: "#ffffff", pt: { xs: 24, sm: 26, md: 20, lg: 24 }, pb: 8 }}>
       <Container maxWidth="xl">
         <Stack
           direction={{ xs: "column", md: "row" }}
           spacing={{ xs: 4, md: 8, lg: 12 }}
           alignItems="flex-start"
         >
-          <Box
-            component={FadeIn} delay={0.1}
-            sx={{
-              flex: 1,
-              width: "100%",
-              aspectRatio: "1/1.1",
-              borderRadius: { xs: "24px", md: "40px" },
-              display: "flex",
-              alignItems: "center",
-              justifyContent: "center",
-              overflow: "hidden",
-            }}
-          >
-            <Box sx={{ position: "relative", width: "80%", height: "80%" }}>
+          <FadeIn delay={0.1} style={{ flex: 1, width: "100%" }}>
+            <Box
+              sx={{
+                width: "100%",
+                borderRadius: { xs: "24px", md: "40px" },
+                display: "flex",
+                alignItems: "center",
+                justifyContent: "center",
+                overflow: "hidden",
+                position: "relative",
+                height: { xs: "320px", sm: "400px", md: "500px", lg: "600px" },
+              }}
+            >
               <Image
                 src={product.image}
                 alt={product.title}
@@ -74,9 +73,10 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
                 priority
               />
             </Box>
-          </Box>
+          </FadeIn>
 
-          <Box component={FadeIn} delay={0.2} sx={{ flex: 1.2, width: "100%", px: { xs: 1, sm: 0 } }}>
+          <FadeIn delay={0.2} style={{ flex: 1.2, width: "100%" }}>
+          <Box sx={{ px: { xs: 1, sm: 0 } }}>
             <Typography
               variant="h1"
               sx={{
@@ -302,6 +302,7 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
               </Box>
             </Stack>
           </Box>
+          </FadeIn>
         </Stack>
       </Container>
     </Box>

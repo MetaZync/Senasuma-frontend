@@ -188,7 +188,7 @@ export default function Header() {
             </Box>
 
             <Box sx={{ flex: 1, display: "flex", justifyContent: "flex-end" }}>
-              <Box sx={{ display: { xs: showNav ? "none" : "block", md: "block" } }}>
+              <Box sx={{ display: { xs: (showNav || isPlaceOrderPage || isProductDetailsPage) ? "none" : "block", md: "block" } }}>
                 <OrderButton href={buttonHref} icon={buttonIcon}>
                   {buttonText}
                 </OrderButton>
@@ -219,8 +219,8 @@ export default function Header() {
                   Products
                 </Typography>
               </Link>
-              <Typography sx={{ color: "#7a7a7a", fontWeight: {xs: 400, md: 700}, fontSize: {xs: "12px", md: "18px"} }}>{">"}</Typography>
-              
+              <Typography sx={{ color: "#7a7a7a", fontWeight: { xs: 400, md: 700 }, fontSize: { xs: "12px", md: "18px" } }}>{">"}</Typography>
+
               {isPlaceOrderPage ? (
                 <>
                   <Link href={`/products/${pathname?.split('/')[2]}`} style={{ textDecoration: "none" }}>
@@ -237,7 +237,7 @@ export default function Header() {
                       Product Details
                     </Typography>
                   </Link>
-                  <Typography sx={{ color: "#7a7a7a", fontWeight: {xs: 400, md: 700}, fontSize: {xs: "12px", md: "18px"} }}>{">"}</Typography>
+                  <Typography sx={{ color: "#7a7a7a", fontWeight: { xs: 400, md: 700 }, fontSize: { xs: "12px", md: "18px" } }}>{">"}</Typography>
                   <Typography
                     sx={{
                       fontSize: { xs: "14px", md: "18px" },
