@@ -64,7 +64,7 @@ export default function Header() {
   const buttonIcon = (isProductsPage || isProductDetailsPage || isPlaceOrderPage) ? (
     <PhoneIcon sx={{ fontSize: 20 }} />
   ) : undefined;
-  const buttonHref = (isProductsPage || isProductDetailsPage || isPlaceOrderPage) ? "tel:+94777796955" : "/products/1/place-order";
+  const buttonHref = (isProductsPage || isProductDetailsPage || isPlaceOrderPage) ? "/contact" : "/products/1/place-order";
 
   const navColor = useDarkNav ? "#111111" : "#fff";
   const activeIndicatorColor = useDarkNav ? "#000000ff" : "#fff";
@@ -116,6 +116,7 @@ export default function Header() {
                   gap: "0.7rem",
                   alignItems: "start",
                   flex: 1,
+                  zIndex: 1
                 }}
               >
                 {navLinks.map((item) => {

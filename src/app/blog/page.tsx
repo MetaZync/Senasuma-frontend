@@ -8,7 +8,7 @@ export const metadata = {
 
 export default function BlogPage() {
   return (
-    <Box component="main" sx={{ backgroundColor: "#ffffff", pt: 35 }}>
+    <Box component="main" sx={{ backgroundColor: "#ffffff", pt: {xs: 20, md: 35}, pb: {xs: 10, md: 10} }}>
       <BlogSection />
     </Box>
   );

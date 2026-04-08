@@ -97,6 +97,7 @@ export default function SustainabilityPractices() {
                   src={ImageOneLand}
                   alt="Recycling bags"
                   fill
+                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                   style={{ objectFit: "cover" }}
                 />
               </Box>
@@ -108,6 +109,7 @@ export default function SustainabilityPractices() {
                   src={ImageOnePort}
                   alt="Waste collection"
                   fill
+                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                   style={{ objectFit: "cover" }}
                 />
               </Box>
@@ -121,6 +123,7 @@ export default function SustainabilityPractices() {
                   src={ImageTwoPort}
                   alt="Recycled materials"
                   fill
+                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                   style={{ objectFit: "cover" }}
                 />
               </Box>
@@ -173,6 +176,7 @@ export default function SustainabilityPractices() {
                   src={ImageTwoLand}
                   alt="Rolls of materials"
                   fill
+                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                   style={{ objectFit: "cover" }}
                 />
               </Box>
@@ -228,6 +232,7 @@ export default function SustainabilityPractices() {
                   src={ImageThreeLand}
                   alt="Recycling bags"
                   fill
+                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                   style={{ objectFit: "cover" }}
                 />
               </Box>
@@ -239,6 +244,7 @@ export default function SustainabilityPractices() {
                   src={ImageThreePort}
                   alt="Waste collection"
                   fill
+                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                   style={{ objectFit: "cover" }}
                 />
               </Box>

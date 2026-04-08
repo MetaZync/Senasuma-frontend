@@ -158,7 +158,8 @@ export default function Home() {
               pointerEvents: "auto",
               flex: { xs: 1, lg: "none" },
               pb: { xs: 8, lg: 0 },
-              pt: { xs: 10, lg: 36 },
+              pt: { xs: 10, lg: 30 },
+              zIndex: 222222
             }}
           >
             <Box sx={{
@@ -177,7 +178,7 @@ export default function Home() {
 
             <Box sx={{
               height: { xs: "auto", lg: "160px" },
-              transform: { lg: "translateX(70px)" },
+              transform: { lg: "translateX(80px)" },
               transition: 'transform 0.4s ease',
               display: "flex",
               alignItems: "flex-start"
@@ -191,7 +192,7 @@ export default function Home() {
 
             <Box sx={{
               height: { xs: "auto", lg: "160px" },
-              transform: { lg: "translateX(60px)" },
+              transform: { lg: "translateX(80px)" },
               transition: 'transform 0.4s ease',
               display: "flex",
               alignItems: "flex-start"
@@ -205,7 +206,7 @@ export default function Home() {
 
             <Box sx={{
               height: { xs: "auto", lg: "160px" },
-              transform: { lg: "translateX(-10px)" },
+              transform: { lg: "translateX(20px)" },
               transition: 'transform 0.4s ease',
               display: "flex",
               alignItems: "flex-start"

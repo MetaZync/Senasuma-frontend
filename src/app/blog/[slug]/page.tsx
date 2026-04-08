@@ -90,6 +90,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
             src={post.image || "/Assets/HomeBackground.webp"}
             alt={post.title}
             fill
+            sizes="100vw"
             style={{ objectFit: "cover" }}
             priority
           />

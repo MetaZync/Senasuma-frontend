@@ -56,18 +56,14 @@ export default function BlogSection() {
   }
 
   return (
-    <Box sx={{ py: { xs: 8, md: 12 }, backgroundColor: "#ffffffff" }}>
-      <Container maxWidth="xl" sx={{ px: { xs: 2, md: 4, lg: 8 } }}>
+    <Box sx={{ py: { xs: 0, md: 12 }, backgroundColor: "#ffffff" }}>
+      <Container maxWidth="xl" sx={{ px: { xs: 1.5, sm: 2, md: 4, lg: 8 } }}>
         <Box
           sx={{
-            display: "grid",
-            gridTemplateColumns: {
-              xs: "repeat(2, 1fr)",
-              sm: "repeat(2, 1fr)",
-              md: "repeat(3, 1fr)",
-              lg: "repeat(4, 1fr)",
-            },
-            gap: { xs: 2, md: 4 },
+            display: "flex",
+            flexWrap: "wrap",
+            gap: { xs: 3, sm: 3, md: 5 },
+            justifyContent: "center",
             alignItems: "stretch",
           }}
         >
@@ -82,7 +78,7 @@ export default function BlogSection() {
           ))}
         </Box>
 
-        {totalPages > 1 && (
+        {totalPages > 0 && (
           <Box sx={{ mt: { xs: 8, md: 12 }, display: "flex", justifyContent: "center" }}>
             <Pagination
               count={totalPages}

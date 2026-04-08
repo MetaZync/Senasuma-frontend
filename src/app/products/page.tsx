@@ -6,7 +6,6 @@ export default function ProductsPage() {
   return (
     <Box sx={{ backgroundColor: "#ffffff", minHeight: "100vh" }}>
       <ProductsHero />
-
       <CardSection />
     </Box>
   );
