@@ -427,19 +427,6 @@ export default function PlaceOrderPage() {
                       </MenuItem>
                     ))}
                   </TextField>
-                  {index === orderItems.length - 1 && (
-                    <Button
-                      onClick={handleAddItem}
-                      startIcon={<AddIcon />}
-                      sx={{
-                        mt: 3, border: "1px dashed #6c6c6c", borderRadius: "30px",
-                        color: "#000", textTransform: "none", fontFamily: poppins.style.fontFamily,
-                        px: 3, py: 1, fontSize: "13px", "&:hover": { backgroundColor: "#f5f5f5" },
-                      }}
-                    >
-                      Add more products
-                    </Button>
-                  )}
                 </Box>
 
                 <Box>
@@ -494,6 +481,36 @@ export default function PlaceOrderPage() {
                     label={`Subtotal: LKR ${((((item.quantity as number) >= 500 ? selectedProd?.wholeSalePrice : selectedProd?.regularPrice) || 0) * (item.quantity as number)).toFixed(2)}`}
                     sx={{ fontFamily: poppins.style.fontFamily, fontWeight: 600, backgroundColor: "#f0faf3", color: "#629474", fontSize: "13px" }}
                   />
+                </Box>
+              )}
+
+              {index === orderItems.length - 1 && (
+                <Box sx={{ mt: 4, width: "100%" }}>
+                  <Box sx={{ display: { xs: "flex", md: "none" }, alignItems: "center", mb: 3 }}>
+                    <Divider sx={{ flex: 1, borderColor: "#eaeaea" }} />
+                    <Typography sx={{ px: 2, color: "#ccc", fontSize: "12px", fontFamily: poppins.style.fontFamily }}>
+                      Add More Items
+                    </Typography>
+                    <Divider sx={{ flex: 1, borderColor: "#eaeaea" }} />
+                  </Box>
+                  <Button
+                    onClick={handleAddItem}
+                    startIcon={<AddIcon />}
+                    sx={{
+                      border: "1px dashed #6c6c6c",
+                      borderRadius: "30px",
+                      color: "#000",
+                      textTransform: "none",
+                      fontFamily: poppins.style.fontFamily,
+                      px: 3,
+                      py: 1,
+                      fontSize: "13px",
+                      width: { xs: "100%", md: "auto" },
+                      "&:hover": { backgroundColor: "#f5f5f5" },
+                    }}
+                  >
+                    Add more products
+                  </Button>
                 </Box>
               )}
 
