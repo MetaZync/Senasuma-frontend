@@ -35,12 +35,19 @@ const poppins = Poppins({
   weight: ["300", "400", "500", "600", "700"],
 });
 
+interface ProductOption {
+  size: string;
+  regularPrice: number;
+  wholeSalePrice: number;
+}
+
 interface Product {
   id: number;
   title: string;
+  category: string;
   regularPrice: number;
   wholeSalePrice: number;
-  options?: string[];
+  options: ProductOption[];
 }
 
 interface OrderItem {
@@ -93,7 +100,7 @@ export default function PlaceOrderPage() {
           const productId = Number(id);
           const found = data.find((p) => p.id === productId);
           if (found) {
-            setOrderItems([{ id: Date.now().toString(), productId, option: found.options?.[0] || "", quantity: "" }]);
+            setOrderItems([{ id: Date.now().toString(), productId, option: found.options?.[0]?.size || "", quantity: "" }]);
           }
         }
       } catch (error) {
@@ -166,7 +173,7 @@ export default function PlaceOrderPage() {
     if (field === "productId") {
       const prod = productsData.find((p) => p.id === value);
       if (prod && prod.options && prod.options.length > 0) {
-        newItems[index].option = prod.options[0];
+        newItems[index].option = prod.options[0].size;
       } else {
         newItems[index].option = "";
       }
@@ -179,8 +186,11 @@ export default function PlaceOrderPage() {
     if (!item.productId || !item.quantity || typeof item.quantity !== "number") return sum;
     const prod = productsData.find((p) => p.id === item.productId);
     if (!prod) return sum;
-    const pricePer1000 = item.quantity >= 500 ? prod.wholeSalePrice : prod.regularPrice;
-    return sum + pricePer1000 * item.quantity;
+    const optionData = prod.options.find(opt => opt.size === item.option);
+    const regularPrice = optionData ? optionData.regularPrice : prod.regularPrice;
+    const wholeSalePrice = optionData ? optionData.wholeSalePrice : prod.wholeSalePrice;
+    const pricePerPack = item.quantity >= 500 ? wholeSalePrice : regularPrice;
+    return sum + pricePerPack * item.quantity;
   }, 0);
 
   const buildWhatsAppMessage = () => {
@@ -192,17 +202,20 @@ export default function PlaceOrderPage() {
 
     const itemLines = orderItems
       .map((item, i) => {
-        const prod = productsData.find((p) => p.id === item.productId);
-        const qty = item.quantity as number;
-        const price = qty >= 500 ? prod?.wholeSalePrice : prod?.regularPrice;
-        const subtotal = (price || 0) * qty;
-        return (
-          `  ${i + 1}. ${prod?.title || "Unknown Product"}\n` +
-          `     ├ Option  : ${item.option}\n` +
-          `     ├ Quantity: ${qty} Packs (${qty * 1000} pieces)\n` +
-          `     ├ Pricing : ${qty >= 500 ? "Wholesale" : "Regular"} Rate – LKR ${price?.toFixed(2)} / pack\n` +
-          `     └ Subtotal: LKR ${subtotal.toFixed(2)}`
-        );
+          const prod = productsData.find((p) => p.id === item.productId);
+          const qty = item.quantity as number;
+          const optionData = prod?.options.find(opt => opt.size === item.option);
+          const regularPrice = optionData ? optionData.regularPrice : (prod?.regularPrice || 0);
+          const wholeSalePrice = optionData ? optionData.wholeSalePrice : (prod?.wholeSalePrice || 0);
+          const price = qty >= 500 ? wholeSalePrice : regularPrice;
+          const subtotal = (price || 0) * qty;
+          return (
+            `  ${i + 1}. ${prod?.title || "Unknown Product"}\n` +
+            `     ├ Size    : ${item.option}\n` +
+            `     ├ Quantity: ${qty} Packs (${qty * 1000} pieces)\n` +
+            `     ├ Pricing : ${qty >= 500 ? "Wholesale" : "Regular"} Rate – LKR ${price?.toFixed(2)} / pack\n` +
+            `     └ Subtotal: LKR ${subtotal.toFixed(2)}`
+          );
       })
       .join("\n\n");
 
@@ -443,7 +456,7 @@ export default function PlaceOrderPage() {
                     disabled={optionsList.length === 0}
                   >
                     {optionsList.map((opt) => (
-                      <MenuItem key={opt} value={opt} sx={{ fontFamily: poppins.style.fontFamily }}>{opt}</MenuItem>
+                      <MenuItem key={opt.size} value={opt.size} sx={{ fontFamily: poppins.style.fontFamily }}>{opt.size}</MenuItem>
                     ))}
                   </TextField>
                 </Box>
@@ -478,7 +491,13 @@ export default function PlaceOrderPage() {
               {item.productId && item.quantity && (item.quantity as number) > 0 && (
                 <Box sx={{ mt: 2, display: "flex", justifyContent: "flex-end" }}>
                   <Chip
-                    label={`Subtotal: LKR ${((((item.quantity as number) >= 500 ? selectedProd?.wholeSalePrice : selectedProd?.regularPrice) || 0) * (item.quantity as number)).toFixed(2)}`}
+                    label={`Subtotal: LKR ${(() => {
+                      const optionData = selectedProd?.options.find(opt => opt.size === item.option);
+                      const regularPrice = optionData ? optionData.regularPrice : (selectedProd?.regularPrice || 0);
+                      const wholeSalePrice = optionData ? optionData.wholeSalePrice : (selectedProd?.wholeSalePrice || 0);
+                      const price = (item.quantity as number) >= 500 ? wholeSalePrice : regularPrice;
+                      return (price * (item.quantity as number)).toFixed(2);
+                    })()}`}
                     sx={{ fontFamily: poppins.style.fontFamily, fontWeight: 600, backgroundColor: "#f0faf3", color: "#629474", fontSize: "13px" }}
                   />
                 </Box>
@@ -756,7 +775,10 @@ export default function PlaceOrderPage() {
                 {orderItems.map((item, index) => {
                   const prod = productsData.find((p) => p.id === item.productId);
                   const qty = item.quantity as number;
-                  const price = qty >= 500 ? prod?.wholeSalePrice : prod?.regularPrice;
+                  const optionData = prod?.options.find(opt => opt.size === item.option);
+                  const regularPrice = optionData ? optionData.regularPrice : (prod?.regularPrice || 0);
+                  const wholeSalePrice = optionData ? optionData.wholeSalePrice : (prod?.wholeSalePrice || 0);
+                  const price = qty >= 500 ? wholeSalePrice : regularPrice;
                   const subtotal = (price || 0) * qty;
                   return (
                     <Box key={item.id} sx={{ mb: 1.5, p: 2, borderRadius: "10px", border: "1px solid #f0f0f0", backgroundColor: "#fff" }}>

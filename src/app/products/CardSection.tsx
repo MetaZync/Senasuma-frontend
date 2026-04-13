@@ -16,25 +16,26 @@ interface Product {
   id: number;
   title: string;
   tagline: string;
-  cardDescription: string;
+  mainDescription: string;
+  short_description: string;
   image: string;
-  type: string;
+  category: string;
   ratingFromFive: number;
   regularPrice: number;
+  commonUsages: string[];
 }
 
 const categories = [
   "All",
-  "Bags",
-  "Sheeting",
-  "Wrap",
-  "Tubing",
-  "Shrink Film",
-  "Tarpaulin",
-  "Liners",
-  "Packaging Film",
-  "Mulch Film",
-  "Bubble Wrap",
+  "Packaging Bags",
+  "Wrapping",
+  "Industrial Supplies",
+  "Protective Packaging",
+  "Tapes",
+  "Accessories",
+  "Storage Containers",
+  "Hardware",
+  "Agricultural Supplies",
 ];
 
 interface CardSectionProps {
@@ -76,7 +77,7 @@ export default function CardSection({ hideFilters, filterByType, title, excludeI
       if (excludeId && product.id === excludeId) return false;
       const matchesType =
         activeType === "All" ||
-        product.type.toLowerCase() === activeType.toLowerCase();
+        product.category.toLowerCase() === activeType.toLowerCase();
       const matchesSearch = product.title
         .toLowerCase()
         .includes(searchQuery.toLowerCase());
@@ -307,7 +308,8 @@ export default function CardSection({ hideFilters, filterByType, title, excludeI
             key={product.id}
             id={product.id}
             title={product.title}
-            cardDescription={product.cardDescription}
+            mainDescription={product.mainDescription}
+            short_description={product.short_description}
             tagline={product.tagline}
             image={product.image}
           />

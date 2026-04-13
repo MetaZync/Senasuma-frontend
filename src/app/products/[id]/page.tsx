@@ -60,7 +60,7 @@ export default function ProductDetailsPage() {
 
       <CardSection 
         hideFilters={true} 
-        filterByType={product.type} 
+        filterByType={product.category} 
         title="Related Products" 
         excludeId={product.id} 
       />

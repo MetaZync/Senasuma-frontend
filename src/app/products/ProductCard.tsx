@@ -18,7 +18,8 @@ interface ProductCardProps {
   image?: string;
   tagline?: string;
   title?: string;
-  cardDescription?: string;
+  mainDescription?: string;
+  short_description?: string;
 }
 
 export default function ProductCard({
@@ -26,8 +27,14 @@ export default function ProductCard({
   image = "/Assets/BagTemp.webp",
   tagline = "100% Recycled",
   title = "Polythene Bags",
-  cardDescription = "lightweight, durable, and waterproof packaging solutions",
+  mainDescription = "Our Premium Polythene Bags are designed for both everyday use and industrial-level applications.",
+  short_description,
 }: ProductCardProps) {
+  const getCardDescription = (text: string) => {
+    const words = text.split(/\s+/).filter(Boolean);
+    if (words.length <= 20) return text;
+    return words.slice(0, 20).join(" ") + "...";
+  };
   return (
     <Box
       sx={{
@@ -134,7 +141,7 @@ export default function ProductCard({
             fontFamily: poppins.style.fontFamily,
           }}
         >
-          {cardDescription}
+          {getCardDescription(short_description || mainDescription)}
         </Typography>
       </Box>
 

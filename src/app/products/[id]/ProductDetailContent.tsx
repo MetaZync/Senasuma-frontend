@@ -20,21 +20,40 @@ const poppins = Poppins({
   weight: ["300", "400", "500", "600", "700"],
 });
 
+export interface ProductOption {
+  size: string;
+  regularPrice: number;
+  wholeSalePrice: number;
+  special_notes?: string;
+}
+
 export interface Product {
     id: number;
     title: string;
+    product_name?: string;
     tagline: string;
-    type: string;
-    material: string;
-    cardDescription: string;
+    category: string;
+    sub_category?: string;
+    disposable?: string;
+    price_determined_by?: string;
     mainDescription: string;
+    short_description?: string;
+    features?: {
+      material?: string;
+      durability?: string;
+      waterproof?: string;
+      customizable?: string;
+      transparency?: string;
+      [key: string]: string | undefined;
+    };
+    commonUsages?: string[];
     ratingFromFive: number;
     ratingCount: number;
     neccessaryGoods: string[];
     regularPrice: number;
     wholeSalePrice: number;
-    commonUsages: string[];
     image: string;
+    options: ProductOption[];
   }
 
 import { necessaryGoodsIcons } from "./NecessaryGoodsData";
@@ -43,6 +62,14 @@ interface ProductDetailContentProps {
 }
 
 export default function ProductDetailContent({ product }: ProductDetailContentProps) {
+  const [selectedSize, setSelectedSize] = React.useState(product.options?.[0] || { size: "Default", regularPrice: product.regularPrice, wholeSalePrice: product.wholeSalePrice });
+
+  React.useEffect(() => {
+    if (product.options && product.options.length > 0) {
+      setSelectedSize(product.options[0]);
+    }
+  }, [product]);
+
   return (
     <Box sx={{ backgroundColor: "#ffffff", pt: { xs: 24, sm: 26, md: 20, lg: 24 }, pb: 8 }}>
       <Container maxWidth="xl">
@@ -94,12 +121,24 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
               sx={{
                 fontSize: { xs: "16px", md: "20px" },
                 color: "#000000",
-                fontWeight: 400,
+                fontWeight: 600,
+                fontFamily: poppins.style.fontFamily,
+                mb: { xs: 1, md: 1 },
+              }}
+            >
+              {product.category} {product.sub_category ? `| ${product.sub_category}` : ""}
+            </Typography>
+
+            <Typography
+              sx={{
+                fontSize: { xs: "14px", md: "16px" },
+                color: "#527F65",
+                fontWeight: 500,
                 fontFamily: poppins.style.fontFamily,
                 mb: { xs: 2, md: 3 },
               }}
             >
-              Material: {product.material}
+              {product.disposable && `${product.disposable} | `} Prices determined by {product.price_determined_by || "Pack"}
             </Typography>
 
             <Typography
@@ -177,6 +216,63 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
               </Stack>
             </Stack>
 
+            {product.options && product.options.length > 1 && (
+              <Box sx={{ mb: 4 }}>
+                <Typography
+                  sx={{
+                    fontSize: "16px",
+                    fontWeight: 600,
+                    fontFamily: poppins.style.fontFamily,
+                    mb: 1.5,
+                  }}
+                >
+                  Select Size
+                </Typography>
+                <Stack direction="row" spacing={0} sx={{ flexWrap: "wrap", gap: 2, justifyContent: "flex-start", mb: 2 }}>
+                  {product.options.map((option, index) => (
+                    <Box
+                      key={index}
+                      onClick={() => setSelectedSize(option)}
+                      sx={{
+                        px: 3,
+                        py: 1,
+                        borderRadius: "100px",
+                        border: "1px solid",
+                        borderColor: selectedSize.size === option.size ? "#629474" : "#e0e0e0",
+                        backgroundColor: selectedSize.size === option.size ? "#f0faf3" : "transparent",
+                        color: selectedSize.size === option.size ? "#629474" : "#000",
+                        cursor: "pointer",
+                        fontSize: "14px",
+                        fontFamily: poppins.style.fontFamily,
+                        fontWeight: 500,
+                        transition: "all 0.2s ease",
+                        "&:hover": {
+                          borderColor: "#629474",
+                          backgroundColor: "#f0faf3",
+                        },
+                      }}
+                    >
+                      {option.size}
+                    </Box>
+                  ))}
+                </Stack>
+                {selectedSize.special_notes && (
+                  <Typography
+                    sx={{
+                      fontSize: "13px",
+                      color: "#d32f2f",
+                      fontWeight: 500,
+                      fontFamily: poppins.style.fontFamily,
+                      fontStyle: "italic",
+                      mt: 1
+                    }}
+                  >
+                    * {selectedSize.special_notes}
+                  </Typography>
+                )}
+              </Box>
+            )}
+
             <Stack spacing={4} sx={{ maxWidth: "lg" }}>
               <Box>
                 <Typography
@@ -207,7 +303,7 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
                         fontFamily: poppins.style.fontFamily,
                       }}
                     >
-                      {product.regularPrice} LKR
+                      {selectedSize.regularPrice} LKR
                     </Typography>
                     <Typography
                       sx={{
@@ -268,7 +364,7 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
                         fontFamily: poppins.style.fontFamily,
                       }}
                     >
-                      {product.wholeSalePrice} LKR
+                      {selectedSize.wholeSalePrice} LKR
                     </Typography>
                     <Typography
                       sx={{

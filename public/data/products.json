@@ -1,1022 +1,3721 @@
 [
   {
     "id": 1,
-    "title": "Polythene Bags",
+    "title": "Sticker Bags – Convenient & Secure Packaging with Adhesive Seal",
+    "product_name": "Sticker Bags",
+    "category": "Packaging Bags",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Pack",
+    "mainDescription": "High-quality sticker bags with strong adhesive sealing, perfect for retail, gifts, and promotions. Available in various sizes for a professional and convenient packaging solution.",
+    "features": {
+      "material": "Low-Density Polyethylene (LDPE) or High-Density Polyethylene (HDPE)",
+      "durability": "lightweight for everyday handling",
+      "waterproof": "Protects contents from dust and moisture",
+      "customizable": "N/A",
+      "transparency": "Available in clear"
+    },
+    "commonUsages": [
+      "Eco-Friendly Packaging",
+      "Product Branding",
+      "Personalized Gift Bags",
+      "Event Packaging",
+      "Retail Packaging"
+    ],
     "tagline": "100% Recycled",
-    "type": "bags",
-    "material": "LDPE / HDPE premium-grade",
-    "cardDescription": "Lightweight, durable, and waterproof packaging solutions.",
-    "mainDescription": "Our Premium Polythene Bags are designed for both everyday use and industrial-level applications. Manufactured using high-quality LDPE and HDPE materials, these bags provide excellent strength, flexibility, and durability—making them suitable for packaging, storage, and transport across various industries.",
-    "ratingFromFive": 4.5,
-    "ratingCount": 203,
+    "image": "/Assets/ProductsImages/Sticker Bag.webp",
+    "ratingFromFive": 5,
+    "ratingCount": 199,
     "neccessaryGoods": [
       "eco-friendly",
-      "packaging",
-      "home-use"
+      "packaging"
     ],
-    "regularPrice": 12000,
-    "wholeSalePrice": 10000,
-    "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
-    ],
-    "image": "/Assets/BagTemp.webp",
+    "type": "packaging",
     "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
+      {
+        "size": "2½\" x 3\"",
+        "regularPrice": 320,
+        "wholeSalePrice": 300,
+        "special_notes": "No sales under 100"
+      },
+      {
+        "size": "3\" x 5\"",
+        "regularPrice": 350,
+        "wholeSalePrice": 330,
+        "special_notes": ""
+      },
+      {
+        "size": "5\" x 8\"",
+        "regularPrice": 420,
+        "wholeSalePrice": 400,
+        "special_notes": ""
+      },
+      {
+        "size": "6½\" x 9\"",
+        "regularPrice": 530,
+        "wholeSalePrice": 500,
+        "special_notes": ""
+      },
+      {
+        "size": "7\" x 10\"",
+        "regularPrice": 560,
+        "wholeSalePrice": 530,
+        "special_notes": ""
+      },
+      {
+        "size": "8\" x 10\"",
+        "regularPrice": 600,
+        "wholeSalePrice": 570,
+        "special_notes": ""
+      },
+      {
+        "size": "8\" x 12\"",
+        "regularPrice": 650,
+        "wholeSalePrice": 620,
+        "special_notes": ""
+      },
+      {
+        "size": "9\" x 12\"",
+        "regularPrice": 750,
+        "wholeSalePrice": 720,
+        "special_notes": ""
+      },
+      {
+        "size": "10\" x 14\"",
+        "regularPrice": 920,
+        "wholeSalePrice": 880,
+        "special_notes": ""
+      },
+      {
+        "size": "11\" x 14\"",
+        "regularPrice": 1000,
+        "wholeSalePrice": 950,
+        "special_notes": ""
+      },
+      {
+        "size": "11\" x 16\"",
+        "regularPrice": 1100,
+        "wholeSalePrice": 1050,
+        "special_notes": ""
+      },
+      {
+        "size": "12\" x 16\"",
+        "regularPrice": 1150,
+        "wholeSalePrice": 1100,
+        "special_notes": ""
+      },
+      {
+        "size": "13\" x 18\"",
+        "regularPrice": 1420,
+        "wholeSalePrice": 1370,
+        "special_notes": ""
+      },
+      {
+        "size": "14\" x 18\"",
+        "regularPrice": 1500,
+        "wholeSalePrice": 1450,
+        "special_notes": ""
+      },
+      {
+        "size": "16\" x 20\"",
+        "regularPrice": 0,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 320,
+    "wholeSalePrice": 300
   },
   {
     "id": 2,
-    "title": "Biodegradable Trash Bags",
-    "tagline": "100% Recycled",
-    "type": "bags",
-    "material": "Cornstarch-based polymer",
-    "cardDescription": "Eco-friendly waste disposal for a cleaner planet.",
-    "mainDescription": "Our Biodegradable Trash Bags are fully compostable and break down naturally within 6 months in a composting environment. They offer the same strength and leak resistance as tradition plastic bags but without the environmental footprint.",
-    "ratingFromFive": 4.8,
-    "ratingCount": 456,
-    "neccessaryGoods": [
-      "compostable",
-      "heavy-duty",
-      "eco-friendly"
-    ],
-    "regularPrice": 1500,
-    "wholeSalePrice": 1200,
+    "title": "Ziplock Bags – Secure & Convenient Packaging Solutions",
+    "product_name": "Ziplock Bags",
+    "category": "Packaging Bags",
+    "sub_category": "Ziplock Bags",
+    "disposable": "Disposable",
+    "price_determined_by": "Pack",
+    "mainDescription": "Premium resealable bags for secure storage, protecting against moisture, dust, and spills. Ideal for food, packaging, and organizing, available in various sizes and colors.",
+    "features": {
+      "material": "Made from High-Density Polyethylene (HDPE) or Low-Density Polyethylene (LDPE) for durability and flexibility.",
+      "durability": "Strong, tear-resistant, and stretchable, ensuring long-lasting use.",
+      "waterproof": "Provides excellent protection against moisture, dust, and other external elements.",
+      "customizable": "N/A",
+      "transparency": "Available in clear for visibility"
+    },
     "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
+      "storing food items",
+      "storing medical supplies",
+      "organizing items in domestic",
+      "organizing items in industrial settings"
     ],
-    "image": "/Assets/BagTemp.webp",
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/Ziplock bags.webp",
+    "ratingFromFive": 4.8,
+    "ratingCount": 98,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "packaging",
     "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
+      {
+        "size": "1¼\" x 1½\"",
+        "regularPrice": 300,
+        "wholeSalePrice": 250,
+        "special_notes": ""
+      },
+      {
+        "size": "1½\" x 1½\"",
+        "regularPrice": 250,
+        "wholeSalePrice": 230,
+        "special_notes": ""
+      },
+      {
+        "size": "1½\" x 2\"",
+        "regularPrice": 250,
+        "wholeSalePrice": 230,
+        "special_notes": ""
+      },
+      {
+        "size": "2\" x 3\"",
+        "regularPrice": 300,
+        "wholeSalePrice": 280,
+        "special_notes": ""
+      },
+      {
+        "size": "3\" x 4\"",
+        "regularPrice": 300,
+        "wholeSalePrice": 280,
+        "special_notes": ""
+      },
+      {
+        "size": "4\" x 4\"",
+        "regularPrice": 400,
+        "wholeSalePrice": 370,
+        "special_notes": ""
+      },
+      {
+        "size": "4\" x 6\"",
+        "regularPrice": 500,
+        "wholeSalePrice": 470,
+        "special_notes": ""
+      },
+      {
+        "size": "5\" x 6\"",
+        "regularPrice": 600,
+        "wholeSalePrice": 570,
+        "special_notes": ""
+      },
+      {
+        "size": "5\" x 7\"",
+        "regularPrice": 700,
+        "wholeSalePrice": 670,
+        "special_notes": ""
+      },
+      {
+        "size": "6\" x 8\"",
+        "regularPrice": 800,
+        "wholeSalePrice": 770,
+        "special_notes": ""
+      },
+      {
+        "size": "6\" x 9\"",
+        "regularPrice": 900,
+        "wholeSalePrice": 870,
+        "special_notes": ""
+      },
+      {
+        "size": "7\" x 10\"",
+        "regularPrice": 1100,
+        "wholeSalePrice": 1050,
+        "special_notes": ""
+      },
+      {
+        "size": "8\" x 10\"",
+        "regularPrice": 1250,
+        "wholeSalePrice": 1200,
+        "special_notes": ""
+      },
+      {
+        "size": "8\" x 12\"",
+        "regularPrice": 1350,
+        "wholeSalePrice": 1300,
+        "special_notes": ""
+      },
+      {
+        "size": "10\" x 12\"",
+        "regularPrice": 1850,
+        "wholeSalePrice": 1800,
+        "special_notes": ""
+      },
+      {
+        "size": "12\" x 15\"",
+        "regularPrice": 2800,
+        "wholeSalePrice": 2750,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 300,
+    "wholeSalePrice": 250
   },
   {
     "id": 3,
-    "title": "Paper Shopping Bags",
+    "title": "Ziplock Bags (White) – Secure & Convenient Packaging Solutions",
+    "product_name": "Ziplock bags (White)",
+    "category": "Packaging Bags",
+    "sub_category": "Ziplock Bags",
+    "disposable": "Disposable",
+    "price_determined_by": "Pack",
+    "mainDescription": "Durable and sleek, our white Ziplock bags offer a clean and professional look for your packaging needs. Perfect for storing and organizing a variety of products while ensuring safety and convenience.",
+    "features": {
+      "material": "",
+      "durability": "",
+      "waterproof": "",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [],
     "tagline": "100% Recycled",
-    "type": "bags",
-    "material": "Recycled Kraft Paper",
-    "cardDescription": "Sturdy and elegant bags for retail and gifting.",
-    "mainDescription": "High-quality Kraft paper shopping bags with reinforced handles. These bags are perfect for boutiques, grocery stores, and gift shops. They are 100% recyclable and made from post-consumer recycled content.",
-    "ratingFromFive": 4.2,
-    "ratingCount": 128,
+    "image": "/Assets/ProductsImages/Ziplock White Bag.webp",
+    "ratingFromFive": 4.9,
+    "ratingCount": 217,
     "neccessaryGoods": [
-      "recyclable",
-      "retail",
-      "sustainable"
+      "eco-friendly",
+      "packaging"
     ],
-    "regularPrice": 8000,
-    "wholeSalePrice": 6500,
-    "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
-    ],
-    "image": "/Assets/BagTemp.webp",
+    "type": "packaging",
     "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
+      {
+        "size": "4\" x 6\"",
+        "regularPrice": 20,
+        "wholeSalePrice": 18,
+        "special_notes": ""
+      },
+      {
+        "size": "5\" x 8\"",
+        "regularPrice": 30,
+        "wholeSalePrice": 28,
+        "special_notes": ""
+      },
+      {
+        "size": "6\" x 9\"",
+        "regularPrice": 35,
+        "wholeSalePrice": 33,
+        "special_notes": ""
+      },
+      {
+        "size": "7\" x 10\"",
+        "regularPrice": 40,
+        "wholeSalePrice": 38,
+        "special_notes": ""
+      },
+      {
+        "size": "8\" x 12\"",
+        "regularPrice": 45,
+        "wholeSalePrice": 43,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 20,
+    "wholeSalePrice": 18
   },
   {
     "id": 4,
-    "title": "Reusable Cotton Tote Bags",
+    "title": "Ziplock Bags (Black) – Secure & Convenient Packaging Solutions",
+    "product_name": "Ziplock bags (Black)",
+    "category": "Packaging Bags",
+    "sub_category": "Ziplock Bags",
+    "disposable": "Disposable",
+    "price_determined_by": "Pack",
+    "mainDescription": "Our black Ziplock bags provide an elegant and secure solution for storing items. Ideal for businesses seeking a stylish, durable option to keep contents safe, organized, and easily accessible.",
+    "features": {
+      "material": "",
+      "durability": "",
+      "waterproof": "",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [],
     "tagline": "100% Recycled",
-    "type": "sheeting",
-    "material": "100% Organic Cotton",
-    "cardDescription": "Durable and stylish alternative to single-use plastics.",
-    "mainDescription": "Our Organic Cotton Tote Bags are designed to last for years. With reinforced stitching and a spacious design, they are ideal for grocery shopping, school, or daily errands. Completely machine washable and plastic-free.",
-    "ratingFromFive": 4.9,
-    "ratingCount": 890,
+    "image": "/Assets/ProductsImages/Ziplock Bag Black.webp",
+    "ratingFromFive": 4.6,
+    "ratingCount": 210,
     "neccessaryGoods": [
-      "washable",
-      "reusable",
-      "organic"
+      "eco-friendly",
+      "packaging"
     ],
-    "regularPrice": 2500,
-    "wholeSalePrice": 1800,
-    "image": "/Assets/BagTemp.webp",
-    "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
-    ],
+    "type": "packaging",
     "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
+      {
+        "size": "4\" x 6\"",
+        "regularPrice": 28,
+        "wholeSalePrice": 18,
+        "special_notes": ""
+      },
+      {
+        "size": "5\" x 8\"",
+        "regularPrice": 30,
+        "wholeSalePrice": 28,
+        "special_notes": ""
+      },
+      {
+        "size": "6\" x 8\"",
+        "regularPrice": 35,
+        "wholeSalePrice": 33,
+        "special_notes": ""
+      },
+      {
+        "size": "7\" x 10\"",
+        "regularPrice": 40,
+        "wholeSalePrice": 38,
+        "special_notes": ""
+      },
+      {
+        "size": "8\" x 12\"",
+        "regularPrice": 45,
+        "wholeSalePrice": 43,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 28,
+    "wholeSalePrice": 18
   },
   {
     "id": 5,
-    "title": "Cardboard Shipping Boxes",
+    "title": "Ziplock Bags (Red/Green/Pink/Purple) – Secure & Convenient Packaging Solutions",
+    "product_name": "Ziplock bags (Red/ Green/ Pink/ Purple)",
+    "category": "Packaging Bags",
+    "sub_category": "Ziplock Bags",
+    "disposable": "Disposable",
+    "price_determined_by": "Pack",
+    "mainDescription": "Add a pop of color to your packaging with our vibrant Ziplock bags in red, green, pink, and purple. These bags are perfect for presenting products in an eye-catching way while offering secure storage.",
+    "features": {
+      "material": "",
+      "durability": "",
+      "waterproof": "",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [],
     "tagline": "100% Recycled",
-    "type": "sheeting",
-    "material": "Double-walled Corrugated Cardboard",
-    "cardDescription": "Heavy-duty protection for your shipping needs.",
-    "mainDescription": "Our corrugated cardboard boxes provide maximum protection for shipping fragile items. They are easy to assemble and 100% recyclable. Available in various sizes to fit all your logistics requirements.",
-    "ratingFromFive": 4.6,
-    "ratingCount": 567,
+    "image": "/Assets/ProductsImages/Ziplock Bag Color.webp",
+    "ratingFromFive": 4.9,
+    "ratingCount": 167,
     "neccessaryGoods": [
-      "heavy-duty",
-      "shipping",
-      "protective"
+      "eco-friendly",
+      "packaging"
     ],
-    "regularPrice": 45000,
-    "wholeSalePrice": 38000,
-    "image": "/Assets/BagTemp.webp",
-    "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
-    ],
+    "type": "packaging",
     "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
+      {
+        "size": "4\" x 6\"",
+        "regularPrice": 20,
+        "wholeSalePrice": 18,
+        "special_notes": ""
+      },
+      {
+        "size": "5\" x 8\"",
+        "regularPrice": 30,
+        "wholeSalePrice": 28,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 20,
+    "wholeSalePrice": 18
   },
   {
     "id": 6,
-    "title": "Glass Storage Jars",
-    "tagline": "100% Recycled",
-    "type": "sheeting",
-    "material": "Borosilicate Glass with Bamboo Lid",
-    "cardDescription": "Elegant and airtight storage for your kitchen.",
-    "mainDescription": "Upgrade your pantry with our borosilicate glass jars. Featuring airtight bamboo lids with silicone seals, these jars keep your food fresh and organized. BPA-free, lead-free, and heat-resistant.",
-    "ratingFromFive": 4.7,
-    "ratingCount": 312,
-    "neccessaryGoods": [
-      "airtight",
-      "kitchenware",
-      "plastic-free"
-    ],
-    "regularPrice": 3500,
-    "wholeSalePrice": 2800,
-    "image": "/Assets/BagTemp.webp",
+    "title": "Ziplock Bags (Aluminium) – Secure & Convenient Packaging Solutions",
+    "product_name": "Ziplock bags (Aluminum)",
+    "category": "Packaging Bags",
+    "sub_category": "Ziplock Bags",
+    "disposable": "Disposable",
+    "price_determined_by": "Pack",
+    "mainDescription": "Our aluminum Ziplock bags provide superior protection against moisture, air, and light. Perfect for storing food, electronics, or sensitive products, these bags ensure freshness and quality preservation.",
+    "features": {
+      "material": "",
+      "durability": "",
+      "waterproof": "",
+      "customizable": "N/A",
+      "transparency": ""
+    },
     "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
+      "Eco-Friendly Packaging"
     ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/Aluminium Ziplock Bag.webp",
+    "ratingFromFive": 4.8,
+    "ratingCount": 124,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "packaging",
     "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
+      {
+        "size": "4\" x 6\"",
+        "regularPrice": 20,
+        "wholeSalePrice": 18,
+        "special_notes": ""
+      },
+      {
+        "size": "5\" x 7\"",
+        "regularPrice": 30,
+        "wholeSalePrice": 28,
+        "special_notes": ""
+      },
+      {
+        "size": "6\" x 8\"",
+        "regularPrice": 35,
+        "wholeSalePrice": 33,
+        "special_notes": ""
+      },
+      {
+        "size": "7\" x 10\"",
+        "regularPrice": 40,
+        "wholeSalePrice": 38,
+        "special_notes": ""
+      },
+      {
+        "size": "8\" x 12\"",
+        "regularPrice": 45,
+        "wholeSalePrice": 43,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 20,
+    "wholeSalePrice": 18
   },
   {
     "id": 7,
-    "title": "Bamboo Straws",
+    "title": "Ziplock Bags (Gold) – Secure & Convenient Packaging Solutions",
+    "product_name": "Ziplock bags (Gold)",
+    "category": "Packaging Bags",
+    "sub_category": "Ziplock Bags",
+    "disposable": "Disposable",
+    "price_determined_by": "Pack",
+    "mainDescription": "Bring a touch of luxury to your packaging with our gold Ziplock bags. Offering both durability and an elegant appearance, these bags are perfect for high-end products and gifts.",
+    "features": {
+      "material": "",
+      "durability": "",
+      "waterproof": "",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [],
     "tagline": "100% Recycled",
-    "type": "wrap",
-    "material": "Natural Sustainable Bamboo",
-    "cardDescription": "The ultimate plastic straw alternative.",
-    "mainDescription": "Handcrafted from 100% natural bamboo, these straws are reusable, biodegradable, and chemical-free. Each set comes with a cleaning brush and a travel pouch for convenience on the go.",
-    "ratingFromFive": 4.4,
-    "ratingCount": 215,
-    "neccessaryGoods": [
-      "reusable",
-      "biodegradable",
-      "natural"
-    ],
-    "regularPrice": 1200,
-    "wholeSalePrice": 950,
     "image": "/Assets/BagTemp.webp",
-    "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
+    "ratingFromFive": 4.7,
+    "ratingCount": 59,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
     ],
+    "type": "packaging",
     "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
+      {
+        "size": "4\" x 6\"",
+        "regularPrice": 20,
+        "wholeSalePrice": 18,
+        "special_notes": ""
+      },
+      {
+        "size": "5\" x 8\"",
+        "regularPrice": 30,
+        "wholeSalePrice": 28,
+        "special_notes": ""
+      },
+      {
+        "size": "6\" x 8\"",
+        "regularPrice": 35,
+        "wholeSalePrice": 33,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 20,
+    "wholeSalePrice": 18
   },
   {
     "id": 8,
-    "title": "Compostable Plates",
+    "title": "Ziplock Bags (Kraft Paper) – Secure & Convenient Packaging Solutions",
+    "product_name": "Ziplock bags (Kraft Paper)",
+    "category": "Packaging Bags",
+    "sub_category": "Ziplock Bags",
+    "disposable": "Disposable",
+    "price_determined_by": "Pack",
+    "mainDescription": "Eco-friendly and functional, our Kraft paper Ziplock bags are ideal for businesses that prioritize sustainability. These bags are perfect for organic products and offer a rustic, natural appearance.",
+    "features": {
+      "material": "",
+      "durability": "",
+      "waterproof": "",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [],
     "tagline": "100% Recycled",
-    "type": "wrap",
-    "material": "Sugarcane Bagasse",
-    "cardDescription": "Durable disposable plates made from sugarcane fiber.",
-    "mainDescription": "Our sugarcane bagasse plates are microwave safe and liquid resistant. They are fully compostable in a home or industrial setting, providing a guilt-free solution for events and gatherings.",
-    "ratingFromFive": 4.3,
-    "ratingCount": 189,
-    "neccessaryGoods": [
-      "compostable",
-      "event-supply",
-      "microwave-safe"
-    ],
-    "regularPrice": 2200,
-    "wholeSalePrice": 1750,
     "image": "/Assets/BagTemp.webp",
-    "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
+    "ratingFromFive": 4.9,
+    "ratingCount": 222,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
     ],
+    "type": "packaging",
     "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
+      {
+        "size": "4\" x 6\"",
+        "regularPrice": 20,
+        "wholeSalePrice": 18,
+        "special_notes": ""
+      },
+      {
+        "size": "5\" x 7\"",
+        "regularPrice": 30,
+        "wholeSalePrice": 28,
+        "special_notes": ""
+      },
+      {
+        "size": "7\" x 10\"",
+        "regularPrice": 40,
+        "wholeSalePrice": 38,
+        "special_notes": ""
+      },
+      {
+        "size": "8\" x 12\"",
+        "regularPrice": 45,
+        "wholeSalePrice": 43,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 20,
+    "wholeSalePrice": 18
   },
   {
     "id": 9,
-    "title": "Recycled Paper Notebooks",
-    "tagline": "100% Recycled",
-    "type": "wrap",
-    "material": "100% Post-consumer Recycled Paper",
-    "cardDescription": "Sustainable stationery for the conscious creator.",
-    "mainDescription": "These notebooks are made from high-quality recycled paper that provides a smooth writing experience. The covers are made from recycled cardboard, and the ink used is soy-based.",
-    "ratingFromFive": 4.8,
-    "ratingCount": 423,
-    "neccessaryGoods": [
-      "eco-stationery",
-      "recycled",
-      "soy-ink"
-    ],
-    "regularPrice": 1800,
-    "wholeSalePrice": 1400,
-    "image": "/Assets/BagTemp.webp",
+    "title": "Tea Bags (Aluminum) – Premium Packaging for Freshness and Flavor",
+    "product_name": "Tea bags (Aluminum)",
+    "category": "Packaging Bags",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Keep your tea fresh and flavorful with our aluminum tea bags. Offering superior protection against moisture, air, and light, these bags help preserve the rich aroma and taste of your tea, ensuring a high-quality experience with every brew.",
+    "features": {
+      "material": "High-quality aluminum foil for maximum protection and freshness.",
+      "durability": "Strong, puncture-resistant, and tear-proof, ensuring secure packaging.",
+      "waterproof": "Provides an excellent barrier against moisture, preserving the tea's quality.",
+      "customizable": "N/A",
+      "transparency": ""
+    },
     "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
+      "packaging loose-leaf tea and herbs"
     ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 5,
+    "ratingCount": 71,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "packaging",
     "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
+      {
+        "size": "3\" x 4\" (25g)",
+        "regularPrice": 400,
+        "wholeSalePrice": 350,
+        "special_notes": ""
+      },
+      {
+        "size": "4\" x 5\" (50g)",
+        "regularPrice": 500,
+        "wholeSalePrice": 450,
+        "special_notes": ""
+      },
+      {
+        "size": "4\" x 6\" (100g)",
+        "regularPrice": 700,
+        "wholeSalePrice": 600,
+        "special_notes": ""
+      },
+      {
+        "size": "6\" x 8\" (250g)",
+        "regularPrice": 1000,
+        "wholeSalePrice": 900,
+        "special_notes": ""
+      },
+      {
+        "size": "7\" x 10\" (500g)",
+        "regularPrice": 1300,
+        "wholeSalePrice": 1250,
+        "special_notes": ""
+      },
+      {
+        "size": "8\" x 12\" (1kg)",
+        "regularPrice": 2000,
+        "wholeSalePrice": 1850,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 400,
+    "wholeSalePrice": 350
   },
   {
     "id": 10,
-    "title": "Hemp Twine",
-    "tagline": "100% Recycled",
-    "type": "tubing",
-    "material": "Natural Industrial Hemp Fiber",
-    "cardDescription": "Strong and eco-friendly cordage for any project.",
-    "mainDescription": "Natural hemp twine is biodegradable, strong, and UV resistant. It’s perfect for gardening, gift wrapping, and craft projects. No pesticides or herbicides are used in the cultivation of our hemp.",
-    "ratingFromFive": 4.5,
-    "ratingCount": 154,
-    "neccessaryGoods": [
-      "natural-fiber",
-      "gardening",
-      "craft"
-    ],
-    "regularPrice": 950,
-    "wholeSalePrice": 750,
-    "image": "/Assets/BagTemp.webp",
+    "title": "Vacuum Bags – Airtight Packaging for Maximum Freshness",
+    "product_name": "Vacuum bags (100g)",
+    "category": "Packaging Bags",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Optimize storage and preserve freshness with our 100g vacuum bags. Perfect for sealing small items, these bags protect your products from air, moisture, and dust, ensuring longer shelf life and enhanced organization.",
+    "features": {
+      "material": "Multi-layered food-grade plastic or aluminum composite for superior sealing.",
+      "durability": "Highly durable and puncture-resistant, ideal for long-term storage.",
+      "waterproof": "Airtight seal prevents moisture, air, and contaminants from entering.",
+      "customizable": "N/A",
+      "transparency": "Available in both clear and opaque finishes depending on product display needs."
+    },
     "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
+      "food processing",
+      "retail",
+      "export industries"
     ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 4.5,
+    "ratingCount": 129,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "packaging",
     "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
+      {
+        "size": "6\" x 9\"",
+        "regularPrice": 20,
+        "wholeSalePrice": 18,
+        "special_notes": ""
+      },
+      {
+        "size": "7\" x 10\"",
+        "regularPrice": 25,
+        "wholeSalePrice": 23,
+        "special_notes": ""
+      },
+      {
+        "size": "8\" x 10\"",
+        "regularPrice": 30,
+        "wholeSalePrice": 28,
+        "special_notes": ""
+      },
+      {
+        "size": "8\" x 12\"",
+        "regularPrice": 32,
+        "wholeSalePrice": 30,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 20,
+    "wholeSalePrice": 18
   },
   {
     "id": 11,
-    "title": "Kraft Paper Rolls",
-    "tagline": "100% Recycled",
-    "type": "tubing",
-    "material": "Unbleached Natural Kraft Paper",
-    "cardDescription": "Versatile wrapping paper for shipping and art.",
-    "mainDescription": "Large rolls of unbleached Kraft paper. Thick enough for protection during shipping, yet flexible enough for creative gift wrapping or school art projects. 100% compostable and recyclable.",
-    "ratingFromFive": 4.6,
-    "ratingCount": 278,
-    "neccessaryGoods": [
-      "versatile",
-      "industrial",
-      "recyclable"
-    ],
-    "regularPrice": 5500,
-    "wholeSalePrice": 4500,
-    "image": "/Assets/BagTemp.webp",
+    "title": "Courier Bags – Secure & Tamper-Proof Shipping Solutions",
+    "product_name": "Courier bags",
+    "category": "Packaging Bags",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Pack",
+    "mainDescription": "Ensure safe and secure shipping with our durable courier bags. Designed to withstand rough handling, these bags offer reliable protection for your packages, providing both strength and privacy for hassle-free delivery.",
+    "features": {
+      "material": "Made from high-quality LDPE (Low-Density Polyethylene) or co-extruded film.",
+      "durability": "Tear-resistant and puncture-proof, designed to withstand rough handling.",
+      "waterproof": "Provides complete protection against moisture and external elements.",
+      "customizable": "N/A",
+      "transparency": "Typically opaque for privacy"
+    },
     "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
+      "shipping documents",
+      "clothing",
+      "lightweight parcels in e-commerce",
+      "postal services",
+      "logistics"
     ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 4.6,
+    "ratingCount": 64,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "packaging",
     "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
+      {
+        "size": "7\" x 10\"",
+        "regularPrice": 1300,
+        "wholeSalePrice": 0,
+        "special_notes": "100 bags include in 1 pack"
+      },
+      {
+        "size": "8\" x 12\"",
+        "regularPrice": 1800,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      },
+      {
+        "size": "10\" x 14\"",
+        "regularPrice": 2000,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      },
+      {
+        "size": "14\" x 18\"",
+        "regularPrice": 3500,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 1300,
+    "wholeSalePrice": 0
   },
   {
     "id": 12,
-    "title": "Metal Water Bottles",
-    "tagline": "100% Recycled",
-    "type": "tubing",
-    "material": "Double-walled Stainless Steel",
-    "cardDescription": "Keep drinks cold for 24 hours or hot for 12 hours.",
-    "mainDescription": "Sleek and durable stainless steel water bottles. Vacuum-sealed technology ensures no condensation. BPA-free and leak-proof. A perfect companion for gyms, offices, and hiking trips.",
-    "ratingFromFive": 4.9,
-    "ratingCount": 1024,
-    "neccessaryGoods": [
-      "insultated",
-      "BPA-free",
-      "durable"
-    ],
-    "regularPrice": 4800,
-    "wholeSalePrice": 3900,
-    "image": "/Assets/BagTemp.webp",
+    "title": "Brown Paper Bags – Eco-Friendly & Stylish Carry Solutions",
+    "product_name": "Brown paper bags",
+    "category": "Wrapping",
+    "sub_category": "",
+    "disposable": "Non - Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Eco-friendly and versatile, our brown paper bags are perfect for packaging a variety of products. Made from sustainable materials, these bags offer durability and a natural look, making them ideal for retail, groceries, or eco-conscious businesses.",
+    "features": {
+      "material": "Made from kraft paper – biodegradable and recyclable.",
+      "durability": "Strong and tear-resistant, suitable for carrying medium-weight items.",
+      "waterproof": "Can be lined or coated for basic moisture resistance if required.",
+      "customizable": "N/A",
+      "transparency": "Opaque for a clean"
+    },
     "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
+      "used in retail",
+      "bakeries",
+      "groceries",
+      "cafes for packaging food",
+      "takeaway items"
     ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 4.9,
+    "ratingCount": 227,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "wrapping",
     "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
+      {
+        "size": "1\" x 16''",
+        "regularPrice": 150,
+        "wholeSalePrice": 140,
+        "special_notes": ""
+      },
+      {
+        "size": "1\" x 8\"",
+        "regularPrice": 220,
+        "wholeSalePrice": 200,
+        "special_notes": ""
+      },
+      {
+        "size": "1\" x 4\"",
+        "regularPrice": 420,
+        "wholeSalePrice": 400,
+        "special_notes": ""
+      },
+      {
+        "size": "1\" x 3\"",
+        "regularPrice": 780,
+        "wholeSalePrice": 750,
+        "special_notes": ""
+      },
+      {
+        "size": "1\" x 2\"",
+        "regularPrice": 880,
+        "wholeSalePrice": 850,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 150,
+    "wholeSalePrice": 140
   },
   {
     "id": 13,
-    "title": "Beeswax Wraps",
-    "tagline": "100% Recycled",
-    "type": "shrink film",
-    "material": "Organic Cotton, Beeswax, Jojoba Oil",
-    "cardDescription": "The natural alternative to plastic cling wrap.",
-    "mainDescription": "Washable and reusable food wraps made from organic cotton infused with sustainably harvested beeswax. They mold to the shape of your food, creating a breathable, protective seal.",
-    "ratingFromFive": 4.7,
-    "ratingCount": 387,
-    "neccessaryGoods": [
-      "washable",
-      "plastic-free",
-      "natural-seal"
-    ],
-    "regularPrice": 2900,
-    "wholeSalePrice": 2300,
-    "image": "/Assets/BagTemp.webp",
+    "title": "Garbage Bags – Reliable & Hygienic Waste Disposal Solution",
+    "product_name": "Garbage bags",
+    "category": "Industrial Supplies",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Strong, durable, and reliable, our garbage bags are designed to handle heavy loads and everyday waste. Available in various sizes, they offer excellent strength, leak resistance, and a secure solution for all your waste disposal needs.",
+    "features": {
+      "material": "Made from High-Density (HDPE) or Low-Density Polyethylene (LDPE), often recycled.",
+      "durability": "Tear-resistant and stretchable, capable of holding wet or heavy waste.",
+      "waterproof": "Prevents leaks and contains odors for cleaner waste management.",
+      "customizable": "N/A",
+      "transparency": "Available in black, opaque"
+    },
     "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
+      "collection and disposal of household",
+      "commercial",
+      "industrial waste"
     ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 4.6,
+    "ratingCount": 99,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "industrial",
     "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
+      {
+        "size": "Small: 18\" x 24\"",
+        "regularPrice": 850,
+        "wholeSalePrice": 100,
+        "special_notes": ""
+      },
+      {
+        "size": "Large: 26\" x 36\"",
+        "regularPrice": 1450,
+        "wholeSalePrice": 200,
+        "special_notes": ""
+      },
+      {
+        "size": "Extra Large: 30\" x 36\"",
+        "regularPrice": 1650,
+        "wholeSalePrice": 250,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 850,
+    "wholeSalePrice": 100
   },
   {
     "id": 14,
-    "title": "Silicon Food Pouches",
-    "tagline": "100% Recycled",
-    "type": "shrink film",
-    "material": "Food-grade Platinum Silicone",
-    "cardDescription": "Reusable bags for sous-vide, freezing, and snacks.",
-    "mainDescription": "These high-quality silicone bags are airtight and leak-proof. They can be used in the microwave, dishwasher, and even the oven. A one-time purchase that replaces thousands of plastic bags.",
-    "ratingFromFive": 4.8,
-    "ratingCount": 542,
-    "neccessaryGoods": [
-      "heat-resistant",
-      "airtight",
-      "reusable"
-    ],
-    "regularPrice": 3200,
-    "wholeSalePrice": 2550,
-    "image": "/Assets/BagTemp.webp",
+    "title": "White Bags – Clean & Versatile Packaging for Everyday Use",
+    "product_name": "White bags",
+    "category": "Industrial Supplies",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Simple yet versatile, our white bags are perfect for a range of packaging needs. Whether for retail, gift-giving, or general storage, these bags offer durability and a clean, professional look.",
+    "features": {
+      "material": "Made from LDPE, HDPE",
+      "durability": "Tear-resistant and flexible for light to medium-weight items.",
+      "waterproof": "Available in waterproof plastic variants to protect against moisture.",
+      "customizable": "N/A",
+      "transparency": "Opaque for a clean and professional presentation."
+    },
     "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
+      "retail packaging",
+      "garment packing",
+      "takeaway food",
+      "general-purpose storage"
     ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 4.9,
+    "ratingCount": 207,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "industrial",
     "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
+      {
+        "size": "7\" x 10\"",
+        "regularPrice": 220,
+        "wholeSalePrice": 200,
+        "special_notes": "No sales under 100. Price will be changed in quantity 1000"
+      },
+      {
+        "size": "8\" x 12\"",
+        "regularPrice": 260,
+        "wholeSalePrice": 240,
+        "special_notes": ""
+      },
+      {
+        "size": "10\" x 14\"",
+        "regularPrice": 430,
+        "wholeSalePrice": 410,
+        "special_notes": ""
+      },
+      {
+        "size": "12\" x 16\"",
+        "regularPrice": 620,
+        "wholeSalePrice": 600,
+        "special_notes": ""
+      },
+      {
+        "size": "14\" x 18\"",
+        "regularPrice": 880,
+        "wholeSalePrice": 850,
+        "special_notes": ""
+      },
+      {
+        "size": "16\" x 20\"",
+        "regularPrice": 1000,
+        "wholeSalePrice": 1970,
+        "special_notes": ""
+      },
+      {
+        "size": "18\" x 24\"",
+        "regularPrice": 1400,
+        "wholeSalePrice": 1350,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 220,
+    "wholeSalePrice": 200
   },
   {
     "id": 15,
-    "title": "Jute Sacks",
-    "tagline": "100% Recycled",
-    "type": "shrink film",
-    "material": "Natural Jute Fiber",
-    "cardDescription": "Traditional heavy-duty sacks for agricultural use.",
-    "mainDescription": "Heavy-duty jute sacks, also known as gunny bags. Highly breathable and strong, making them ideal for storing rice, beans, potatoes, and other agricultural products. 100% biodegradable.",
-    "ratingFromFive": 4.4,
-    "ratingCount": 167,
-    "neccessaryGoods": [
-      "breathable",
-      "agricultural",
-      "biodegradable"
-    ],
-    "regularPrice": 600,
-    "wholeSalePrice": 480,
-    "image": "/Assets/BagTemp.webp",
+    "title": "Thank You Bags – Polite & Practical Packaging for Customer Delight",
+    "product_name": "Thank you bags",
+    "category": "Industrial Supplies",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Show appreciation with our 'Thank You' bags, ideal for packaging gifts or retail items.",
+    "features": {
+      "material": "Made from LDPE or HDPE plastic",
+      "durability": "Strong and stretchable, suitable for light to medium-weight items.",
+      "waterproof": "Provides basic protection against spills and moisture.",
+      "customizable": "N/A",
+      "transparency": "Typically opaque"
+    },
     "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
+      "retail shops",
+      "boutiques",
+      "takeaway services",
+      "supermarkets"
     ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 4.9,
+    "ratingCount": 240,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "industrial",
     "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
+      {
+        "size": "Small: 10\" x 14\"",
+        "regularPrice": 550,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      },
+      {
+        "size": "Medium: 12\" x 16\"",
+        "regularPrice": 800,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      },
+      {
+        "size": "Large: 14\" x 18\"",
+        "regularPrice": 1100,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 550,
+    "wholeSalePrice": 0
   },
   {
     "id": 16,
-    "title": "Paper Bubble Wrap",
-    "tagline": "100% Recycled",
-    "type": "tarpaulin",
-    "material": "Honeycomb Die-cut Paper",
-    "cardDescription": "Eco-friendly alternative to plastic bubble wrap.",
-    "mainDescription": "Our honeycomb paper wrap expands to create a protective 3D layer for shipping fragile items. It eliminates the need for plastic wrap while providing excellent shock absorption and cushioning.",
-    "ratingFromFive": 4.6,
-    "ratingCount": 231,
-    "neccessaryGoods": [
-      "cushioning",
-      "recyclable",
-      "space-saving"
-    ],
-    "regularPrice": 7500,
-    "wholeSalePrice": 6200,
-    "image": "/Assets/BagTemp.webp",
+    "title": "Color Bags – Clean & Versatile Packaging for Everyday Use",
+    "product_name": "Color bags",
+    "category": "Industrial Supplies",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Add vibrancy and style to your packaging with our colorful range of bags. Available in a variety of hues, these bags are perfect for retail, gifting, and special occasions, offering both durability and a fun, eye-catching design.",
+    "features": {
+      "material": "Made from LDPE, HDPE",
+      "durability": "Tear-resistant and flexible for light to medium-weight items.",
+      "waterproof": "Available in waterproof plastic variants to protect against moisture.",
+      "customizable": "N/A",
+      "transparency": "Opaque for a clean and professional presentation."
+    },
     "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
+      "retail packaging",
+      "garment packing",
+      "takeaway food",
+      "general-purpose storage"
     ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 4.8,
+    "ratingCount": 228,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "industrial",
     "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
+      {
+        "size": "10\" x 14\"",
+        "regularPrice": 550,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      },
+      {
+        "size": "12\" x 16\"",
+        "regularPrice": 750,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      },
+      {
+        "size": "14\" x 18\"",
+        "regularPrice": 1100,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 550,
+    "wholeSalePrice": 0
   },
   {
     "id": 17,
-    "title": "Bio-plastic Cutlery",
-    "tagline": "100% Recycled",
-    "type": "tarpaulin",
-    "material": "CPLA (Crystallized Polylactic Acid)",
-    "cardDescription": "Heat-resistant compostable forks, knives, and spoons.",
-    "mainDescription": "CPLA cutlery is derived from renewable plant resources. Unlike standard PLA, these are reinforced to withstand temperatures up to 85°C. Sturdy, functional, and eco-friendly.",
-    "ratingFromFive": 4.2,
-    "ratingCount": 198,
-    "neccessaryGoods": [
-      "compostable",
-      "heat-resistant",
-      "plant-based"
-    ],
-    "regularPrice": 15,
-    "wholeSalePrice": 12,
-    "image": "/Assets/BagTemp.webp",
+    "title": "Tulip Bags – Elegant & Functional Packaging for Modern Needs",
+    "product_name": "Tulip bags",
+    "category": "Industrial Supplies",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Pack",
+    "mainDescription": "This black carrier bag features a gold tulip flower and the words \"Tulips.\" Durable and stylish, it's perfect for shopping or everyday use and features a convenient die-cut handle.",
+    "features": {
+      "material": "Made from durable plastic",
+      "durability": "Tear-resistant and shaped to securely hold items with aesthetic appeal.",
+      "waterproof": "Available in waterproof variants",
+      "customizable": "N/A",
+      "transparency": "Available in opaque"
+    },
     "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
+      "takeaway food",
+      "general-purpose storage"
     ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 4.7,
+    "ratingCount": 124,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "industrial",
     "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
+      {
+        "size": "Small: 10\" x 14\"",
+        "regularPrice": 500,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      },
+      {
+        "size": "Medium: 14\" x 18\"",
+        "regularPrice": 800,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      },
+      {
+        "size": "Large: 16\" x 20\"",
+        "regularPrice": 1000,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 500,
+    "wholeSalePrice": 0
   },
   {
     "id": 18,
-    "title": "Glass Bottles with Cork",
-    "tagline": "100% Recycled",
-    "type": "tarpaulin",
-    "material": "Recycled Flint Glass",
-    "cardDescription": "Aesthetic bottles for liquids and decorative use.",
-    "mainDescription": "Beautifully crafted glass bottles with premium natural cork stoppers. Ideal for syrups, infused oils, and decorative elements. Completely non-reactive and 100% endlessly recyclable.",
-    "ratingFromFive": 4.7,
-    "ratingCount": 276,
-    "neccessaryGoods": [
-      "non-reactive",
-      "recyclable",
-      "aesthetic"
-    ],
-    "regularPrice": 1100,
-    "wholeSalePrice": 880,
-    "image": "/Assets/BagTemp.webp",
+    "title": "Bubble Wrapping – Protective Cushioning for Safe Packaging",
+    "product_name": "Bubble wrapping",
+    "category": "Wrapping",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "",
+    "mainDescription": "Cushions fragile items for safe transport and storage, ensuring impact resistance and secure packaging.",
+    "features": {
+      "material": "Made from LDPE plastic with air-filled bubbles for cushioning.",
+      "durability": "Puncture-resistant and highly flexible for wrapping items of any shape.",
+      "waterproof": "Offers moisture resistance for additional protection.",
+      "customizable": "N/A",
+      "transparency": "Clear for visibility"
+    },
     "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
+      "used in e-commerce",
+      "electronics",
+      "logistics",
+      "fragile item shipping"
     ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 4.8,
+    "ratingCount": 190,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "wrapping",
     "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
+      {
+        "size": "",
+        "regularPrice": 0,
+        "wholeSalePrice": 120,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 0,
+    "wholeSalePrice": 120
   },
   {
     "id": 19,
-    "title": "Wooden Crates",
-    "tagline": "100% Recycled",
-    "type": "liners",
-    "material": "Sustainably Sourced Pine Wood",
-    "cardDescription": "Rustic and durable crates for storage and display.",
-    "mainDescription": "Sturdy pine wood crates with a rustic finish. These are perfect for retail displays, home organization, or as a classic shipping solution for heavy artisan products. Built to last.",
-    "ratingFromFive": 4.6,
-    "ratingCount": 143,
-    "neccessaryGoods": [
-      "stackable",
-      "sustainable",
-      "heavy-duty"
-    ],
-    "regularPrice": 4500,
-    "wholeSalePrice": 3600,
-    "image": "/Assets/BagTemp.webp",
+    "title": "Stretch Film – Secure & Flexible Wrapping for Load Stability",
+    "product_name": "Stretch film",
+    "category": "Protective Packaging",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "",
+    "mainDescription": "High-quality stretch film with excellent stretchability and tear resistance, perfect for wrapping pallets, boxes, and products for safe shipping and storage.",
+    "features": {
+      "material": "Made from Linear Low-Density Polyethylene (LLDPE).",
+      "durability": "High stretchability and tear resistance for secure wrapping.",
+      "waterproof": "Acts as a barrier against dust, dirt, and moisture.",
+      "customizable": "N/A",
+      "transparency": "Typically clear for easy identification"
+    },
     "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
+      "warehousing",
+      "shipping",
+      "logistics to wrap pallets",
+      "bundle products",
+      "secure goods during transport"
     ],
-    "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 4.9,
+    "ratingCount": 96,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "protective",
+    "options": [],
+    "regularPrice": 0,
+    "wholeSalePrice": 0
   },
   {
     "id": 20,
-    "title": "Fabric Produce Bags",
-    "tagline": "100% Recycled",
-    "type": "liners",
-    "material": "Cotton Mesh",
-    "cardDescription": "Lightweight bags for fresh fruit and vegetables.",
-    "mainDescription": "Eliminate single-use plastic bags in the produce aisle. These cotton mesh bags allow your fruits and vegetables to breathe, keeping them fresh for longer. Tag on the side shows the tare weight.",
-    "ratingFromFive": 4.8,
-    "ratingCount": 612,
-    "neccessaryGoods": [
-      "breathable",
-      "tare-weight-included",
-      "washable"
-    ],
-    "regularPrice": 1250,
-    "wholeSalePrice": 1000,
-    "image": "/Assets/BagTemp.webp",
+    "title": "Cling Film – Freshness-Preserving Wrap for Food & More",
+    "product_name": "Cling film",
+    "category": "Protective Packaging",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Pack",
+    "mainDescription": "High-quality cling film with excellent stretch and airtight sealing to preserve food freshness, moisture, and flavor.",
+    "features": {
+      "material": "Made from food-grade PVC (Polyvinyl Chloride) or PE (Polyethylene).",
+      "durability": "Thin yet strong and stretchable for a snug fit over containers and produce.",
+      "waterproof": "Provides a moisture barrier, keeping food fresh and protected.",
+      "customizable": "N/A",
+      "transparency": "Crystal clear for easy visibility of contents."
+    },
     "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
+      "used in households",
+      "restaurants",
+      "supermarkets",
+      "food processing industries to wrap and preserve food items"
     ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/Cling Film New.webp",
+    "ratingFromFive": 4.6,
+    "ratingCount": 192,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "protective",
     "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
+      {
+        "size": "12\" - 30m",
+        "regularPrice": 650,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      },
+      {
+        "size": "18\" - 20m",
+        "regularPrice": 750,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      },
+      {
+        "size": "12\" - 300m",
+        "regularPrice": 2250,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      },
+      {
+        "size": "18\" - 600m",
+        "regularPrice": 4750,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 650,
+    "wholeSalePrice": 0
   },
   {
     "id": 21,
-    "title": "Corrugated Sheets",
-    "tagline": "100% Recycled",
-    "type": "liners",
-    "material": "Recyclable Kraft Paperboards",
-    "cardDescription": "Protect surfaces and pack large items with ease.",
-    "mainDescription": "Flexible and lightweight corrugated paper sheets. Ideal for wrapping furniture during a move or as a protective layer between stacked goods in a container. High compression strength.",
-    "ratingFromFive": 4.3,
-    "ratingCount": 98,
-    "neccessaryGoods": [
-      "protective",
-      "industrial",
-      "recyclable"
-    ],
-    "regularPrice": 35000,
-    "wholeSalePrice": 29000,
-    "image": "/Assets/BagTemp.webp",
+    "title": "Shopping Bags – Convenient & Stylish Packaging for Retail",
+    "product_name": "Shopping bags",
+    "category": "Industrial Supplies",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Pack",
+    "mainDescription": "Perfect for retail and daily use, available in various sizes.",
+    "features": {
+      "material": "Available in plastic",
+      "durability": "Strong, tear-resistant, and capable of carrying medium to heavy items.",
+      "waterproof": "Available in waterproof versions for added protection against moisture.",
+      "customizable": "N/A",
+      "transparency": "Available in clear"
+    },
     "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
+      "used in retail stores",
+      "supermarkets",
+      "boutiques to carry purchased goods"
     ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/Shopping Bags.webp",
+    "ratingFromFive": 5,
+    "ratingCount": 139,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "industrial",
     "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
+      {
+        "size": "7 + 4 - Small (chicken bag)",
+        "regularPrice": 100,
+        "wholeSalePrice": 90,
+        "special_notes": ""
+      },
+      {
+        "size": "10 + 5 - Medium (MS bag)",
+        "regularPrice": 220,
+        "wholeSalePrice": 200,
+        "special_notes": ""
+      },
+      {
+        "size": "11 + 5 - Large (LS bag)",
+        "regularPrice": 420,
+        "wholeSalePrice": 400,
+        "special_notes": ""
+      },
+      {
+        "size": "13 + 7 - Jambo",
+        "regularPrice": 600,
+        "wholeSalePrice": 580,
+        "special_notes": ""
+      },
+      {
+        "size": "17 + 7 - King Jambo",
+        "regularPrice": 1300,
+        "wholeSalePrice": 1250,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 100,
+    "wholeSalePrice": 90
   },
   {
     "id": 22,
-    "title": "Recycled Tissue Paper",
-    "tagline": "100% Recycled",
-    "type": "packaging film",
-    "material": "100% Recycled Acid-free Tissue",
-    "cardDescription": "Premium wrapping for fragile gifts and products.",
-    "mainDescription": "Soft and acid-free tissue paper that won't damage delicate items. Perfect for wrapping jewelry, clothing, or for use in gift bags. Available in a variety of natural eco-friendly colors.",
-    "ratingFromFive": 4.5,
-    "ratingCount": 245,
-    "neccessaryGoods": [
-      "acid-free",
-      "soft-touch",
-      "biodegradable"
-    ],
-    "regularPrice": 6500,
-    "wholeSalePrice": 5200,
-    "image": "/Assets/BagTemp.webp",
+    "title": "Grocery Bags – Practical & Durable Carriers for Daily Essentials",
+    "product_name": "Grocery bags",
+    "category": "Industrial Supplies",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Pack",
+    "mainDescription": "Practical and sturdy, our grocery bags are designed to make shopping convenient. Available in various sizes, these bags provide reliable strength for carrying groceries, ensuring durability and sustainability with every use.",
+    "features": {
+      "material": "Made from HDPE, LDPE",
+      "durability": "Tear-resistant and capable of holding heavy and irregularly shaped items.",
+      "waterproof": "Plastic variants are moisture-resistant to protect goods.",
+      "customizable": "N/A",
+      "transparency": "Available in opaque"
+    },
     "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
+      "supermarkets",
+      "grocery stores",
+      "local markets to carry food items and household essentials"
     ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 4.6,
+    "ratingCount": 215,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "industrial",
     "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
+      {
+        "size": "5\" x 8\"",
+        "regularPrice": 250,
+        "wholeSalePrice": 230,
+        "special_notes": ""
+      },
+      {
+        "size": "7\" x 10\"",
+        "regularPrice": 350,
+        "wholeSalePrice": 330,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 250,
+    "wholeSalePrice": 230
   },
   {
     "id": 23,
-    "title": "Eco-friendly Labels",
-    "tagline": "100% Recycled",
-    "type": "packaging film",
-    "material": "Recycled Paper with Vegan Adhesive",
-    "cardDescription": "Sustainable labeling for your branded products.",
-    "mainDescription": "Print-friendly labels made from recycled paper. We use a natural vegan adhesive that doesn't compromise the recyclability of the package they are applied to. Durable and clear.",
-    "ratingFromFive": 4.4,
-    "ratingCount": 176,
-    "neccessaryGoods": [
-      "vegan-adhesive",
-      "printable",
-      "recyclable"
-    ],
-    "regularPrice": 8500,
-    "wholeSalePrice": 7000,
-    "image": "/Assets/BagTemp.webp",
+    "title": "Tapes – Versatile Sealing & Bonding Solutions for Packaging",
+    "product_name": "Tapes",
+    "category": "Tapes",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Reliable tapes with excellent adhesion for sealing, packaging, and general use. Ideal for shipping, office, and DIY projects.",
+    "features": {
+      "material": "Made from BOPP (Biaxially Oriented Polypropylene)",
+      "durability": "Strong adhesive with resistance to tearing and temperature variations.",
+      "waterproof": "Some variants are water-resistant or waterproof for extra protection.",
+      "customizable": "N/A",
+      "transparency": "Clear and opaque"
+    },
     "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
+      "packaging",
+      "shipping",
+      "office work",
+      "industrial applications"
     ],
-    "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
-  },
-  {
-    "id": 24,
-    "title": "Padded Envelopes",
     "tagline": "100% Recycled",
-    "type": "packaging film",
-    "material": "Recycled Kraft and Shredded Paper Cushion",
-    "cardDescription": "Plastic-free protection for mailing small items.",
-    "mainDescription": "Ditch the bubble mailers. These envelopes are padded with shredded recycled paper, providing excellent protection for documents and small items while being fully curbside recyclable.",
-    "ratingFromFive": 4.7,
-    "ratingCount": 321,
-    "neccessaryGoods": [
-      "curbside-recyclable",
-      "cushioned",
-      "sturdy"
-    ],
-    "regularPrice": 120,
-    "wholeSalePrice": 95,
-    "image": "/Assets/BagTemp.webp",
-    "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
-    ],
-    "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
-  },
-  {
-    "id": 25,
-    "title": "Gift Boxes",
-    "tagline": "100% Recycled",
-    "type": "mulch film",
-    "material": "Heavyweight Recycled Cardboard",
-    "cardDescription": "Elegant and sturdy boxes for premium presentation.",
-    "mainDescription": "Our collapsible gift boxes offer a premium look with an eco-friendly heart. They are easy to store flat and snap together in seconds. Perfect for corporate gifts or luxury retail.",
-    "ratingFromFive": 4.8,
-    "ratingCount": 156,
-    "neccessaryGoods": [
-      "premium-finish",
-      "collapsible",
-      "durable"
-    ],
-    "regularPrice": 450,
-    "wholeSalePrice": 380,
-    "image": "/Assets/BagTemp.webp",
-    "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
-    ],
-    "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
-  },
-  {
-    "id": 26,
-    "title": "Paper Straws",
-    "tagline": "100% Recycled",
-    "type": "mulch film",
-    "material": "FSC-certified Paper",
-    "cardDescription": "Durable and liquid-resistant paper straws.",
-    "mainDescription": "Engineered to last for hours in both hot and cold beverages. These paper straws use food-grade ink and adhesives, ensuring they are safe for you and the environment. 100% oceanic biodegradable.",
-    "ratingFromFive": 4.1,
-    "ratingCount": 567,
-    "neccessaryGoods": [
-      "FSC-certified",
-      "ocean-friendly",
-      "food-grade"
-    ],
-    "regularPrice": 800,
-    "wholeSalePrice": 650,
-    "image": "/Assets/BagTemp.webp",
-    "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
-    ],
-    "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
-  },
-  {
-    "id": 27,
-    "title": "Bamboo Cutlery Set",
-    "tagline": "100% Recycled",
-    "type": "mulch film",
-    "material": "Moso Bamboo",
-    "cardDescription": "Individual travel cutlery set with cloth wrap.",
-    "mainDescription": "Each set includes a fork, knife, spoon, and a set of chopsticks. Finished with a food-safe vegetable oil coating and housed in a washable cotton wrap. Lightweight and perfect for travel.",
-    "ratingFromFive": 4.9,
-    "ratingCount": 423,
-    "neccessaryGoods": [
-      "travel-friendly",
-      "vegetable-oil-finish",
-      "lightweight"
-    ],
-    "regularPrice": 2200,
-    "wholeSalePrice": 1800,
-    "image": "/Assets/BagTemp.webp",
-    "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
-    ],
-    "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
-  },
-  {
-    "id": 28,
-    "title": "Compostable Coffee Cups",
-    "tagline": "100% Recycled",
-    "type": "bubble wrap",
-    "material": "Paper with PLA Lining",
-    "cardDescription": "The perfect cup for hot coffee on the go.",
-    "mainDescription": "Unlike standard poly-lined cups, our coffee cups feature a plant-based PLA lining. They are fully compostable and keep beverages hot while protecting hands. Sustainably sourced paper.",
-    "ratingFromFive": 4.6,
-    "ratingCount": 894,
-    "neccessaryGoods": [
-      "compostable",
-      "heat-insulation",
-      "plant-lined"
-    ],
-    "regularPrice": 15000,
-    "wholeSalePrice": 12500,
-    "image": "/Assets/BagTemp.webp",
-    "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
-    ],
-    "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
-  },
-  {
-    "id": 29,
-    "title": "Recycled Plastic Bins",
-    "tagline": "100% Recycled",
-    "type": "bubble wrap",
-    "material": "Post-consumer Recycled Polypropylene",
-    "cardDescription": "Organize your space with recycled durable plastic.",
-    "mainDescription": "Sturdy and stackable storage bins made entirely from recycled household plastic waste. They provide a second life for plastics and help you declutter your home or office efficiently.",
+    "image": "/Assets/ProductsImages/Tan Tape.webp",
     "ratingFromFive": 4.5,
     "ratingCount": 134,
     "neccessaryGoods": [
-      "stackable",
-      "recycled-plastic",
-      "durable"
+      "eco-friendly",
+      "packaging"
     ],
-    "regularPrice": 3800,
-    "wholeSalePrice": 3100,
-    "image": "/Assets/BagTemp.webp",
-    "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
-    ],
+    "type": "tapes",
     "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
+      {
+        "size": "1/2\" - 20 yard",
+        "regularPrice": 30,
+        "wholeSalePrice": 70,
+        "special_notes": ""
+      },
+      {
+        "size": "1/2\" - 50m Clear",
+        "regularPrice": 60,
+        "wholeSalePrice": 50,
+        "special_notes": ""
+      },
+      {
+        "size": "1\" - 100m - Clear tape",
+        "regularPrice": 130,
+        "wholeSalePrice": 120,
+        "special_notes": ""
+      },
+      {
+        "size": "2\" - 100m Clear tape",
+        "regularPrice": 250,
+        "wholeSalePrice": 230,
+        "special_notes": ""
+      },
+      {
+        "size": "2\" - 100m Tan tape",
+        "regularPrice": 250,
+        "wholeSalePrice": 230,
+        "special_notes": ""
+      },
+      {
+        "size": "2\" - 300m Clear tape",
+        "regularPrice": 600,
+        "wholeSalePrice": 550,
+        "special_notes": ""
+      },
+      {
+        "size": "2\" - 300m Tan tape",
+        "regularPrice": 600,
+        "wholeSalePrice": 550,
+        "special_notes": ""
+      },
+      {
+        "size": "3\" - 100m Clear tape",
+        "regularPrice": 400,
+        "wholeSalePrice": 380,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 30,
+    "wholeSalePrice": 70
+  },
+  {
+    "id": 24,
+    "title": "Masking Tape – Easy-Apply Tape for Painting, Labeling & Light Bundling",
+    "product_name": "Masking tape",
+    "category": "Tapes",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Versatile and reliable, our masking tape is perfect for painting, crafting, and general use. With easy removal and a clean finish, it ensures crisp lines and protects surfaces from paint, making it a must-have tool for any project.",
+    "features": {
+      "material": "Made from crepe paper with pressure-sensitive adhesive.",
+      "durability": "Strong enough for light-duty tasks but easy to tear by hand.",
+      "waterproof": "Water-resistant varieties available; not suitable for high-moisture exposure.",
+      "customizable": "N/A",
+      "transparency": "Opaque"
+    },
+    "commonUsages": [
+      "painting",
+      "crafting",
+      "labeling",
+      "light-duty bundling tasks"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 4.9,
+    "ratingCount": 218,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "tapes",
+    "options": [
+      {
+        "size": "1\" - 20m",
+        "regularPrice": 100,
+        "wholeSalePrice": 90,
+        "special_notes": ""
+      },
+      {
+        "size": "1\" - 50m",
+        "regularPrice": 250,
+        "wholeSalePrice": 230,
+        "special_notes": ""
+      },
+      {
+        "size": "2\" - 20m",
+        "regularPrice": 200,
+        "wholeSalePrice": 180,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 100,
+    "wholeSalePrice": 90
+  },
+  {
+    "id": 25,
+    "title": "Double-Sided Tape – Invisible Bonding for Neat & Secure Fixing",
+    "product_name": "Double side tape",
+    "category": "Tapes",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Perfect for a variety of applications, our double-sided tape provides strong adhesion on both sides, ensuring secure bonding without the mess. Ideal for crafts, mounting, and packaging, it offers a clean and efficient solution for all your sticking needs.",
+    "features": {
+      "material": "Made from tissue, foam, or film with adhesive on both sides.",
+      "durability": "Strong adhesion for both temporary and permanent applications.",
+      "waterproof": "Available in moisture-resistant and weatherproof variants.",
+      "customizable": "N/A",
+      "transparency": "Available in white"
+    },
+    "commonUsages": [
+      "crafting",
+      "mounting",
+      "signage",
+      "packaging",
+      "office",
+      "industrial tasks where two surfaces need to be joined discreetly"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 4.6,
+    "ratingCount": 168,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "tapes",
+    "options": [
+      {
+        "size": "1\" - 10m",
+        "regularPrice": 120,
+        "wholeSalePrice": 110,
+        "special_notes": ""
+      },
+      {
+        "size": "2\" - 10m",
+        "regularPrice": 240,
+        "wholeSalePrice": 220,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 120,
+    "wholeSalePrice": 110
+  },
+  {
+    "id": 26,
+    "title": "Drinking Cups – Convenient & Hygienic Beverage Serving Solution",
+    "product_name": "Drinking Cup",
+    "category": "Accessories",
+    "sub_category": "Plastic Cup",
+    "disposable": "Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "High-quality cups perfect for daily use, parties, and events. Designed for reliability and available in various sizes for all beverage needs.",
+    "features": {
+      "material": "Made from paper",
+      "durability": "Leak-proof and sturdy enough to hold hot or cold drinks.",
+      "waterproof": "Designed to contain liquids without seepage",
+      "customizable": "N/A",
+      "transparency": "Available in clear"
+    },
+    "commonUsages": [
+      "used in food stalls",
+      "cafes",
+      "offices",
+      "parties",
+      "takeaway services to serve water",
+      "soft drinks",
+      "juices",
+      "hot beverages"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/Drinking Cup.webp",
+    "ratingFromFive": 4.6,
+    "ratingCount": 169,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "accessories",
+    "options": [
+      {
+        "size": "200ml",
+        "regularPrice": 750,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 750,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 27,
+    "title": "Yogurt Cup (Clear) – Transparent & Secure Packaging for Dairy and Desserts",
+    "product_name": "Yogurt Cup (Clear)",
+    "category": "Accessories",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Durable, transparent yogurt cups perfect for desserts and snacks. Ideal for personal and commercial use. Order now!",
+    "features": {
+      "material": "Made from clear food-grade PET or PP plastic.",
+      "durability": "Sturdy and crack-resistant for safe handling and transportation.",
+      "waterproof": "Leak-proof and moisture-resistant for wet or chilled contents.",
+      "customizable": "N/A",
+      "transparency": "Fully transparent for product visibility and appealing presentation."
+    },
+    "commonUsages": [
+      "used in dairy packaging",
+      "dessert presentation",
+      "takeaway counters"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/yogurt cup Clear.webp",
+    "ratingFromFive": 4.7,
+    "ratingCount": 64,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "accessories",
+    "options": [
+      {
+        "size": "80ml",
+        "regularPrice": 850,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 850,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 28,
+    "title": "Yogurt Cup (White) – Secure Packaging for Dairy and Desserts",
+    "product_name": "Yogurt Cup (White)",
+    "category": "Accessories",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Sturdy white yogurt cups for fresh and convenient servings. Ideal for dairy, desserts, and more. Order now!",
+    "features": {
+      "material": "Made from food-grade PET or PP plastic.",
+      "durability": "Strong, crack-resistant, and suitable for refrigeration.",
+      "waterproof": "Leak-proof construction ideal for dairy and semi-liquid contents.",
+      "customizable": "N/A",
+      "transparency": "Opaque white; offers a clean, minimalist look and protects contents from light."
+    },
+    "commonUsages": [
+      "used in dairy production",
+      "cafes",
+      "supermarkets",
+      "food delivery services"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/yogurt cup White.webp",
+    "ratingFromFive": 4.9,
+    "ratingCount": 61,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "accessories",
+    "options": [
+      {
+        "size": "80ml",
+        "regularPrice": 850,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 850,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 29,
+    "title": "Sauce Cup – Compact & Leak-Proof Containers for Dips & Condiments",
+    "product_name": "Sauce Cup",
+    "category": "Accessories",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "",
+    "features": {
+      "material": "Made from food-grade plastic (PP or PET)",
+      "durability": "Sturdy, crush-resistant, and safe for transport and stacking.",
+      "waterproof": "Leak-proof design with secure-fitting lids to prevent spills.",
+      "customizable": "N/A",
+      "transparency": "Available in opaque"
+    },
+    "commonUsages": [
+      "used in restaurants",
+      "takeaways",
+      "catering services",
+      "food delivery for serving sauces",
+      "chutneys",
+      "dressings",
+      "condiments"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/Sorce Cup.webp",
+    "ratingFromFive": 4.9,
+    "ratingCount": 162,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "accessories",
+    "options": [
+      {
+        "size": "30ml",
+        "regularPrice": 500,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 500,
+    "wholeSalePrice": 0
   },
   {
     "id": 30,
-    "title": "Eco-friendly Tape",
+    "title": "Cup – Versatile & Disposable Solution for Beverage Service",
+    "product_name": "Cup",
+    "category": "Accessories",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Ideal for serving hot and cold beverages, our high-quality cups are designed for durability and convenience. Available in various sizes to suit different needs.",
+    "features": {
+      "material": "Made from food-grade plastic (PP or PET)",
+      "durability": "Designed to withstand hot and cold liquids without leakage.",
+      "waterproof": "Leak-proof and moisture-resistant interior.",
+      "customizable": "N/A",
+      "transparency": "Available in opaque"
+    },
+    "commonUsages": [
+      "used in offices",
+      "events",
+      "restaurants",
+      "takeaway outlets for serving hot or cold beverages such as tea",
+      "coffee",
+      "juice",
+      "water"
+    ],
     "tagline": "100% Recycled",
-    "type": "bubble wrap",
-    "material": "Self-adhesive Paper Tape",
-    "cardDescription": "Strong and recyclable alternative to plastic tape.",
-    "mainDescription": "Our paper tape provides a strong, tamper-evident seal for your packages. It replaces traditional plastic tape and, most importantly, doesn't need to be removed from the box before recycling.",
-    "ratingFromFive": 4.7,
-    "ratingCount": 289,
+    "image": "/Assets/ProductsImages/Cup (130ml).webp",
+    "ratingFromFive": 4.9,
+    "ratingCount": 88,
     "neccessaryGoods": [
-      "tamper-evident",
-      "recyclable",
-      "strong-adhesive"
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "accessories",
+    "options": [
+      {
+        "size": "130ml",
+        "regularPrice": 500,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 500,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 31,
+    "title": "White Tub – Clean & Functional Packaging for Food & Storage",
+    "product_name": "White tub",
+    "category": "Accessories",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Durable white tubs perfect for storing, packaging, and serving various food items. Ideal for commercial and household use.",
+    "features": {
+      "material": "Made from high-quality, food-grade PP plastic.",
+      "durability": "Strong, reusable, and microwave-safe.",
+      "waterproof": "Leak-resistant design ideal for both hot and cold foods.",
+      "customizable": "N/A",
+      "transparency": "Opaque white for a clean"
+    },
+    "commonUsages": [
+      "Used in food services",
+      "delis",
+      "bakeries",
+      "catering for packaging ice cream",
+      "yogurt",
+      "sauces",
+      "curries",
+      "other semi-liquid items"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/White tub New.webp",
+    "ratingFromFive": 4.7,
+    "ratingCount": 57,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "accessories",
+    "options": [
+      {
+        "size": "180ml",
+        "regularPrice": 1500,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      },
+      {
+        "size": "250ml",
+        "regularPrice": 1800,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      },
+      {
+        "size": "1l",
+        "regularPrice": 3500,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 1500,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 32,
+    "title": "Clear Tub – Transparent & Leak-Proof Packaging for Food Visibility",
+    "product_name": "Clear tub",
+    "category": "Accessories",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Transparent tubs designed for secure storage and packaging of food items. Ideal for both commercial and household use.",
+    "features": {
+      "material": "Made from clear food-grade PET or PP plastic",
+      "durability": "Sturdy and designed for stacking and transport.",
+      "waterproof": "Secure-fitting lids prevent leaks and maintain freshness.",
+      "customizable": "N/A",
+      "transparency": "Fully transparent for excellent product visibility and appeal."
+    },
+    "commonUsages": [
+      "Storing and displaying desserts",
+      "salads",
+      "fruits",
+      "sauces",
+      "other ready-to-eat foods in restaurants",
+      "takeaways",
+      "retail settings"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/Clear Tub.webp",
+    "ratingFromFive": 4.8,
+    "ratingCount": 108,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "accessories",
+    "options": [
+      {
+        "size": "250ml",
+        "regularPrice": 1800,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      },
+      {
+        "size": "500ml",
+        "regularPrice": 2600,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
     ],
     "regularPrice": 1800,
-    "wholeSalePrice": 1500,
-    "image": "/Assets/BagTemp.webp",
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 33,
+    "title": "Paper-Based Products – Pro-Eco-Friendly & Convenient Disposable Solutions",
+    "product_name": "Paper Cup",
+    "category": "Accessories",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Lightweight and durable paper cups, perfect for serving hot and cold beverages. Ideal for cafes, events, and daily use.",
+    "features": {
+      "material": "Made from food-grade paper, often with a PE coating or biodegradable lining.",
+      "durability": "Designed for one-time use with enough strength to handle food and liquids.",
+      "waterproof": "Water and grease-resistant variants available",
+      "customizable": "N/A",
+      "transparency": ""
+    },
     "commonUsages": [
-      "Food Packaging",
-      "Agriculture",
-      "Textile",
-      "Medical",
-      "Retail",
-      "Industrial",
-      "Logistics"
+      "used in food service",
+      "parties",
+      "catering",
+      "takeaway outlets",
+      "cafes",
+      "events"
     ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 4.9,
+    "ratingCount": 80,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "accessories",
     "options": [
-      "XL",
-      "L",
-      "M",
-      "S"
-    ]
+      {
+        "size": "150ml",
+        "regularPrice": 500,
+        "wholeSalePrice": 520,
+        "special_notes": "Customers have to purchase the paper cup and lid separately."
+      },
+      {
+        "size": "250ml",
+        "regularPrice": 950,
+        "wholeSalePrice": 900,
+        "special_notes": ""
+      },
+      {
+        "size": "300ml",
+        "regularPrice": 1050,
+        "wholeSalePrice": 1000,
+        "special_notes": ""
+      },
+      {
+        "size": "400ml",
+        "regularPrice": 1450,
+        "wholeSalePrice": 1400,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 500,
+    "wholeSalePrice": 520
+  },
+  {
+    "id": 34,
+    "title": "Lid",
+    "product_name": "Lid",
+    "category": "Accessories",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "",
+    "mainDescription": "",
+    "features": {
+      "material": "",
+      "durability": "",
+      "waterproof": "",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [],
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 4.5,
+    "ratingCount": 87,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "accessories",
+    "options": [
+      {
+        "size": "",
+        "regularPrice": 400,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 400,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 35,
+    "title": "Paper-Based Products – Pro-Eco-Friendly & Convenient Disposable Solutions",
+    "product_name": "Paper tub",
+    "category": "Accessories",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Sturdy paper tubs perfect for packaging food items. Ideal for snacks, desserts, and takeaways, offering a sustainable solution for everyday use.",
+    "features": {
+      "material": "Made from food-grade paper, often with a PE coating or biodegradable lining.",
+      "durability": "Designed for one-time use with enough strength to handle food and liquids.",
+      "waterproof": "Water and grease-resistant variants available",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [
+      "used in food service",
+      "parties",
+      "catering",
+      "takeaway outlets",
+      "cafes",
+      "events"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/Paper Tub.webp",
+    "ratingFromFive": 4.9,
+    "ratingCount": 80,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "accessories",
+    "options": [
+      {
+        "size": "300ml",
+        "regularPrice": 1850,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 1850,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 36,
+    "title": "Paper Straw",
+    "product_name": "Paper Straw",
+    "category": "Accessories",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Environmentally friendly paper straws, perfect for beverages and reducing plastic waste. Strong, reliable, and compostable for a greener alternative.",
+    "features": {
+      "material": "",
+      "durability": "",
+      "waterproof": "",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [],
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 5,
+    "ratingCount": 219,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "accessories",
+    "options": [
+      {
+        "size": "6mm",
+        "regularPrice": 450,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      },
+      {
+        "size": "8mm",
+        "regularPrice": 550,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      },
+      {
+        "size": "10mm",
+        "regularPrice": 100,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 450,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 37,
+    "title": "Paper Serviette",
+    "product_name": "Paper serviette",
+    "category": "Accessories",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Pack",
+    "mainDescription": "Soft, absorbent paper serviettes ideal for meals, events, and everyday use. A convenient and eco-friendly option for dining and cleanup.",
+    "features": {
+      "material": "",
+      "durability": "",
+      "waterproof": "",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [],
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 4.9,
+    "ratingCount": 121,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "accessories",
+    "options": [
+      {
+        "size": "",
+        "regularPrice": 170,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 170,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 38,
+    "title": "Paper Plate",
+    "product_name": "Paper Plate",
+    "category": "Accessories",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Sturdy and disposable paper plates, perfect for parties, picnics, and everyday meals. A practical, eco-friendly option for serving food.",
+    "features": {
+      "material": "",
+      "durability": "",
+      "waterproof": "",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [],
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 4.7,
+    "ratingCount": 72,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "accessories",
+    "options": [
+      {
+        "size": "Small",
+        "regularPrice": 220,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      },
+      {
+        "size": "Large",
+        "regularPrice": 320,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 220,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 39,
+    "title": "PVC Tray – Durable & Reliable Packaging for Food & Goods",
+    "product_name": "PVC Tray",
+    "category": "Accessories",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Sturdy PVC trays ideal for serving, storing, and organizing items. Lightweight and easy to clean, perfect for both home and commercial use.",
+    "features": {
+      "material": "Made from food-grade PVC (Polyvinyl Chloride).",
+      "durability": "Strong, resistant to cracking and warping, and can handle heavy-duty use.",
+      "waterproof": "Waterproof surface for holding liquids without seepage.",
+      "customizable": "N/A",
+      "transparency": "Available in clear"
+    },
+    "commonUsages": [
+      "commonly used in food service",
+      "catering",
+      "retail",
+      "packaging industries"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/PVC Tray New.webp",
+    "ratingFromFive": 4.7,
+    "ratingCount": 87,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "accessories",
+    "options": [
+      {
+        "size": "100g",
+        "regularPrice": 1100,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      },
+      {
+        "size": "250g",
+        "regularPrice": 1750,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      },
+      {
+        "size": "500g",
+        "regularPrice": 2750,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 1100,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 40,
+    "title": "Storage & Packaging Boxes – Versatile Solutions for Organizing and Protecting Goods",
+    "product_name": "Transparent Box",
+    "category": "Storage Containers",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Sturdy and versatile transparent boxes, perfect for organizing and storing items. Ideal for showcasing products while keeping them secure and visible.",
+    "features": {
+      "material": "Transparent Box (Plastic or PET), Aluminium Box (Food-grade aluminum), Lunch Box (Plastic or Stainless Steel), Plastic Box (PP, PET, or HDPE)",
+      "durability": "Sturdy and resistant to cracking, breaking, and warping, ensuring long-lasting use.",
+      "waterproof": "Waterproof options available, preventing leaks and moisture damage.",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [
+      "used across various industries including food storage",
+      "retail packaging",
+      "household organization",
+      "shipping"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/Transparent Box.webp",
+    "ratingFromFive": 4.6,
+    "ratingCount": 138,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "storage",
+    "options": [],
+    "regularPrice": 0,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 41,
+    "title": "Aluminium Box",
+    "product_name": "Aluminium Box",
+    "category": "Storage Containers",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Durable aluminum boxes are perfect for storage and packaging. Lightweight, corrosion-resistant, and ideal for both commercial and personal use.",
+    "features": {
+      "material": "",
+      "durability": "",
+      "waterproof": "",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [
+      "retail packaging",
+      "household organization",
+      "shipping"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/Aluminium Box.webp",
+    "ratingFromFive": 5,
+    "ratingCount": 146,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "storage",
+    "options": [
+      {
+        "size": "250ml",
+        "regularPrice": 0,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      },
+      {
+        "size": "750ml",
+        "regularPrice": 0,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      },
+      {
+        "size": "1200ml",
+        "regularPrice": 0,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 0,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 42,
+    "title": "Lunch Box",
+    "product_name": "Lunch Box",
+    "category": "Storage Containers",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Durable and portable lunch boxes designed to keep your meals fresh. Ideal for school, work, or on-the-go. Perfect for easy and eco-friendly meal storage.",
+    "features": {
+      "material": "",
+      "durability": "",
+      "waterproof": "",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [],
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 5,
+    "ratingCount": 86,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "storage",
+    "options": [
+      {
+        "size": "Medium",
+        "regularPrice": 1350,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      },
+      {
+        "size": "Large",
+        "regularPrice": 1650,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 1350,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 43,
+    "title": "Plastic Box",
+    "product_name": "Plastic Box",
+    "category": "Storage Containers",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Durable plastic boxes ideal for storage, organization, and packaging. Lightweight, stackable, and perfect for both home and commercial use.",
+    "features": {
+      "material": "",
+      "durability": "",
+      "waterproof": "",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/Plastic box.webp",
+    "ratingFromFive": 4.8,
+    "ratingCount": 128,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "storage",
+    "options": [],
+    "regularPrice": 0,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 44,
+    "title": "PP Ball",
+    "product_name": "PP Ball",
+    "category": "Industrial Supplies",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "High-quality PP (Polypropylene) balls, perfect for various uses including packaging, decoration, and crafts. Lightweight and strong for versatile applications.",
+    "features": {
+      "material": "",
+      "durability": "",
+      "waterproof": "",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/PP Ball New.webp",
+    "ratingFromFive": 5,
+    "ratingCount": 89,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "industrial",
+    "options": [
+      {
+        "size": "Small",
+        "regularPrice": 50,
+        "wholeSalePrice": 0,
+        "special_notes": "Pack & 1"
+      },
+      {
+        "size": "Large",
+        "regularPrice": 1200,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 50,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 45,
+    "title": "PVC Sheet – Durable & Flexible Material for a Wide Range of Applications",
+    "product_name": "PVC Sheet",
+    "category": "Industrial Supplies",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "",
+    "mainDescription": "Versatile PVC sheets ideal for construction, signage, and various industrial applications. Lightweight, durable, and easy to cut, offering reliable performance for different projects.",
+    "features": {
+      "material": "Made from high-quality Polyvinyl Chloride (PVC).",
+      "durability": "Strong, impact-resistant, and capable of withstanding harsh environments.",
+      "waterproof": "Waterproof and resistant to moisture, making it ideal for both indoor and outdoor use.",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [
+      "used in a variety of industries",
+      "including construction",
+      "signage",
+      "packaging",
+      "automotive",
+      "manufacturing"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/PVC Sheets.webp",
+    "ratingFromFive": 4.6,
+    "ratingCount": 164,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "industrial",
+    "options": [
+      {
+        "size": "12mm",
+        "regularPrice": 300,
+        "wholeSalePrice": 250,
+        "special_notes": "Cut and roll (50m)"
+      },
+      {
+        "size": "15mm",
+        "regularPrice": 350,
+        "wholeSalePrice": 300,
+        "special_notes": ""
+      },
+      {
+        "size": "25mm",
+        "regularPrice": 500,
+        "wholeSalePrice": 450,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 300,
+    "wholeSalePrice": 250
+  },
+  {
+    "id": 46,
+    "title": "Table Cloth – Elegant & Protective Coverings for Dining Tables",
+    "product_name": "Table Cloth",
+    "category": "Industrial Supplies",
+    "sub_category": "",
+    "disposable": "Both",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Elegant and durable tablecloths, perfect for enhancing your dining experience. Protects surfaces while adding a decorative touch to any table setting.",
+    "features": {
+      "material": "Made from cotton, polyester, linen, or PVC-coated fabric.",
+      "durability": "Durable, stain-resistant, and designed to withstand frequent washing and use.",
+      "waterproof": "Waterproof options are available, ideal for preventing spills from damaging the surface beneath.",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [
+      "commonly used in homes",
+      "restaurants",
+      "hotels",
+      "event spaces to protect dining surfaces"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 4.6,
+    "ratingCount": 246,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "industrial",
+    "options": [
+      {
+        "size": "1 y",
+        "regularPrice": 0,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 0,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 47,
+    "title": "Shrink Film – Strong & Protective Packaging Solution",
+    "product_name": "shrink film",
+    "category": "Protective Packaging",
+    "sub_category": "",
+    "disposable": "Both",
+    "price_determined_by": "",
+    "mainDescription": "Durable shrink film for secure packaging and wrapping. Perfect for protecting products, enhancing presentation, and providing a tight, secure seal.",
+    "features": {
+      "material": "Made from polyethylene (PE) or polyolefin (POF).",
+      "durability": "Strong and tear-resistant, ensuring that products are securely wrapped and protected.",
+      "waterproof": "Provides a moisture-resistant barrier to protect items from environmental damage.",
+      "customizable": "N/A",
+      "transparency": "Available in clear"
+    },
+    "commonUsages": [
+      "commonly used in packaging for food items",
+      "retail products",
+      "industrial goods"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/Shrinking Polythene.webp",
+    "ratingFromFive": 4.7,
+    "ratingCount": 84,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "protective",
+    "options": [
+      {
+        "size": "2\"",
+        "regularPrice": 1400,
+        "wholeSalePrice": 1300,
+        "special_notes": "1kg price"
+      },
+      {
+        "size": "5\" - 26\"",
+        "regularPrice": 1250,
+        "wholeSalePrice": 1150,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 1400,
+    "wholeSalePrice": 1300
+  },
+  {
+    "id": 48,
+    "title": "Vacuum Machine – Efficient & Reliable Equipment for Packaging & Storage",
+    "product_name": "Vacuum machine",
+    "category": "Hardware",
+    "sub_category": "",
+    "disposable": "Both",
+    "price_determined_by": "Quantity",
+    "mainDescription": "High-performance vacuum machines designed for fast and effective packaging. Ideal for sealing food, products, and other items to ensure freshness and protection.",
+    "features": {
+      "material": "Made from high-quality stainless steel and durable plastics.",
+      "durability": "Built to withstand regular use in commercial or industrial settings.",
+      "waterproof": "Waterproof components ensure safe operation in various environments.",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [
+      "used in food packaging",
+      "industrial packaging",
+      "storage applications to remove air from bags or containers",
+      "thereby increasing shelf life and protecting items from damage"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/Vacuume Machine.webp",
+    "ratingFromFive": 4.7,
+    "ratingCount": 232,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "hardware",
+    "options": [],
+    "regularPrice": 0,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 49,
+    "title": "Strapping Roll – Strong & Reliable Packaging for Secure Shipping",
+    "product_name": "Strapping roll",
+    "category": "Accessories",
+    "sub_category": "",
+    "disposable": "Non - Disposable",
+    "price_determined_by": "Size",
+    "mainDescription": "Durable strapping rolls ideal for securing and bundling items during shipping and storage. Provides a secure, tight seal for heavy-duty applications.",
+    "features": {
+      "material": "Made from polypropylene (PP), polyester (PET), or steel, depending on the application.",
+      "durability": "High tensile strength, resistant to breaking and stretching under pressure.",
+      "waterproof": "Water-resistant properties make them suitable for outdoor use or exposure to moisture.",
+      "customizable": "N/A",
+      "transparency": "Generally opaque but clear options"
+    },
+    "commonUsages": [
+      "used for securing packages",
+      "pallets",
+      "large shipments"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/Strapping Roll.webp",
+    "ratingFromFive": 4.5,
+    "ratingCount": 219,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "accessories",
+    "options": [
+      {
+        "size": "1000m",
+        "regularPrice": 0,
+        "wholeSalePrice": 0,
+        "special_notes": "1m = rs. 5000"
+      }
+    ],
+    "regularPrice": 0,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 50,
+    "title": "Carpet – Durable & Stylish Flooring Solutions for Every Space",
+    "product_name": "Carpet (One Color)",
+    "category": "Industrial Supplies",
+    "sub_category": "",
+    "disposable": "Non - Disposable",
+    "price_determined_by": "Size",
+    "mainDescription": "High-quality, one-color carpets offering a sleek and clean look. Perfect for any room, providing comfort, style, and durability.",
+    "features": {
+      "material": "Made from high-quality synthetic fibers, wool, or blended materials.",
+      "durability": "Designed for long-lasting use, resistant to wear and tear in high-traffic areas.",
+      "waterproof": "Some carpets are moisture-resistant, offering protection against spills.",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [
+      "used in homes",
+      "offices",
+      "hotels",
+      "commercial spaces to add comfort",
+      "warmth",
+      "style to any room"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/Carpet one color(floor mat).webp",
+    "ratingFromFive": 4.8,
+    "ratingCount": 222,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "industrial",
+    "options": [
+      {
+        "size": "",
+        "regularPrice": 950,
+        "wholeSalePrice": 900,
+        "special_notes": "roll = 30y"
+      }
+    ],
+    "regularPrice": 950,
+    "wholeSalePrice": 900
+  },
+  {
+    "id": 51,
+    "title": "Carpet (Design)",
+    "product_name": "Carpet (Design)",
+    "category": "Industrial Supplies",
+    "sub_category": "",
+    "disposable": "Non - Disposable",
+    "price_determined_by": "Size",
+    "mainDescription": "Vibrant and patterned carpets that add character and elegance to any space. Durable, easy to maintain, and perfect for enhancing the decor of your home or office.",
+    "features": {
+      "material": "",
+      "durability": "",
+      "waterproof": "",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [],
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 4.7,
+    "ratingCount": 54,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "industrial",
+    "options": [
+      {
+        "size": "",
+        "regularPrice": 850,
+        "wholeSalePrice": 800,
+        "special_notes": "roll = 30y"
+      }
+    ],
+    "regularPrice": 850,
+    "wholeSalePrice": 800
+  },
+  {
+    "id": 52,
+    "title": "Agricultural Products – Essential Materials for Healthy Crops and Optimal Growth",
+    "product_name": "Mushroom Bag",
+    "category": "Agricultural Supplies",
+    "sub_category": "",
+    "disposable": "Non - Disposable",
+    "price_determined_by": "Weight",
+    "mainDescription": "Sturdy and breathable mushroom bags designed for optimal growth conditions. Perfect for home or commercial mushroom farming, ensuring a healthy and productive yield.",
+    "features": {
+      "material": "Mushroom Bag (Plastic or biodegradable material), Mushroom Seeds (High-quality spores), CaCO3 (Calcium Carbonate), Magnesium Sulfate, and Gypsum (Agricultural-grade).",
+      "durability": "Strong and durable packaging for mushroom cultivation; nutrient-rich for optimal plant and mushroom growth.",
+      "waterproof": "Some products like mushroom bags and gypsum are moisture-resistant, ensuring proper conditions for growth.",
+      "customizable": "N/A",
+      "transparency": "Mushroom bags may be clear to monitor growth, while other products come in bags or bulk containers for easy application."
+    },
+    "commonUsages": [],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/Mushroom Seeds New.webp",
+    "ratingFromFive": 4.8,
+    "ratingCount": 168,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "agricultural",
+    "options": [
+      {
+        "size": "7 x 13 Bags",
+        "regularPrice": 780,
+        "wholeSalePrice": 0,
+        "special_notes": "Wholesale price = 780"
+      },
+      {
+        "size": "7 x 10 Bags",
+        "regularPrice": 780,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 780,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 53,
+    "title": "Mushroom Seeds",
+    "product_name": "Mushroom seeds",
+    "category": "Agricultural Supplies",
+    "sub_category": "",
+    "disposable": "Non - Disposable",
+    "price_determined_by": "Pack",
+    "mainDescription": "Premium mushroom seeds for successful cultivation. Ideal for both beginners and experienced growers, ensuring strong growth and high yields.",
+    "features": {
+      "material": "",
+      "durability": "",
+      "waterproof": "",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [
+      "These agricultural products are essential in the cultivation of mushrooms",
+      "plants",
+      "crops"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/Mushroom Seeds New.webp",
+    "ratingFromFive": 4.6,
+    "ratingCount": 94,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "agricultural",
+    "options": [],
+    "regularPrice": 0,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 54,
+    "title": "CaCO3 (Calcium Carbonate)",
+    "product_name": "Caco3(calcium carbonate)",
+    "category": "Agricultural Supplies",
+    "sub_category": "",
+    "disposable": "Non - Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Pure Calcium Carbonate (CaCO3) ideal for a range of applications including agriculture, construction, and manufacturing. Offers reliable performance in various industries.",
+    "features": {
+      "material": "",
+      "durability": "",
+      "waterproof": "",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [],
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 4.8,
+    "ratingCount": 54,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "agricultural",
+    "options": [
+      {
+        "size": "25kg",
+        "regularPrice": 0,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 0,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 55,
+    "title": "Magnesium Sulfate",
+    "product_name": "Magnesium sulfate",
+    "category": "Agricultural Supplies",
+    "sub_category": "",
+    "disposable": "Non - Disposable",
+    "price_determined_by": "",
+    "mainDescription": "High-quality Magnesium Sulphate used for fertilizers, agriculture, and various industrial applications. Promotes plant growth and enhances soil quality, making it essential for farming.",
+    "features": {
+      "material": "",
+      "durability": "",
+      "waterproof": "",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [],
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 4.7,
+    "ratingCount": 184,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "agricultural",
+    "options": [
+      {
+        "size": "1kg",
+        "regularPrice": 0,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      },
+      {
+        "size": "25kg",
+        "regularPrice": 0,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 0,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 56,
+    "title": "Gypsum",
+    "product_name": "Gypsum",
+    "category": "Agricultural Supplies",
+    "sub_category": "",
+    "disposable": "Non - Disposable",
+    "price_determined_by": "",
+    "mainDescription": "High-quality gypsum for agricultural, construction, and industrial uses. Improves soil structure, promotes healthy plant growth, and is ideal for plastering and drywall applications.",
+    "features": {
+      "material": "",
+      "durability": "",
+      "waterproof": "",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/Gypsum Powder.webp",
+    "ratingFromFive": 4.8,
+    "ratingCount": 129,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "agricultural",
+    "options": [
+      {
+        "size": "1kg",
+        "regularPrice": 0,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      },
+      {
+        "size": "25kg",
+        "regularPrice": 0,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 0,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 57,
+    "title": "Rubber Band – Flexible & Durable Fastening Solution",
+    "product_name": "Rubber Band",
+    "category": "Accessories",
+    "sub_category": "",
+    "disposable": "Non - Disposable",
+    "price_determined_by": "",
+    "mainDescription": "Durable rubber bands ideal for organizing, bundling, and securing items. Available in various sizes, perfect for both office and everyday use.",
+    "features": {
+      "material": "Made from high-quality natural or synthetic rubber.",
+      "durability": "Strong, elastic, and stretchable to handle various bundling needs.",
+      "waterproof": "Water-resistant and can withstand moisture without losing elasticity.",
+      "customizable": "N/A",
+      "transparency": "Typically opaque"
+    },
+    "commonUsages": [
+      "used in offices",
+      "households",
+      "industries for organizing",
+      "bundling",
+      "securing items"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/Rubber Band.webp",
+    "ratingFromFive": 4.9,
+    "ratingCount": 73,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "accessories",
+    "options": [
+      {
+        "size": "100g",
+        "regularPrice": 0,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      },
+      {
+        "size": "1kg",
+        "regularPrice": 0,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 0,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 58,
+    "title": "Nylon Rope – Strong & Durable Cord for Various Applications",
+    "product_name": "Nylon Rope",
+    "category": "Hardware",
+    "sub_category": "",
+    "disposable": "Non - Disposable",
+    "price_determined_by": "Size",
+    "mainDescription": "High-quality nylon rope, known for its strength and flexibility. Perfect for outdoor, industrial, and general use, offering reliable performance in various applications.",
+    "features": {
+      "material": "Made from high-quality synthetic nylon fibers.",
+      "durability": "Highly durable, resistant to abrasion, and can withstand wear and tear.",
+      "waterproof": "Resistant to moisture, making it suitable for both indoor and outdoor use.",
+      "customizable": "N/A",
+      "transparency": "Typically opaque"
+    },
+    "commonUsages": [
+      "commonly used in industries such as shipping",
+      "construction",
+      "agriculture",
+      "sports"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 4.9,
+    "ratingCount": 135,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "hardware",
+    "options": [
+      {
+        "size": "2mm",
+        "regularPrice": 400,
+        "wholeSalePrice": 350,
+        "special_notes": ""
+      },
+      {
+        "size": "3mm",
+        "regularPrice": 650,
+        "wholeSalePrice": 600,
+        "special_notes": ""
+      },
+      {
+        "size": "4mm",
+        "regularPrice": 1300,
+        "wholeSalePrice": 1200,
+        "special_notes": ""
+      },
+      {
+        "size": "5mm",
+        "regularPrice": 1750,
+        "wholeSalePrice": 1600,
+        "special_notes": ""
+      },
+      {
+        "size": "6mm",
+        "regularPrice": 2300,
+        "wholeSalePrice": 2150,
+        "special_notes": ""
+      },
+      {
+        "size": "7mm",
+        "regularPrice": 3000,
+        "wholeSalePrice": 2800,
+        "special_notes": ""
+      },
+      {
+        "size": "8mm",
+        "regularPrice": 4100,
+        "wholeSalePrice": 3750,
+        "special_notes": ""
+      },
+      {
+        "size": "9mm",
+        "regularPrice": 4900,
+        "wholeSalePrice": 4500,
+        "special_notes": ""
+      },
+      {
+        "size": "10mm",
+        "regularPrice": 6500,
+        "wholeSalePrice": 6000,
+        "special_notes": ""
+      },
+      {
+        "size": "12mm",
+        "regularPrice": 9500,
+        "wholeSalePrice": 8900,
+        "special_notes": ""
+      },
+      {
+        "size": "14mm",
+        "regularPrice": 12500,
+        "wholeSalePrice": 11500,
+        "special_notes": ""
+      },
+      {
+        "size": "16mm",
+        "regularPrice": 15500,
+        "wholeSalePrice": 14500,
+        "special_notes": ""
+      },
+      {
+        "size": "18mm",
+        "regularPrice": 22500,
+        "wholeSalePrice": 20500,
+        "special_notes": ""
+      },
+      {
+        "size": "20mm",
+        "regularPrice": 24500,
+        "wholeSalePrice": 22500,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 400,
+    "wholeSalePrice": 350
+  },
+  {
+    "id": 59,
+    "title": "Grow Bag – Convenient & Sustainable Planting Solution",
+    "product_name": "Grow Bag",
+    "category": "Agricultural Supplies",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "Weight",
+    "mainDescription": "Durable grow bags ideal for gardening and plant cultivation. Perfect for vegetables, flowers, and herbs, providing excellent drainage and root growth.",
+    "features": {
+      "material": "Made from durable, breathable fabric or non-woven material.",
+      "durability": "Strong, tear-resistant, and reusable for multiple planting seasons.",
+      "waterproof": "Some grow bags are water-resistant, allowing for proper drainage and preventing waterlogging.",
+      "customizable": "N/A",
+      "transparency": "Typically opaque"
+    },
+    "commonUsages": [
+      "commonly used in gardening",
+      "horticulture",
+      "farming for growing plants",
+      "vegetables",
+      "herbs",
+      "flowers"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 4.7,
+    "ratingCount": 232,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "agricultural",
+    "options": [
+      {
+        "size": "7\" x 9\"",
+        "regularPrice": 700,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      },
+      {
+        "size": "8\" x 8\"",
+        "regularPrice": 680,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      },
+      {
+        "size": "14\" x 14\"",
+        "regularPrice": 650,
+        "wholeSalePrice": 0,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 700,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 60,
+    "title": "PP Polythene – Versatile & Durable Packaging Material",
+    "product_name": "PP Polythene(Polypropylene polyethylene)",
+    "category": "Industrial Supplies",
+    "sub_category": "",
+    "disposable": "",
+    "price_determined_by": "Weight",
+    "mainDescription": "Durable polypropylene polythene ideal for packaging, storage, and industrial use. Offers excellent strength, flexibility, and moisture resistance. Food Gradable",
+    "features": {
+      "material": "Made from a combination of Polypropylene (PP) and Polyethylene (PE).",
+      "durability": "Strong, resistant to punctures, tears, and abrasions.",
+      "waterproof": "Offers excellent protection against moisture, making it suitable for packaging and storage.",
+      "customizable": "N/A",
+      "transparency": "Available in both clear and opaque options"
+    },
+    "commonUsages": [
+      "commonly used in packaging",
+      "food storage",
+      "industrial applications",
+      "carpets",
+      "ropes",
+      "plastic parts"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/PP Polythene.webp",
+    "ratingFromFive": 4.6,
+    "ratingCount": 244,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "industrial",
+    "options": [
+      {
+        "size": "1/2\" - 2\"",
+        "regularPrice": 780,
+        "wholeSalePrice": 750,
+        "special_notes": "Cut - 780"
+      },
+      {
+        "size": "3\" - 150",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)"
+      },
+      {
+        "size": "16\" - 130",
+        "regularPrice": 800,
+        "wholeSalePrice": 0,
+        "special_notes": "bags"
+      }
+    ],
+    "regularPrice": 780,
+    "wholeSalePrice": 750
+  },
+  {
+    "id": 61,
+    "title": "LDPE Clean – Flexible & Durable Packaging Solution",
+    "product_name": "LDPE CLEAN",
+    "category": "Industrial Supplies",
+    "sub_category": "",
+    "disposable": "",
+    "price_determined_by": "",
+    "mainDescription": "High-quality LDPE (Low-Density Polyethylene) material, perfect for clean and reliable packaging, offering flexibility, moisture resistance, and durability. Ideal for various applications.",
+    "features": {
+      "material": "Made from high-quality Low-Density Polyethylene (LDPE).",
+      "durability": "Soft, flexible, and resistant to wear, making it perfect for various packaging needs.",
+      "waterproof": "Offers excellent protection against moisture, making it suitable for packaging sensitive items.",
+      "customizable": "N/A",
+      "transparency": "Available in clear or translucent options"
+    },
+    "commonUsages": [
+      "widely used for producing clean and safe packaging materials",
+      "such as bags and films",
+      "in industries like food packaging",
+      "retail",
+      "pharmaceuticals"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/LDPE Polythene.webp",
+    "ratingFromFive": 4.9,
+    "ratingCount": 200,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "industrial",
+    "options": [
+      {
+        "size": "1\"",
+        "regularPrice": 1300,
+        "wholeSalePrice": 1200,
+        "special_notes": ""
+      },
+      {
+        "size": "3\" - 150",
+        "regularPrice": 850,
+        "wholeSalePrice": 820,
+        "special_notes": ""
+      },
+      {
+        "size": "12\" - 300",
+        "regularPrice": 750,
+        "wholeSalePrice": 720,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 1300,
+    "wholeSalePrice": 1200
+  },
+  {
+    "id": 62,
+    "title": "Sealing Machines – Efficient & Reliable Packaging Solutions",
+    "product_name": "Hand Sealer",
+    "category": "Hardware",
+    "sub_category": "",
+    "disposable": "Non - Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Compact and easy-to-use hand sealer for securely sealing plastic bags. Ideal for packaging, ensuring airtight and durable seals.",
+    "features": {
+      "material": "Constructed from durable stainless steel, plastic, or other heavy-duty materials.",
+      "durability": "Built to withstand frequent use, offering long-term reliability in sealing.",
+      "waterproof": "Waterproof and resistant to moisture, ensuring seals are tight and secure in all conditions.",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [
+      "food packaging",
+      "medical supplies",
+      "retail products",
+      "industrial applications to ensure a secure",
+      "airtight seal"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 4.8,
+    "ratingCount": 77,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "hardware",
+    "options": [],
+    "regularPrice": 0,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 63,
+    "title": "Band Sealer",
+    "product_name": "Band sealer",
+    "category": "Hardware",
+    "sub_category": "",
+    "disposable": "Non - Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "High-speed band sealer for continuous, secure sealing of plastic bags. Perfect for industrial and commercial packaging needs.",
+    "features": {
+      "material": "",
+      "durability": "",
+      "waterproof": "",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/Band Sealer.webp",
+    "ratingFromFive": 4.5,
+    "ratingCount": 76,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "hardware",
+    "options": [],
+    "regularPrice": 0,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 64,
+    "title": "Sealer Tape with Element – Secure and Efficient Sealing Solution",
+    "product_name": "Sealer Tape with eliment",
+    "category": "Accessories",
+    "sub_category": "",
+    "disposable": "Non - Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "High-quality sealer tape with heating element for airtight and durable seals. Ideal for packaging and industrial applications.",
+    "features": {
+      "material": "Made from high-quality adhesive tape, combined with an integrated sealing element",
+      "durability": "Offers strong bonding strength, ensuring secure and long-lasting seals.",
+      "waterproof": "Waterproof properties protect the contents from moisture and environmental damage.",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [
+      "used in packaging industries where heat or electrical sealing is required",
+      "commonly applied in food packaging",
+      "pharmaceuticals",
+      "electronics",
+      "other industries where a strong",
+      "tamper-evident seal is essential"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/sealer tape with eliment.webp",
+    "ratingFromFive": 4.5,
+    "ratingCount": 186,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "accessories",
+    "options": [],
+    "regularPrice": 0,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 65,
+    "title": "Master Batch – High-Quality Color and Additive Solution for Plastic Processing",
+    "product_name": "Master Batch",
+    "category": "Industrial Supplies",
+    "sub_category": "",
+    "disposable": "Disposable",
+    "price_determined_by": "",
+    "mainDescription": "High-quality master batch for enhancing plastic products with vibrant colors and improved properties. Suitable for manufacturing and industrial use.",
+    "features": {
+      "material": "Composed of concentrated color pigments or additives blended with a carrier resin.",
+      "durability": "Provides consistent color and stability over time, ensuring high-quality results in the final plastic products.",
+      "waterproof": "Resistant to moisture, ensuring that the color and properties remain intact under different environmental conditions",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [
+      "used in the plastic industry for coloring and adding specific properties to plastic products",
+      "Common applications include manufacturing containers",
+      "films",
+      "packaging materials",
+      "various molded products"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 4.5,
+    "ratingCount": 93,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "industrial",
+    "options": [],
+    "regularPrice": 0,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 66,
+    "title": "Scale – Precision and Accuracy for Weighing Needs",
+    "product_name": "Scale",
+    "category": "Industrial Supplies",
+    "sub_category": "",
+    "disposable": "Non - Disposable",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Precision scales for measuring weight efficiently. Ideal for commercial, industrial, and household applications.",
+    "features": {
+      "material": "Made from durable materials such as stainless steel, plastic, or aluminum.",
+      "durability": "Built to withstand frequent use, providing long-lasting accuracy and reliability.",
+      "waterproof": "Some models offer water-resistant features, making them suitable for use in moist environments.",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [
+      "Commonly used in retail",
+      "laboratories",
+      "warehouses",
+      "food packaging",
+      "shipping",
+      "scales ensure precise weight measurements for a range of applications"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/Scale.webp",
+    "ratingFromFive": 4.8,
+    "ratingCount": 114,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "industrial",
+    "options": [
+      {
+        "size": "5kg",
+        "regularPrice": 2700,
+        "wholeSalePrice": 0,
+        "special_notes": "5kg - 2700"
+      }
+    ],
+    "regularPrice": 2700,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 67,
+    "title": "Tape Dispenser – Convenient & Efficient Tool for Easy Tape Application",
+    "product_name": "Tape dispenser",
+    "category": "Industrial Supplies",
+    "sub_category": "",
+    "disposable": "",
+    "price_determined_by": "Quantity",
+    "mainDescription": "Durable tape dispenser for quick and smooth application. Perfect for office, packaging, and industrial use.",
+    "features": {
+      "material": "Made from durable plastic, metal, or a combination of both materials.",
+      "durability": "Built to withstand repeated use, ensuring a long lifespan and reliable performance.",
+      "waterproof": "Resistant to moisture, ensuring functionality in a variety of environments.",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [
+      "widely used for packaging",
+      "shipping",
+      "labeling",
+      "general organizational tasks"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/Tape Despenser N.webp",
+    "ratingFromFive": 4.7,
+    "ratingCount": 231,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "industrial",
+    "options": [],
+    "regularPrice": 0,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 68,
+    "title": "Hot Gun – Versatile & Powerful Tool for Heat Application",
+    "product_name": "Hot Gun",
+    "category": "Industrial Supplies",
+    "sub_category": "",
+    "disposable": "",
+    "price_determined_by": "Quantity",
+    "mainDescription": "High-performance hot gun for sealing, bonding, and crafting applications. Ideal for industrial and DIY projects.",
+    "features": {
+      "material": "Made from durable plastic and metal components designed to withstand high temperatures.",
+      "durability": "Designed for long-lasting performance with heat-resistant components.",
+      "waterproof": "Not waterproof; designed for dry heat application only.",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [
+      "applications such as heat shrinking",
+      "paint removal",
+      "drying",
+      "soldering",
+      "softening materials"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/Hot Gun.webp",
+    "ratingFromFive": 4.7,
+    "ratingCount": 102,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "industrial",
+    "options": [],
+    "regularPrice": 0,
+    "wholeSalePrice": 0
+  },
+  {
+    "id": 69,
+    "title": "Black Polythene – Durable & Versatile Packaging Solution",
+    "product_name": "Black Polythene",
+    "category": "Industrial Supplies",
+    "sub_category": "",
+    "disposable": "",
+    "price_determined_by": "Weight",
+    "mainDescription": "Durable black polythene for packaging, covering, and industrial applications. Provides excellent strength and UV protection.",
+    "features": {
+      "material": "Made from high-quality low-density polyethylene (LDPE) or high-density polyethylene (HDPE).",
+      "durability": "Strong, tear-resistant, and stretchable, suitable for heavy-duty tasks.",
+      "waterproof": "Offers excellent waterproof protection, making it suitable for outdoor or wet conditions.",
+      "customizable": "N/A",
+      "transparency": "Opaque black color"
+    },
+    "commonUsages": [
+      "used in industrial and commercial applications for packaging",
+      "waste management",
+      "protective covers"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/Black polythene.webp",
+    "ratingFromFive": 4.8,
+    "ratingCount": 90,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "industrial",
+    "options": [
+      {
+        "size": "2'",
+        "regularPrice": 0,
+        "wholeSalePrice": 350,
+        "special_notes": "roll = 350 = 1kg"
+      },
+      {
+        "size": "3' (850 gauge)",
+        "regularPrice": 0,
+        "wholeSalePrice": 350,
+        "special_notes": ""
+      },
+      {
+        "size": "3' (500 gauge)",
+        "regularPrice": 0,
+        "wholeSalePrice": 350,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 0,
+    "wholeSalePrice": 350
+  },
+  {
+    "id": 70,
+    "title": "No 1 Black Polythene",
+    "product_name": "No 1 Black Polethene",
+    "category": "Industrial Supplies",
+    "sub_category": "",
+    "disposable": "",
+    "price_determined_by": "Weight",
+    "mainDescription": "Durable black polythene for packaging, covering, and industrial applications. Provides excellent strength and UV protection.",
+    "features": {
+      "material": "",
+      "durability": "",
+      "waterproof": "",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/Black polythene.webp",
+    "ratingFromFive": 4.9,
+    "ratingCount": 166,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "industrial",
+    "options": [
+      {
+        "size": "2'",
+        "regularPrice": 0,
+        "wholeSalePrice": 550,
+        "special_notes": "roll = 550"
+      },
+      {
+        "size": "3' (500 gauge)",
+        "regularPrice": 0,
+        "wholeSalePrice": 550,
+        "special_notes": ""
+      },
+      {
+        "size": "3' (300 gauge)",
+        "regularPrice": 0,
+        "wholeSalePrice": 550,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 0,
+    "wholeSalePrice": 550
+  },
+  {
+    "id": 71,
+    "title": "Color Polythene – Vibrant & Durable Packaging Solution",
+    "product_name": "Color Polythene (2\")",
+    "category": "Industrial Supplies",
+    "sub_category": "",
+    "disposable": "",
+    "price_determined_by": "Weight",
+    "mainDescription": "High-quality colored polythene for packaging and wrapping. Available in various colors for versatile applications.",
+    "features": {
+      "material": "Made from high-quality polyethylene (LDPE or HDPE), available in a variety of colors.",
+      "durability": "Strong, tear-resistant, and stretchable, ensuring long-lasting use even in demanding conditions.",
+      "waterproof": "Provides excellent moisture protection, making it suitable for packaging sensitive items.",
+      "customizable": "N/A",
+      "transparency": "Available in opaque"
+    },
+    "commonUsages": [
+      "packaging applications",
+      "including shopping bags",
+      "promotional packaging",
+      "product wraps"
+    ],
+    "tagline": "100% Recycled",
+    "image": "/Assets/ProductsImages/Color Polythene.webp",
+    "ratingFromFive": 4.5,
+    "ratingCount": 242,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "industrial",
+    "options": [
+      {
+        "size": "White",
+        "regularPrice": 0,
+        "wholeSalePrice": 600,
+        "special_notes": "If a client buys a roll, the price per 1kg will be 600"
+      },
+      {
+        "size": "Dark Green",
+        "regularPrice": 0,
+        "wholeSalePrice": 500,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 0,
+    "wholeSalePrice": 600
+  },
+  {
+    "id": 72,
+    "title": "Color Polythene (3\")",
+    "product_name": "Color Polethene (3\")",
+    "category": "Industrial Supplies",
+    "sub_category": "",
+    "disposable": "",
+    "price_determined_by": "Weight",
+    "mainDescription": "",
+    "features": {
+      "material": "",
+      "durability": "",
+      "waterproof": "",
+      "customizable": "N/A",
+      "transparency": ""
+    },
+    "commonUsages": [],
+    "tagline": "100% Recycled",
+    "image": "/Assets/BagTemp.webp",
+    "ratingFromFive": 4.8,
+    "ratingCount": 176,
+    "neccessaryGoods": [
+      "eco-friendly",
+      "packaging"
+    ],
+    "type": "industrial",
+    "options": [
+      {
+        "size": "White",
+        "regularPrice": 0,
+        "wholeSalePrice": 750,
+        "special_notes": ""
+      },
+      {
+        "size": "Dark Green",
+        "regularPrice": 0,
+        "wholeSalePrice": 700,
+        "special_notes": ""
+      }
+    ],
+    "regularPrice": 0,
+    "wholeSalePrice": 750
   }
 ]
