@@ -288,19 +288,22 @@ export default function CardSection({ hideFilters, filterByType, title, excludeI
       ) : null}
 
       <Box
-        component={FadeIn} delay={0.3}
+        component={FadeIn} 
+        delay={0.3}
+        width="100%"
         sx={{
           display: "grid",
           gridTemplateColumns: {
-            xs: "repeat(2, 1fr)",
-            sm: "repeat(2, 1fr)",
-            md: "repeat(3, 1fr)",
-            lg: "repeat(4, 1fr)",
+            xs: "repeat(2, minmax(0, 1fr))",
+            sm: "repeat(2, minmax(0, 1fr))",
+            md: "repeat(3, minmax(0, 1fr))",
+            lg: "repeat(4, minmax(0, 1fr))",
           },
           gap: { xs: 2, md: 4 },
           justifyItems: "center",
           maxWidth: "1820px",
           mx: "auto",
+          width: "100%",
         }}
       >
         {paginatedProducts.map((product) => (

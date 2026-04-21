@@ -6,7 +6,6 @@
     "category": "Packaging Bags",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Pack",
     "mainDescription": "High-quality sticker bags with strong adhesive sealing, perfect for retail, gifts, and promotions. Available in various sizes for a professional and convenient packaging solution.",
     "features": {
       "material": "Low-Density Polyethylene (LDPE) or High-Density Polyethylene (HDPE)",
@@ -36,95 +35,112 @@
         "size": "2½\" x 3\"",
         "regularPrice": 320,
         "wholeSalePrice": 300,
-        "special_notes": "No sales under 100"
+        "special_notes": "No sales under 100",
+        "per_one_price": ""
       },
       {
         "size": "3\" x 5\"",
         "regularPrice": 350,
         "wholeSalePrice": 330,
-        "special_notes": ""
+        "special_notes": "No sales under 100",
+        "per_one_price": ""
       },
       {
         "size": "5\" x 8\"",
         "regularPrice": 420,
         "wholeSalePrice": 400,
-        "special_notes": ""
+        "special_notes": "No sales under 100",
+        "per_one_price": ""
       },
       {
         "size": "6½\" x 9\"",
         "regularPrice": 530,
         "wholeSalePrice": 500,
-        "special_notes": ""
+        "special_notes": "No sales under 100",
+        "per_one_price": ""
       },
       {
         "size": "7\" x 10\"",
         "regularPrice": 560,
         "wholeSalePrice": 530,
-        "special_notes": ""
+        "special_notes": "No sales under 100",
+        "per_one_price": ""
       },
       {
         "size": "8\" x 10\"",
         "regularPrice": 600,
         "wholeSalePrice": 570,
-        "special_notes": ""
+        "special_notes": "No sales under 100",
+        "per_one_price": ""
       },
       {
         "size": "8\" x 12\"",
         "regularPrice": 650,
         "wholeSalePrice": 620,
-        "special_notes": ""
+        "special_notes": "No sales under 100",
+        "per_one_price": ""
       },
       {
         "size": "9\" x 12\"",
         "regularPrice": 750,
         "wholeSalePrice": 720,
-        "special_notes": ""
+        "special_notes": "No sales under 100",
+        "per_one_price": ""
       },
       {
         "size": "10\" x 14\"",
         "regularPrice": 920,
         "wholeSalePrice": 880,
-        "special_notes": ""
+        "special_notes": "No sales under 100",
+        "per_one_price": ""
       },
       {
         "size": "11\" x 14\"",
         "regularPrice": 1000,
         "wholeSalePrice": 950,
-        "special_notes": ""
+        "special_notes": "No sales under 100",
+        "per_one_price": ""
       },
       {
         "size": "11\" x 16\"",
         "regularPrice": 1100,
         "wholeSalePrice": 1050,
-        "special_notes": ""
+        "special_notes": "No sales under 100",
+        "per_one_price": ""
       },
       {
         "size": "12\" x 16\"",
         "regularPrice": 1150,
         "wholeSalePrice": 1100,
-        "special_notes": ""
+        "special_notes": "No sales under 100",
+        "per_one_price": ""
       },
       {
         "size": "13\" x 18\"",
         "regularPrice": 1420,
         "wholeSalePrice": 1370,
-        "special_notes": ""
+        "special_notes": "No sales under 100",
+        "per_one_price": ""
       },
       {
         "size": "14\" x 18\"",
         "regularPrice": 1500,
         "wholeSalePrice": 1450,
-        "special_notes": ""
+        "special_notes": "No sales under 100",
+        "per_one_price": ""
       },
       {
         "size": "16\" x 20\"",
         "regularPrice": 0,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "No sales under 100",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 320,
-    "wholeSalePrice": 300
+    "wholeSalePrice": 300,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 2,
@@ -133,7 +149,6 @@
     "category": "Packaging Bags",
     "sub_category": "Ziplock Bags",
     "disposable": "Disposable",
-    "price_determined_by": "Pack",
     "mainDescription": "Premium resealable bags for secure storage, protecting against moisture, dust, and spills. Ideal for food, packaging, and organizing, available in various sizes and colors.",
     "features": {
       "material": "Made from High-Density Polyethylene (HDPE) or Low-Density Polyethylene (LDPE) for durability and flexibility.",
@@ -162,101 +177,119 @@
         "size": "1¼\" x 1½\"",
         "regularPrice": 300,
         "wholeSalePrice": 250,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "1½\" x 1½\"",
         "regularPrice": 250,
         "wholeSalePrice": 230,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "1½\" x 2\"",
         "regularPrice": 250,
         "wholeSalePrice": 230,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "2\" x 3\"",
         "regularPrice": 300,
         "wholeSalePrice": 280,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "3\" x 4\"",
         "regularPrice": 300,
         "wholeSalePrice": 280,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "4\" x 4\"",
         "regularPrice": 400,
         "wholeSalePrice": 370,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "4\" x 6\"",
         "regularPrice": 500,
         "wholeSalePrice": 470,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "5\" x 6\"",
         "regularPrice": 600,
         "wholeSalePrice": 570,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "5\" x 7\"",
         "regularPrice": 700,
         "wholeSalePrice": 670,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "6\" x 8\"",
         "regularPrice": 800,
         "wholeSalePrice": 770,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "6\" x 9\"",
         "regularPrice": 900,
         "wholeSalePrice": 870,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "7\" x 10\"",
         "regularPrice": 1100,
         "wholeSalePrice": 1050,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "8\" x 10\"",
         "regularPrice": 1250,
         "wholeSalePrice": 1200,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "8\" x 12\"",
         "regularPrice": 1350,
         "wholeSalePrice": 1300,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "10\" x 12\"",
         "regularPrice": 1850,
         "wholeSalePrice": 1800,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "12\" x 15\"",
         "regularPrice": 2800,
         "wholeSalePrice": 2750,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 300,
-    "wholeSalePrice": 250
+    "wholeSalePrice": 250,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 3,
@@ -265,7 +298,6 @@
     "category": "Packaging Bags",
     "sub_category": "Ziplock Bags",
     "disposable": "Disposable",
-    "price_determined_by": "Pack",
     "mainDescription": "Durable and sleek, our white Ziplock bags offer a clean and professional look for your packaging needs. Perfect for storing and organizing a variety of products while ensuring safety and convenience.",
     "features": {
       "material": "",
@@ -289,35 +321,42 @@
         "size": "4\" x 6\"",
         "regularPrice": 20,
         "wholeSalePrice": 18,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "5\" x 8\"",
         "regularPrice": 30,
         "wholeSalePrice": 28,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "6\" x 9\"",
         "regularPrice": 35,
         "wholeSalePrice": 33,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "7\" x 10\"",
         "regularPrice": 40,
         "wholeSalePrice": 38,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "8\" x 12\"",
         "regularPrice": 45,
         "wholeSalePrice": 43,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 20,
-    "wholeSalePrice": 18
+    "wholeSalePrice": 18,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 4,
@@ -326,7 +365,6 @@
     "category": "Packaging Bags",
     "sub_category": "Ziplock Bags",
     "disposable": "Disposable",
-    "price_determined_by": "Pack",
     "mainDescription": "Our black Ziplock bags provide an elegant and secure solution for storing items. Ideal for businesses seeking a stylish, durable option to keep contents safe, organized, and easily accessible.",
     "features": {
       "material": "",
@@ -350,35 +388,42 @@
         "size": "4\" x 6\"",
         "regularPrice": 28,
         "wholeSalePrice": 18,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "5\" x 8\"",
         "regularPrice": 30,
         "wholeSalePrice": 28,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "6\" x 8\"",
         "regularPrice": 35,
         "wholeSalePrice": 33,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "7\" x 10\"",
         "regularPrice": 40,
         "wholeSalePrice": 38,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "8\" x 12\"",
         "regularPrice": 45,
         "wholeSalePrice": 43,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 28,
-    "wholeSalePrice": 18
+    "wholeSalePrice": 18,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 5,
@@ -387,7 +432,6 @@
     "category": "Packaging Bags",
     "sub_category": "Ziplock Bags",
     "disposable": "Disposable",
-    "price_determined_by": "Pack",
     "mainDescription": "Add a pop of color to your packaging with our vibrant Ziplock bags in red, green, pink, and purple. These bags are perfect for presenting products in an eye-catching way while offering secure storage.",
     "features": {
       "material": "",
@@ -411,17 +455,21 @@
         "size": "4\" x 6\"",
         "regularPrice": 20,
         "wholeSalePrice": 18,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "5\" x 8\"",
         "regularPrice": 30,
         "wholeSalePrice": 28,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 20,
-    "wholeSalePrice": 18
+    "wholeSalePrice": 18,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 6,
@@ -430,7 +478,6 @@
     "category": "Packaging Bags",
     "sub_category": "Ziplock Bags",
     "disposable": "Disposable",
-    "price_determined_by": "Pack",
     "mainDescription": "Our aluminum Ziplock bags provide superior protection against moisture, air, and light. Perfect for storing food, electronics, or sensitive products, these bags ensure freshness and quality preservation.",
     "features": {
       "material": "",
@@ -456,35 +503,42 @@
         "size": "4\" x 6\"",
         "regularPrice": 20,
         "wholeSalePrice": 18,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "5\" x 7\"",
         "regularPrice": 30,
         "wholeSalePrice": 28,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "6\" x 8\"",
         "regularPrice": 35,
         "wholeSalePrice": 33,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "7\" x 10\"",
         "regularPrice": 40,
         "wholeSalePrice": 38,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "8\" x 12\"",
         "regularPrice": 45,
         "wholeSalePrice": 43,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 20,
-    "wholeSalePrice": 18
+    "wholeSalePrice": 18,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 7,
@@ -493,7 +547,6 @@
     "category": "Packaging Bags",
     "sub_category": "Ziplock Bags",
     "disposable": "Disposable",
-    "price_determined_by": "Pack",
     "mainDescription": "Bring a touch of luxury to your packaging with our gold Ziplock bags. Offering both durability and an elegant appearance, these bags are perfect for high-end products and gifts.",
     "features": {
       "material": "",
@@ -504,7 +557,7 @@
     },
     "commonUsages": [],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Ziplock bags Gold.webp",
     "ratingFromFive": 4.7,
     "ratingCount": 59,
     "neccessaryGoods": [
@@ -517,23 +570,28 @@
         "size": "4\" x 6\"",
         "regularPrice": 20,
         "wholeSalePrice": 18,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "5\" x 8\"",
         "regularPrice": 30,
         "wholeSalePrice": 28,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "6\" x 8\"",
         "regularPrice": 35,
         "wholeSalePrice": 33,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 20,
-    "wholeSalePrice": 18
+    "wholeSalePrice": 18,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 8,
@@ -542,7 +600,6 @@
     "category": "Packaging Bags",
     "sub_category": "Ziplock Bags",
     "disposable": "Disposable",
-    "price_determined_by": "Pack",
     "mainDescription": "Eco-friendly and functional, our Kraft paper Ziplock bags are ideal for businesses that prioritize sustainability. These bags are perfect for organic products and offer a rustic, natural appearance.",
     "features": {
       "material": "",
@@ -553,7 +610,7 @@
     },
     "commonUsages": [],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Ziplock bags Kraft Paper 3.webp",
     "ratingFromFive": 4.9,
     "ratingCount": 222,
     "neccessaryGoods": [
@@ -566,29 +623,35 @@
         "size": "4\" x 6\"",
         "regularPrice": 20,
         "wholeSalePrice": 18,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "5\" x 7\"",
         "regularPrice": 30,
         "wholeSalePrice": 28,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "7\" x 10\"",
         "regularPrice": 40,
         "wholeSalePrice": 38,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "8\" x 12\"",
         "regularPrice": 45,
         "wholeSalePrice": 43,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 20,
-    "wholeSalePrice": 18
+    "wholeSalePrice": 18,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 9,
@@ -597,7 +660,6 @@
     "category": "Packaging Bags",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "Keep your tea fresh and flavorful with our aluminum tea bags. Offering superior protection against moisture, air, and light, these bags help preserve the rich aroma and taste of your tea, ensuring a high-quality experience with every brew.",
     "features": {
       "material": "High-quality aluminum foil for maximum protection and freshness.",
@@ -610,7 +672,7 @@
       "packaging loose-leaf tea and herbs"
     ],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Tea Bag.webp",
     "ratingFromFive": 5,
     "ratingCount": 71,
     "neccessaryGoods": [
@@ -623,41 +685,49 @@
         "size": "3\" x 4\" (25g)",
         "regularPrice": 400,
         "wholeSalePrice": 350,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "4\" x 5\" (50g)",
         "regularPrice": 500,
         "wholeSalePrice": 450,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "4\" x 6\" (100g)",
         "regularPrice": 700,
         "wholeSalePrice": 600,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "6\" x 8\" (250g)",
         "regularPrice": 1000,
         "wholeSalePrice": 900,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "7\" x 10\" (500g)",
         "regularPrice": 1300,
         "wholeSalePrice": 1250,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "8\" x 12\" (1kg)",
         "regularPrice": 2000,
         "wholeSalePrice": 1850,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 400,
-    "wholeSalePrice": 350
+    "wholeSalePrice": 350,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 10,
@@ -666,7 +736,6 @@
     "category": "Packaging Bags",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "Optimize storage and preserve freshness with our 100g vacuum bags. Perfect for sealing small items, these bags protect your products from air, moisture, and dust, ensuring longer shelf life and enhanced organization.",
     "features": {
       "material": "Multi-layered food-grade plastic or aluminum composite for superior sealing.",
@@ -681,7 +750,7 @@
       "export industries"
     ],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Vacuum Bag.webp",
     "ratingFromFive": 4.5,
     "ratingCount": 129,
     "neccessaryGoods": [
@@ -694,29 +763,35 @@
         "size": "6\" x 9\"",
         "regularPrice": 20,
         "wholeSalePrice": 18,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "7\" x 10\"",
         "regularPrice": 25,
         "wholeSalePrice": 23,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "8\" x 10\"",
         "regularPrice": 30,
         "wholeSalePrice": 28,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "8\" x 12\"",
         "regularPrice": 32,
         "wholeSalePrice": 30,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 20,
-    "wholeSalePrice": 18
+    "wholeSalePrice": 18,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 11,
@@ -725,7 +800,6 @@
     "category": "Packaging Bags",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Pack",
     "mainDescription": "Ensure safe and secure shipping with our durable courier bags. Designed to withstand rough handling, these bags offer reliable protection for your packages, providing both strength and privacy for hassle-free delivery.",
     "features": {
       "material": "Made from high-quality LDPE (Low-Density Polyethylene) or co-extruded film.",
@@ -742,7 +816,7 @@
       "logistics"
     ],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Courier Bag.webp",
     "ratingFromFive": 4.6,
     "ratingCount": 64,
     "neccessaryGoods": [
@@ -755,29 +829,35 @@
         "size": "7\" x 10\"",
         "regularPrice": 1300,
         "wholeSalePrice": 0,
-        "special_notes": "100 bags include in 1 pack"
+        "special_notes": "100 bags include in 1 pack",
+        "per_one_price": ""
       },
       {
         "size": "8\" x 12\"",
         "regularPrice": 1800,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "100 bags include in 1 pack",
+        "per_one_price": ""
       },
       {
         "size": "10\" x 14\"",
         "regularPrice": 2000,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "100 bags include in 1 pack",
+        "per_one_price": ""
       },
       {
         "size": "14\" x 18\"",
         "regularPrice": 3500,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "100 bags include in 1 pack",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 1300,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 12,
@@ -786,7 +866,6 @@
     "category": "Wrapping",
     "sub_category": "",
     "disposable": "Non - Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "Eco-friendly and versatile, our brown paper bags are perfect for packaging a variety of products. Made from sustainable materials, these bags offer durability and a natural look, making them ideal for retail, groceries, or eco-conscious businesses.",
     "features": {
       "material": "Made from kraft paper – biodegradable and recyclable.",
@@ -803,7 +882,7 @@
       "takeaway items"
     ],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Brownd paper Bag New.webp",
     "ratingFromFive": 4.9,
     "ratingCount": 227,
     "neccessaryGoods": [
@@ -816,35 +895,42 @@
         "size": "1\" x 16''",
         "regularPrice": 150,
         "wholeSalePrice": 140,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "1\" x 8\"",
         "regularPrice": 220,
         "wholeSalePrice": 200,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "1\" x 4\"",
         "regularPrice": 420,
         "wholeSalePrice": 400,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "1\" x 3\"",
         "regularPrice": 780,
         "wholeSalePrice": 750,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "1\" x 2\"",
         "regularPrice": 880,
         "wholeSalePrice": 850,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 150,
-    "wholeSalePrice": 140
+    "wholeSalePrice": 140,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 13,
@@ -853,7 +939,6 @@
     "category": "Industrial Supplies",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "Strong, durable, and reliable, our garbage bags are designed to handle heavy loads and everyday waste. Available in various sizes, they offer excellent strength, leak resistance, and a secure solution for all your waste disposal needs.",
     "features": {
       "material": "Made from High-Density (HDPE) or Low-Density Polyethylene (LDPE), often recycled.",
@@ -868,7 +953,7 @@
       "industrial waste"
     ],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Garbage Bag.webp",
     "ratingFromFive": 4.6,
     "ratingCount": 99,
     "neccessaryGoods": [
@@ -881,23 +966,28 @@
         "size": "Small: 18\" x 24\"",
         "regularPrice": 850,
         "wholeSalePrice": 100,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "Large: 26\" x 36\"",
         "regularPrice": 1450,
         "wholeSalePrice": 200,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "Extra Large: 30\" x 36\"",
         "regularPrice": 1650,
         "wholeSalePrice": 250,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 850,
-    "wholeSalePrice": 100
+    "wholeSalePrice": 100,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 14,
@@ -906,7 +996,6 @@
     "category": "Industrial Supplies",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "Simple yet versatile, our white bags are perfect for a range of packaging needs. Whether for retail, gift-giving, or general storage, these bags offer durability and a clean, professional look.",
     "features": {
       "material": "Made from LDPE, HDPE",
@@ -922,7 +1011,7 @@
       "general-purpose storage"
     ],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/White Bag.webp",
     "ratingFromFive": 4.9,
     "ratingCount": 207,
     "neccessaryGoods": [
@@ -935,47 +1024,56 @@
         "size": "7\" x 10\"",
         "regularPrice": 220,
         "wholeSalePrice": 200,
-        "special_notes": "No sales under 100. Price will be changed in quantity 1000"
+        "special_notes": "No sales under 100. Price will be changed in quantity 1000",
+        "per_one_price": ""
       },
       {
         "size": "8\" x 12\"",
         "regularPrice": 260,
         "wholeSalePrice": 240,
-        "special_notes": ""
+        "special_notes": "No sales under 100. Price will be changed in quantity 1000",
+        "per_one_price": ""
       },
       {
         "size": "10\" x 14\"",
         "regularPrice": 430,
         "wholeSalePrice": 410,
-        "special_notes": ""
+        "special_notes": "No sales under 100. Price will be changed in quantity 1000",
+        "per_one_price": ""
       },
       {
         "size": "12\" x 16\"",
         "regularPrice": 620,
         "wholeSalePrice": 600,
-        "special_notes": ""
+        "special_notes": "No sales under 100. Price will be changed in quantity 1000",
+        "per_one_price": ""
       },
       {
         "size": "14\" x 18\"",
         "regularPrice": 880,
         "wholeSalePrice": 850,
-        "special_notes": ""
+        "special_notes": "No sales under 100. Price will be changed in quantity 1000",
+        "per_one_price": ""
       },
       {
         "size": "16\" x 20\"",
         "regularPrice": 1000,
         "wholeSalePrice": 1970,
-        "special_notes": ""
+        "special_notes": "No sales under 100. Price will be changed in quantity 1000",
+        "per_one_price": ""
       },
       {
         "size": "18\" x 24\"",
         "regularPrice": 1400,
         "wholeSalePrice": 1350,
-        "special_notes": ""
+        "special_notes": "No sales under 100. Price will be changed in quantity 1000",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 220,
-    "wholeSalePrice": 200
+    "wholeSalePrice": 200,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 15,
@@ -984,7 +1082,6 @@
     "category": "Industrial Supplies",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "Show appreciation with our 'Thank You' bags, ideal for packaging gifts or retail items.",
     "features": {
       "material": "Made from LDPE or HDPE plastic",
@@ -1000,7 +1097,7 @@
       "supermarkets"
     ],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Thank You Bag New.webp",
     "ratingFromFive": 4.9,
     "ratingCount": 240,
     "neccessaryGoods": [
@@ -1013,23 +1110,28 @@
         "size": "Small: 10\" x 14\"",
         "regularPrice": 550,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "Medium: 12\" x 16\"",
         "regularPrice": 800,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "Large: 14\" x 18\"",
         "regularPrice": 1100,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 550,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 16,
@@ -1038,7 +1140,6 @@
     "category": "Industrial Supplies",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "Add vibrancy and style to your packaging with our colorful range of bags. Available in a variety of hues, these bags are perfect for retail, gifting, and special occasions, offering both durability and a fun, eye-catching design.",
     "features": {
       "material": "Made from LDPE, HDPE",
@@ -1054,7 +1155,7 @@
       "general-purpose storage"
     ],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Color Bag.webp",
     "ratingFromFive": 4.8,
     "ratingCount": 228,
     "neccessaryGoods": [
@@ -1067,23 +1168,28 @@
         "size": "10\" x 14\"",
         "regularPrice": 550,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "12\" x 16\"",
         "regularPrice": 750,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "14\" x 18\"",
         "regularPrice": 1100,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 550,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 17,
@@ -1092,7 +1198,6 @@
     "category": "Industrial Supplies",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Pack",
     "mainDescription": "This black carrier bag features a gold tulip flower and the words \"Tulips.\" Durable and stylish, it's perfect for shopping or everyday use and features a convenient die-cut handle.",
     "features": {
       "material": "Made from durable plastic",
@@ -1106,7 +1211,7 @@
       "general-purpose storage"
     ],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Tulip Bag.webp",
     "ratingFromFive": 4.7,
     "ratingCount": 124,
     "neccessaryGoods": [
@@ -1119,23 +1224,28 @@
         "size": "Small: 10\" x 14\"",
         "regularPrice": 500,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "Medium: 14\" x 18\"",
         "regularPrice": 800,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "Large: 16\" x 20\"",
         "regularPrice": 1000,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 500,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 18,
@@ -1144,7 +1254,6 @@
     "category": "Wrapping",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "",
     "mainDescription": "Cushions fragile items for safe transport and storage, ensuring impact resistance and secure packaging.",
     "features": {
       "material": "Made from LDPE plastic with air-filled bubbles for cushioning.",
@@ -1160,7 +1269,7 @@
       "fragile item shipping"
     ],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Bubble wrap.webp",
     "ratingFromFive": 4.8,
     "ratingCount": 190,
     "neccessaryGoods": [
@@ -1173,11 +1282,14 @@
         "size": "",
         "regularPrice": 0,
         "wholeSalePrice": 120,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 0,
-    "wholeSalePrice": 120
+    "wholeSalePrice": 120,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 19,
@@ -1186,7 +1298,6 @@
     "category": "Protective Packaging",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "",
     "mainDescription": "High-quality stretch film with excellent stretchability and tear resistance, perfect for wrapping pallets, boxes, and products for safe shipping and storage.",
     "features": {
       "material": "Made from Linear Low-Density Polyethylene (LLDPE).",
@@ -1203,7 +1314,7 @@
       "secure goods during transport"
     ],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Stretch film.webp",
     "ratingFromFive": 4.9,
     "ratingCount": 96,
     "neccessaryGoods": [
@@ -1213,7 +1324,9 @@
     "type": "protective",
     "options": [],
     "regularPrice": 0,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 20,
@@ -1222,7 +1335,6 @@
     "category": "Protective Packaging",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Pack",
     "mainDescription": "High-quality cling film with excellent stretch and airtight sealing to preserve food freshness, moisture, and flavor.",
     "features": {
       "material": "Made from food-grade PVC (Polyvinyl Chloride) or PE (Polyethylene).",
@@ -1251,29 +1363,35 @@
         "size": "12\" - 30m",
         "regularPrice": 650,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "18\" - 20m",
         "regularPrice": 750,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "12\" - 300m",
         "regularPrice": 2250,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "18\" - 600m",
         "regularPrice": 4750,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 650,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 21,
@@ -1282,7 +1400,6 @@
     "category": "Industrial Supplies",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Pack",
     "mainDescription": "Perfect for retail and daily use, available in various sizes.",
     "features": {
       "material": "Available in plastic",
@@ -1310,35 +1427,42 @@
         "size": "7 + 4 - Small (chicken bag)",
         "regularPrice": 100,
         "wholeSalePrice": 90,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "10 + 5 - Medium (MS bag)",
         "regularPrice": 220,
         "wholeSalePrice": 200,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "11 + 5 - Large (LS bag)",
         "regularPrice": 420,
         "wholeSalePrice": 400,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "13 + 7 - Jambo",
         "regularPrice": 600,
         "wholeSalePrice": 580,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "17 + 7 - King Jambo",
         "regularPrice": 1300,
         "wholeSalePrice": 1250,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 100,
-    "wholeSalePrice": 90
+    "wholeSalePrice": 90,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 22,
@@ -1347,7 +1471,6 @@
     "category": "Industrial Supplies",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Pack",
     "mainDescription": "Practical and sturdy, our grocery bags are designed to make shopping convenient. Available in various sizes, these bags provide reliable strength for carrying groceries, ensuring durability and sustainability with every use.",
     "features": {
       "material": "Made from HDPE, LDPE",
@@ -1362,7 +1485,7 @@
       "local markets to carry food items and household essentials"
     ],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Grocery bag.webp",
     "ratingFromFive": 4.6,
     "ratingCount": 215,
     "neccessaryGoods": [
@@ -1375,17 +1498,21 @@
         "size": "5\" x 8\"",
         "regularPrice": 250,
         "wholeSalePrice": 230,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "7\" x 10\"",
         "regularPrice": 350,
         "wholeSalePrice": 330,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 250,
-    "wholeSalePrice": 230
+    "wholeSalePrice": 230,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 23,
@@ -1394,7 +1521,6 @@
     "category": "Tapes",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "Reliable tapes with excellent adhesion for sealing, packaging, and general use. Ideal for shipping, office, and DIY projects.",
     "features": {
       "material": "Made from BOPP (Biaxially Oriented Polypropylene)",
@@ -1410,7 +1536,7 @@
       "industrial applications"
     ],
     "tagline": "100% Recycled",
-    "image": "/Assets/ProductsImages/Tan Tape.webp",
+    "image": "/Assets/ProductsImages/Tape 2.webp",
     "ratingFromFive": 4.5,
     "ratingCount": 134,
     "neccessaryGoods": [
@@ -1423,53 +1549,63 @@
         "size": "1/2\" - 20 yard",
         "regularPrice": 30,
         "wholeSalePrice": 70,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "1/2\" - 50m Clear",
         "regularPrice": 60,
         "wholeSalePrice": 50,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "1\" - 100m - Clear tape",
         "regularPrice": 130,
         "wholeSalePrice": 120,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "2\" - 100m Clear tape",
         "regularPrice": 250,
         "wholeSalePrice": 230,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "2\" - 100m Tan tape",
         "regularPrice": 250,
         "wholeSalePrice": 230,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "2\" - 300m Clear tape",
         "regularPrice": 600,
         "wholeSalePrice": 550,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "2\" - 300m Tan tape",
         "regularPrice": 600,
         "wholeSalePrice": 550,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "3\" - 100m Clear tape",
         "regularPrice": 400,
         "wholeSalePrice": 380,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 30,
-    "wholeSalePrice": 70
+    "wholeSalePrice": 70,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 24,
@@ -1478,7 +1614,6 @@
     "category": "Tapes",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "Versatile and reliable, our masking tape is perfect for painting, crafting, and general use. With easy removal and a clean finish, it ensures crisp lines and protects surfaces from paint, making it a must-have tool for any project.",
     "features": {
       "material": "Made from crepe paper with pressure-sensitive adhesive.",
@@ -1494,7 +1629,7 @@
       "light-duty bundling tasks"
     ],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Masking Tape 1.webp",
     "ratingFromFive": 4.9,
     "ratingCount": 218,
     "neccessaryGoods": [
@@ -1507,23 +1642,28 @@
         "size": "1\" - 20m",
         "regularPrice": 100,
         "wholeSalePrice": 90,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "1\" - 50m",
         "regularPrice": 250,
         "wholeSalePrice": 230,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "2\" - 20m",
         "regularPrice": 200,
         "wholeSalePrice": 180,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 100,
-    "wholeSalePrice": 90
+    "wholeSalePrice": 90,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 25,
@@ -1532,7 +1672,6 @@
     "category": "Tapes",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "Perfect for a variety of applications, our double-sided tape provides strong adhesion on both sides, ensuring secure bonding without the mess. Ideal for crafts, mounting, and packaging, it offers a clean and efficient solution for all your sticking needs.",
     "features": {
       "material": "Made from tissue, foam, or film with adhesive on both sides.",
@@ -1550,7 +1689,7 @@
       "industrial tasks where two surfaces need to be joined discreetly"
     ],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Double Sided Tape.webp",
     "ratingFromFive": 4.6,
     "ratingCount": 168,
     "neccessaryGoods": [
@@ -1563,17 +1702,21 @@
         "size": "1\" - 10m",
         "regularPrice": 120,
         "wholeSalePrice": 110,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "2\" - 10m",
         "regularPrice": 240,
         "wholeSalePrice": 220,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 120,
-    "wholeSalePrice": 110
+    "wholeSalePrice": 110,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 26,
@@ -1582,7 +1725,6 @@
     "category": "Accessories",
     "sub_category": "Plastic Cup",
     "disposable": "Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "High-quality cups perfect for daily use, parties, and events. Designed for reliability and available in various sizes for all beverage needs.",
     "features": {
       "material": "Made from paper",
@@ -1615,11 +1757,14 @@
         "size": "200ml",
         "regularPrice": 750,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 750,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 27,
@@ -1628,7 +1773,6 @@
     "category": "Accessories",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "Durable, transparent yogurt cups perfect for desserts and snacks. Ideal for personal and commercial use. Order now!",
     "features": {
       "material": "Made from clear food-grade PET or PP plastic.",
@@ -1656,11 +1800,14 @@
         "size": "80ml",
         "regularPrice": 850,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 850,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 28,
@@ -1669,7 +1816,6 @@
     "category": "Accessories",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "Sturdy white yogurt cups for fresh and convenient servings. Ideal for dairy, desserts, and more. Order now!",
     "features": {
       "material": "Made from food-grade PET or PP plastic.",
@@ -1698,11 +1844,14 @@
         "size": "80ml",
         "regularPrice": 850,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 850,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 29,
@@ -1711,7 +1860,6 @@
     "category": "Accessories",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "",
     "features": {
       "material": "Made from food-grade plastic (PP or PET)",
@@ -1743,11 +1891,14 @@
         "size": "30ml",
         "regularPrice": 500,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 500,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 30,
@@ -1756,7 +1907,6 @@
     "category": "Accessories",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "Ideal for serving hot and cold beverages, our high-quality cups are designed for durability and convenience. Available in various sizes to suit different needs.",
     "features": {
       "material": "Made from food-grade plastic (PP or PET)",
@@ -1788,11 +1938,14 @@
         "size": "130ml",
         "regularPrice": 500,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 500,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 31,
@@ -1801,7 +1954,6 @@
     "category": "Accessories",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "Durable white tubs perfect for storing, packaging, and serving various food items. Ideal for commercial and household use.",
     "features": {
       "material": "Made from high-quality, food-grade PP plastic.",
@@ -1834,23 +1986,28 @@
         "size": "180ml",
         "regularPrice": 1500,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "250ml",
         "regularPrice": 1800,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "1l",
         "regularPrice": 3500,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 1500,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 32,
@@ -1859,7 +2016,6 @@
     "category": "Accessories",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "Transparent tubs designed for secure storage and packaging of food items. Ideal for both commercial and household use.",
     "features": {
       "material": "Made from clear food-grade PET or PP plastic",
@@ -1891,17 +2047,21 @@
         "size": "250ml",
         "regularPrice": 1800,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "500ml",
         "regularPrice": 2600,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 1800,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 33,
@@ -1910,7 +2070,6 @@
     "category": "Accessories",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "Lightweight and durable paper cups, perfect for serving hot and cold beverages. Ideal for cafes, events, and daily use.",
     "features": {
       "material": "Made from food-grade paper, often with a PE coating or biodegradable lining.",
@@ -1928,7 +2087,7 @@
       "events"
     ],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Paper Cup.webp",
     "ratingFromFive": 4.9,
     "ratingCount": 80,
     "neccessaryGoods": [
@@ -1941,29 +2100,35 @@
         "size": "150ml",
         "regularPrice": 500,
         "wholeSalePrice": 520,
-        "special_notes": "Customers have to purchase the paper cup and lid separately."
+        "special_notes": "Customers have to purchase the paper cup and lid separately.",
+        "per_one_price": ""
       },
       {
         "size": "250ml",
         "regularPrice": 950,
         "wholeSalePrice": 900,
-        "special_notes": ""
+        "special_notes": "Customers have to purchase the paper cup and lid separately.",
+        "per_one_price": ""
       },
       {
         "size": "300ml",
         "regularPrice": 1050,
         "wholeSalePrice": 1000,
-        "special_notes": ""
+        "special_notes": "Customers have to purchase the paper cup and lid separately.",
+        "per_one_price": ""
       },
       {
         "size": "400ml",
         "regularPrice": 1450,
         "wholeSalePrice": 1400,
-        "special_notes": ""
+        "special_notes": "Customers have to purchase the paper cup and lid separately.",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 500,
-    "wholeSalePrice": 520
+    "wholeSalePrice": 520,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 34,
@@ -1972,7 +2137,6 @@
     "category": "Accessories",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "",
     "mainDescription": "",
     "features": {
       "material": "",
@@ -1983,7 +2147,7 @@
     },
     "commonUsages": [],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Lid.webp",
     "ratingFromFive": 4.5,
     "ratingCount": 87,
     "neccessaryGoods": [
@@ -1996,11 +2160,14 @@
         "size": "",
         "regularPrice": 400,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "Customers have to purchase the paper cup and lid separately.",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 400,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 35,
@@ -2009,7 +2176,6 @@
     "category": "Accessories",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "Sturdy paper tubs perfect for packaging food items. Ideal for snacks, desserts, and takeaways, offering a sustainable solution for everyday use.",
     "features": {
       "material": "Made from food-grade paper, often with a PE coating or biodegradable lining.",
@@ -2040,11 +2206,14 @@
         "size": "300ml",
         "regularPrice": 1850,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 1850,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 36,
@@ -2053,7 +2222,6 @@
     "category": "Accessories",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "Environmentally friendly paper straws, perfect for beverages and reducing plastic waste. Strong, reliable, and compostable for a greener alternative.",
     "features": {
       "material": "",
@@ -2077,23 +2245,28 @@
         "size": "6mm",
         "regularPrice": 450,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "8mm",
         "regularPrice": 550,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "10mm",
         "regularPrice": 100,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 450,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 37,
@@ -2102,7 +2275,6 @@
     "category": "Accessories",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Pack",
     "mainDescription": "Soft, absorbent paper serviettes ideal for meals, events, and everyday use. A convenient and eco-friendly option for dining and cleanup.",
     "features": {
       "material": "",
@@ -2113,7 +2285,7 @@
     },
     "commonUsages": [],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Paper Serviate.webp",
     "ratingFromFive": 4.9,
     "ratingCount": 121,
     "neccessaryGoods": [
@@ -2126,11 +2298,14 @@
         "size": "",
         "regularPrice": 170,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 170,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 38,
@@ -2139,7 +2314,6 @@
     "category": "Accessories",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "Sturdy and disposable paper plates, perfect for parties, picnics, and everyday meals. A practical, eco-friendly option for serving food.",
     "features": {
       "material": "",
@@ -2150,7 +2324,7 @@
     },
     "commonUsages": [],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Paper Plate.webp",
     "ratingFromFive": 4.7,
     "ratingCount": 72,
     "neccessaryGoods": [
@@ -2163,17 +2337,21 @@
         "size": "Small",
         "regularPrice": 220,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "Large",
         "regularPrice": 320,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 220,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 39,
@@ -2182,7 +2360,6 @@
     "category": "Accessories",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "Sturdy PVC trays ideal for serving, storing, and organizing items. Lightweight and easy to clean, perfect for both home and commercial use.",
     "features": {
       "material": "Made from food-grade PVC (Polyvinyl Chloride).",
@@ -2211,23 +2388,28 @@
         "size": "100g",
         "regularPrice": 1100,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "250g",
         "regularPrice": 1750,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "500g",
         "regularPrice": 2750,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 1100,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 40,
@@ -2236,7 +2418,6 @@
     "category": "Storage Containers",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "Sturdy and versatile transparent boxes, perfect for organizing and storing items. Ideal for showcasing products while keeping them secure and visible.",
     "features": {
       "material": "Transparent Box (Plastic or PET), Aluminium Box (Food-grade aluminum), Lunch Box (Plastic or Stainless Steel), Plastic Box (PP, PET, or HDPE)",
@@ -2262,7 +2443,9 @@
     "type": "storage",
     "options": [],
     "regularPrice": 0,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 41,
@@ -2271,7 +2454,6 @@
     "category": "Storage Containers",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "Durable aluminum boxes are perfect for storage and packaging. Lightweight, corrosion-resistant, and ideal for both commercial and personal use.",
     "features": {
       "material": "",
@@ -2299,23 +2481,28 @@
         "size": "250ml",
         "regularPrice": 0,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "750ml",
         "regularPrice": 0,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "1200ml",
         "regularPrice": 0,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 0,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 42,
@@ -2324,7 +2511,6 @@
     "category": "Storage Containers",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "Durable and portable lunch boxes designed to keep your meals fresh. Ideal for school, work, or on-the-go. Perfect for easy and eco-friendly meal storage.",
     "features": {
       "material": "",
@@ -2335,7 +2521,7 @@
     },
     "commonUsages": [],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Lunch Box New.webp",
     "ratingFromFive": 5,
     "ratingCount": 86,
     "neccessaryGoods": [
@@ -2348,17 +2534,21 @@
         "size": "Medium",
         "regularPrice": 1350,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "Large",
         "regularPrice": 1650,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 1350,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 43,
@@ -2367,7 +2557,6 @@
     "category": "Storage Containers",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "Durable plastic boxes ideal for storage, organization, and packaging. Lightweight, stackable, and perfect for both home and commercial use.",
     "features": {
       "material": "",
@@ -2388,7 +2577,9 @@
     "type": "storage",
     "options": [],
     "regularPrice": 0,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 44,
@@ -2397,7 +2588,6 @@
     "category": "Industrial Supplies",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "High-quality PP (Polypropylene) balls, perfect for various uses including packaging, decoration, and crafts. Lightweight and strong for versatile applications.",
     "features": {
       "material": "",
@@ -2421,17 +2611,21 @@
         "size": "Small",
         "regularPrice": 50,
         "wholeSalePrice": 0,
-        "special_notes": "Pack & 1"
+        "special_notes": "Pack & 1",
+        "per_one_price": ""
       },
       {
         "size": "Large",
         "regularPrice": 1200,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 50,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 45,
@@ -2440,7 +2634,6 @@
     "category": "Industrial Supplies",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "",
     "mainDescription": "Versatile PVC sheets ideal for construction, signage, and various industrial applications. Lightweight, durable, and easy to cut, offering reliable performance for different projects.",
     "features": {
       "material": "Made from high-quality Polyvinyl Chloride (PVC).",
@@ -2471,23 +2664,28 @@
         "size": "12mm",
         "regularPrice": 300,
         "wholeSalePrice": 250,
-        "special_notes": "Cut and roll (50m)"
+        "special_notes": "Cut and roll (50m)",
+        "per_one_price": ""
       },
       {
         "size": "15mm",
         "regularPrice": 350,
         "wholeSalePrice": 300,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "25mm",
         "regularPrice": 500,
         "wholeSalePrice": 450,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 300,
-    "wholeSalePrice": 250
+    "wholeSalePrice": 250,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 46,
@@ -2496,7 +2694,6 @@
     "category": "Industrial Supplies",
     "sub_category": "",
     "disposable": "Both",
-    "price_determined_by": "Quantity",
     "mainDescription": "Elegant and durable tablecloths, perfect for enhancing your dining experience. Protects surfaces while adding a decorative touch to any table setting.",
     "features": {
       "material": "Made from cotton, polyester, linen, or PVC-coated fabric.",
@@ -2512,7 +2709,7 @@
       "event spaces to protect dining surfaces"
     ],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Table Cloth.webp",
     "ratingFromFive": 4.6,
     "ratingCount": 246,
     "neccessaryGoods": [
@@ -2525,11 +2722,14 @@
         "size": "1 y",
         "regularPrice": 0,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 0,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 47,
@@ -2538,7 +2738,6 @@
     "category": "Protective Packaging",
     "sub_category": "",
     "disposable": "Both",
-    "price_determined_by": "",
     "mainDescription": "Durable shrink film for secure packaging and wrapping. Perfect for protecting products, enhancing presentation, and providing a tight, secure seal.",
     "features": {
       "material": "Made from polyethylene (PE) or polyolefin (POF).",
@@ -2566,17 +2765,42 @@
         "size": "2\"",
         "regularPrice": 1400,
         "wholeSalePrice": 1300,
-        "special_notes": "1kg price"
+        "special_notes": "1kg price",
+        "per_one_price": ""
+      },
+      {
+        "size": "3\"",
+        "regularPrice": 1400,
+        "wholeSalePrice": 1300,
+        "special_notes": "1kg price",
+        "per_one_price": ""
+      },
+      {
+        "size": "3½\"",
+        "regularPrice": 1400,
+        "wholeSalePrice": 1300,
+        "special_notes": "1kg price",
+        "per_one_price": ""
+      },
+      {
+        "size": "4\"",
+        "regularPrice": 1400,
+        "wholeSalePrice": 1300,
+        "special_notes": "1kg price",
+        "per_one_price": ""
       },
       {
         "size": "5\" - 26\"",
         "regularPrice": 1250,
         "wholeSalePrice": 1150,
-        "special_notes": ""
+        "special_notes": "1kg price",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 1400,
-    "wholeSalePrice": 1300
+    "wholeSalePrice": 1300,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 48,
@@ -2585,7 +2809,6 @@
     "category": "Hardware",
     "sub_category": "",
     "disposable": "Both",
-    "price_determined_by": "Quantity",
     "mainDescription": "High-performance vacuum machines designed for fast and effective packaging. Ideal for sealing food, products, and other items to ensure freshness and protection.",
     "features": {
       "material": "Made from high-quality stainless steel and durable plastics.",
@@ -2611,7 +2834,9 @@
     "type": "hardware",
     "options": [],
     "regularPrice": 0,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 49,
@@ -2620,7 +2845,6 @@
     "category": "Accessories",
     "sub_category": "",
     "disposable": "Non - Disposable",
-    "price_determined_by": "Size",
     "mainDescription": "Durable strapping rolls ideal for securing and bundling items during shipping and storage. Provides a secure, tight seal for heavy-duty applications.",
     "features": {
       "material": "Made from polypropylene (PP), polyester (PET), or steel, depending on the application.",
@@ -2648,11 +2872,14 @@
         "size": "1000m",
         "regularPrice": 0,
         "wholeSalePrice": 0,
-        "special_notes": "1m = rs. 5000"
+        "special_notes": "1m = rs. 5000",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 0,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 50,
@@ -2661,7 +2888,6 @@
     "category": "Industrial Supplies",
     "sub_category": "",
     "disposable": "Non - Disposable",
-    "price_determined_by": "Size",
     "mainDescription": "High-quality, one-color carpets offering a sleek and clean look. Perfect for any room, providing comfort, style, and durability.",
     "features": {
       "material": "Made from high-quality synthetic fibers, wool, or blended materials.",
@@ -2692,11 +2918,14 @@
         "size": "",
         "regularPrice": 950,
         "wholeSalePrice": 900,
-        "special_notes": "roll = 30y"
+        "special_notes": "roll = 30y",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 950,
-    "wholeSalePrice": 900
+    "wholeSalePrice": 900,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 51,
@@ -2705,7 +2934,6 @@
     "category": "Industrial Supplies",
     "sub_category": "",
     "disposable": "Non - Disposable",
-    "price_determined_by": "Size",
     "mainDescription": "Vibrant and patterned carpets that add character and elegance to any space. Durable, easy to maintain, and perfect for enhancing the decor of your home or office.",
     "features": {
       "material": "",
@@ -2716,7 +2944,7 @@
     },
     "commonUsages": [],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Carpet one color(floor mat).webp",
     "ratingFromFive": 4.7,
     "ratingCount": 54,
     "neccessaryGoods": [
@@ -2729,11 +2957,14 @@
         "size": "",
         "regularPrice": 850,
         "wholeSalePrice": 800,
-        "special_notes": "roll = 30y"
+        "special_notes": "roll = 30y",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 850,
-    "wholeSalePrice": 800
+    "wholeSalePrice": 800,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 52,
@@ -2742,7 +2973,6 @@
     "category": "Agricultural Supplies",
     "sub_category": "",
     "disposable": "Non - Disposable",
-    "price_determined_by": "Weight",
     "mainDescription": "Sturdy and breathable mushroom bags designed for optimal growth conditions. Perfect for home or commercial mushroom farming, ensuring a healthy and productive yield.",
     "features": {
       "material": "Mushroom Bag (Plastic or biodegradable material), Mushroom Seeds (High-quality spores), CaCO3 (Calcium Carbonate), Magnesium Sulfate, and Gypsum (Agricultural-grade).",
@@ -2753,7 +2983,7 @@
     },
     "commonUsages": [],
     "tagline": "100% Recycled",
-    "image": "/Assets/ProductsImages/Mushroom Seeds New.webp",
+    "image": "/Assets/ProductsImages/Mushroom Bag New.webp",
     "ratingFromFive": 4.8,
     "ratingCount": 168,
     "neccessaryGoods": [
@@ -2766,17 +2996,21 @@
         "size": "7 x 13 Bags",
         "regularPrice": 780,
         "wholeSalePrice": 0,
-        "special_notes": "Wholesale price = 780"
+        "special_notes": "Wholesale price = 780",
+        "per_one_price": ""
       },
       {
         "size": "7 x 10 Bags",
         "regularPrice": 780,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 780,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 53,
@@ -2785,7 +3019,6 @@
     "category": "Agricultural Supplies",
     "sub_category": "",
     "disposable": "Non - Disposable",
-    "price_determined_by": "Pack",
     "mainDescription": "Premium mushroom seeds for successful cultivation. Ideal for both beginners and experienced growers, ensuring strong growth and high yields.",
     "features": {
       "material": "",
@@ -2810,7 +3043,9 @@
     "type": "agricultural",
     "options": [],
     "regularPrice": 0,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 54,
@@ -2819,7 +3054,6 @@
     "category": "Agricultural Supplies",
     "sub_category": "",
     "disposable": "Non - Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "Pure Calcium Carbonate (CaCO3) ideal for a range of applications including agriculture, construction, and manufacturing. Offers reliable performance in various industries.",
     "features": {
       "material": "",
@@ -2830,7 +3064,7 @@
     },
     "commonUsages": [],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Calcium Carbonate New.webp",
     "ratingFromFive": 4.8,
     "ratingCount": 54,
     "neccessaryGoods": [
@@ -2843,11 +3077,14 @@
         "size": "25kg",
         "regularPrice": 0,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 0,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 55,
@@ -2856,7 +3093,6 @@
     "category": "Agricultural Supplies",
     "sub_category": "",
     "disposable": "Non - Disposable",
-    "price_determined_by": "",
     "mainDescription": "High-quality Magnesium Sulphate used for fertilizers, agriculture, and various industrial applications. Promotes plant growth and enhances soil quality, making it essential for farming.",
     "features": {
       "material": "",
@@ -2867,7 +3103,7 @@
     },
     "commonUsages": [],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Magnesium Sulphate 2.webp",
     "ratingFromFive": 4.7,
     "ratingCount": 184,
     "neccessaryGoods": [
@@ -2880,17 +3116,21 @@
         "size": "1kg",
         "regularPrice": 0,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "25kg",
         "regularPrice": 0,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 0,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 56,
@@ -2899,7 +3139,6 @@
     "category": "Agricultural Supplies",
     "sub_category": "",
     "disposable": "Non - Disposable",
-    "price_determined_by": "",
     "mainDescription": "High-quality gypsum for agricultural, construction, and industrial uses. Improves soil structure, promotes healthy plant growth, and is ideal for plastering and drywall applications.",
     "features": {
       "material": "",
@@ -2923,17 +3162,21 @@
         "size": "1kg",
         "regularPrice": 0,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "25kg",
         "regularPrice": 0,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 0,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 57,
@@ -2942,7 +3185,6 @@
     "category": "Accessories",
     "sub_category": "",
     "disposable": "Non - Disposable",
-    "price_determined_by": "",
     "mainDescription": "Durable rubber bands ideal for organizing, bundling, and securing items. Available in various sizes, perfect for both office and everyday use.",
     "features": {
       "material": "Made from high-quality natural or synthetic rubber.",
@@ -2972,17 +3214,21 @@
         "size": "100g",
         "regularPrice": 0,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "1kg",
         "regularPrice": 0,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 0,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 58,
@@ -2991,7 +3237,6 @@
     "category": "Hardware",
     "sub_category": "",
     "disposable": "Non - Disposable",
-    "price_determined_by": "Size",
     "mainDescription": "High-quality nylon rope, known for its strength and flexibility. Perfect for outdoor, industrial, and general use, offering reliable performance in various applications.",
     "features": {
       "material": "Made from high-quality synthetic nylon fibers.",
@@ -3007,7 +3252,7 @@
       "sports"
     ],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Nylon Rope.webp",
     "ratingFromFive": 4.9,
     "ratingCount": 135,
     "neccessaryGoods": [
@@ -3020,89 +3265,105 @@
         "size": "2mm",
         "regularPrice": 400,
         "wholeSalePrice": 350,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "3mm",
         "regularPrice": 650,
         "wholeSalePrice": 600,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "4mm",
         "regularPrice": 1300,
         "wholeSalePrice": 1200,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "5mm",
         "regularPrice": 1750,
         "wholeSalePrice": 1600,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "6mm",
         "regularPrice": 2300,
         "wholeSalePrice": 2150,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "7mm",
         "regularPrice": 3000,
         "wholeSalePrice": 2800,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "8mm",
         "regularPrice": 4100,
         "wholeSalePrice": 3750,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "9mm",
         "regularPrice": 4900,
         "wholeSalePrice": 4500,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "10mm",
         "regularPrice": 6500,
         "wholeSalePrice": 6000,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "12mm",
         "regularPrice": 9500,
         "wholeSalePrice": 8900,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "14mm",
         "regularPrice": 12500,
         "wholeSalePrice": 11500,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "16mm",
         "regularPrice": 15500,
         "wholeSalePrice": 14500,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "18mm",
         "regularPrice": 22500,
         "wholeSalePrice": 20500,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "20mm",
         "regularPrice": 24500,
         "wholeSalePrice": 22500,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 400,
-    "wholeSalePrice": 350
+    "wholeSalePrice": 350,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 59,
@@ -3111,7 +3372,6 @@
     "category": "Agricultural Supplies",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "Weight",
     "mainDescription": "Durable grow bags ideal for gardening and plant cultivation. Perfect for vegetables, flowers, and herbs, providing excellent drainage and root growth.",
     "features": {
       "material": "Made from durable, breathable fabric or non-woven material.",
@@ -3129,7 +3389,7 @@
       "flowers"
     ],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Grow Bag.webp",
     "ratingFromFive": 4.7,
     "ratingCount": 232,
     "neccessaryGoods": [
@@ -3142,23 +3402,28 @@
         "size": "7\" x 9\"",
         "regularPrice": 700,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "8\" x 8\"",
         "regularPrice": 680,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "14\" x 14\"",
         "regularPrice": 650,
         "wholeSalePrice": 0,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 700,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 60,
@@ -3167,7 +3432,6 @@
     "category": "Industrial Supplies",
     "sub_category": "",
     "disposable": "",
-    "price_determined_by": "Weight",
     "mainDescription": "Durable polypropylene polythene ideal for packaging, storage, and industrial use. Offers excellent strength, flexibility, and moisture resistance. Food Gradable",
     "features": {
       "material": "Made from a combination of Polypropylene (PP) and Polyethylene (PE).",
@@ -3198,23 +3462,231 @@
         "size": "1/2\" - 2\"",
         "regularPrice": 780,
         "wholeSalePrice": 750,
-        "special_notes": "Cut - 780"
+        "special_notes": "Cut - 780",
+        "per_one_price": ""
       },
       {
         "size": "3\" - 150",
         "regularPrice": 720,
         "wholeSalePrice": 700,
-        "special_notes": "Cut - 720. Thickness (150gage and 250gage)"
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
+      },
+      {
+        "size": "3\" - 250",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
+      },
+      {
+        "size": "4\" - 150",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
+      },
+      {
+        "size": "4\" - 250",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
+      },
+      {
+        "size": "5\" - 150",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
+      },
+      {
+        "size": "5\" - 250",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
+      },
+      {
+        "size": "6\" - 150",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
+      },
+      {
+        "size": "6\" - 250",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
+      },
+      {
+        "size": "7\" - 150",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
+      },
+      {
+        "size": "7\" - 250",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
+      },
+      {
+        "size": "8\" - 150",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
+      },
+      {
+        "size": "8\" - 250",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
+      },
+      {
+        "size": "9\" - 150",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
+      },
+      {
+        "size": "9\" - 250",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
+      },
+      {
+        "size": "10\" - 150",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
+      },
+      {
+        "size": "10\" - 250",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
+      },
+      {
+        "size": "11\" - 150",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
+      },
+      {
+        "size": "11\" - 250",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
+      },
+      {
+        "size": "12\" - 150",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
+      },
+      {
+        "size": "12\" - 250",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
+      },
+      {
+        "size": "14\" - 150",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
+      },
+      {
+        "size": "14\" - 250",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
+      },
+      {
+        "size": "16\" - 150",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
+      },
+      {
+        "size": "16\" - 250",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
       },
       {
         "size": "16\" - 130",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
+      },
+      {
+        "size": "16\" - 150",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
+      },
+      {
+        "size": "18\" - 150",
         "regularPrice": 800,
         "wholeSalePrice": 0,
-        "special_notes": "bags"
+        "special_notes": "bags",
+        "per_one_price": ""
+      },
+      {
+        "size": "20\" - 150",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
+      },
+      {
+        "size": "22\" - 150",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
+      },
+      {
+        "size": "26\" - 150",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
+        "per_one_price": ""
+      },
+      {
+        "size": "16\" - 130",
+        "regularPrice": 720,
+        "wholeSalePrice": 700,
+        "special_notes": "bags",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 780,
-    "wholeSalePrice": 750
+    "wholeSalePrice": 750,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 61,
@@ -3223,7 +3695,6 @@
     "category": "Industrial Supplies",
     "sub_category": "",
     "disposable": "",
-    "price_determined_by": "",
     "mainDescription": "High-quality LDPE (Low-Density Polyethylene) material, perfect for clean and reliable packaging, offering flexibility, moisture resistance, and durability. Ideal for various applications.",
     "features": {
       "material": "Made from high-quality Low-Density Polyethylene (LDPE).",
@@ -3253,23 +3724,28 @@
         "size": "1\"",
         "regularPrice": 1300,
         "wholeSalePrice": 1200,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "3\" - 150",
         "regularPrice": 850,
         "wholeSalePrice": 820,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "12\" - 300",
         "regularPrice": 750,
         "wholeSalePrice": 720,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 1300,
-    "wholeSalePrice": 1200
+    "wholeSalePrice": 1200,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 62,
@@ -3278,7 +3754,6 @@
     "category": "Hardware",
     "sub_category": "",
     "disposable": "Non - Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "Compact and easy-to-use hand sealer for securely sealing plastic bags. Ideal for packaging, ensuring airtight and durable seals.",
     "features": {
       "material": "Constructed from durable stainless steel, plastic, or other heavy-duty materials.",
@@ -3305,7 +3780,9 @@
     "type": "hardware",
     "options": [],
     "regularPrice": 0,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 63,
@@ -3314,7 +3791,6 @@
     "category": "Hardware",
     "sub_category": "",
     "disposable": "Non - Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "High-speed band sealer for continuous, secure sealing of plastic bags. Perfect for industrial and commercial packaging needs.",
     "features": {
       "material": "",
@@ -3334,8 +3810,10 @@
     ],
     "type": "hardware",
     "options": [],
-    "regularPrice": 0,
-    "wholeSalePrice": 0
+    "regularPrice": 125000,
+    "wholeSalePrice": 120000,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 64,
@@ -3344,7 +3822,6 @@
     "category": "Accessories",
     "sub_category": "",
     "disposable": "Non - Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "High-quality sealer tape with heating element for airtight and durable seals. Ideal for packaging and industrial applications.",
     "features": {
       "material": "Made from high-quality adhesive tape, combined with an integrated sealing element",
@@ -3372,7 +3849,9 @@
     "type": "accessories",
     "options": [],
     "regularPrice": 0,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 65,
@@ -3381,7 +3860,6 @@
     "category": "Industrial Supplies",
     "sub_category": "",
     "disposable": "Disposable",
-    "price_determined_by": "",
     "mainDescription": "High-quality master batch for enhancing plastic products with vibrant colors and improved properties. Suitable for manufacturing and industrial use.",
     "features": {
       "material": "Composed of concentrated color pigments or additives blended with a carrier resin.",
@@ -3398,7 +3876,7 @@
       "various molded products"
     ],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Master Batch Red New.webp",
     "ratingFromFive": 4.5,
     "ratingCount": 93,
     "neccessaryGoods": [
@@ -3408,7 +3886,9 @@
     "type": "industrial",
     "options": [],
     "regularPrice": 0,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 66,
@@ -3417,7 +3897,6 @@
     "category": "Industrial Supplies",
     "sub_category": "",
     "disposable": "Non - Disposable",
-    "price_determined_by": "Quantity",
     "mainDescription": "Precision scales for measuring weight efficiently. Ideal for commercial, industrial, and household applications.",
     "features": {
       "material": "Made from durable materials such as stainless steel, plastic, or aluminum.",
@@ -3448,11 +3927,14 @@
         "size": "5kg",
         "regularPrice": 2700,
         "wholeSalePrice": 0,
-        "special_notes": "5kg - 2700"
+        "special_notes": "5kg - 2700",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 2700,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 67,
@@ -3461,7 +3943,6 @@
     "category": "Industrial Supplies",
     "sub_category": "",
     "disposable": "",
-    "price_determined_by": "Quantity",
     "mainDescription": "Durable tape dispenser for quick and smooth application. Perfect for office, packaging, and industrial use.",
     "features": {
       "material": "Made from durable plastic, metal, or a combination of both materials.",
@@ -3487,7 +3968,9 @@
     "type": "industrial",
     "options": [],
     "regularPrice": 0,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 68,
@@ -3496,7 +3979,6 @@
     "category": "Industrial Supplies",
     "sub_category": "",
     "disposable": "",
-    "price_determined_by": "Quantity",
     "mainDescription": "High-performance hot gun for sealing, bonding, and crafting applications. Ideal for industrial and DIY projects.",
     "features": {
       "material": "Made from durable plastic and metal components designed to withstand high temperatures.",
@@ -3523,7 +4005,9 @@
     "type": "industrial",
     "options": [],
     "regularPrice": 0,
-    "wholeSalePrice": 0
+    "wholeSalePrice": 0,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 69,
@@ -3532,7 +4016,6 @@
     "category": "Industrial Supplies",
     "sub_category": "",
     "disposable": "",
-    "price_determined_by": "Weight",
     "mainDescription": "Durable black polythene for packaging, covering, and industrial applications. Provides excellent strength and UV protection.",
     "features": {
       "material": "Made from high-quality low-density polyethylene (LDPE) or high-density polyethylene (HDPE).",
@@ -3560,23 +4043,28 @@
         "size": "2'",
         "regularPrice": 0,
         "wholeSalePrice": 350,
-        "special_notes": "roll = 350 = 1kg"
+        "special_notes": "roll = 350 = 1kg",
+        "per_one_price": ""
       },
       {
         "size": "3' (850 gauge)",
         "regularPrice": 0,
         "wholeSalePrice": 350,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "3' (500 gauge)",
         "regularPrice": 0,
         "wholeSalePrice": 350,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 0,
-    "wholeSalePrice": 350
+    "wholeSalePrice": 350,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 70,
@@ -3585,7 +4073,6 @@
     "category": "Industrial Supplies",
     "sub_category": "",
     "disposable": "",
-    "price_determined_by": "Weight",
     "mainDescription": "Durable black polythene for packaging, covering, and industrial applications. Provides excellent strength and UV protection.",
     "features": {
       "material": "",
@@ -3609,32 +4096,36 @@
         "size": "2'",
         "regularPrice": 0,
         "wholeSalePrice": 550,
-        "special_notes": "roll = 550"
+        "special_notes": "roll = 550",
+        "per_one_price": ""
       },
       {
         "size": "3' (500 gauge)",
         "regularPrice": 0,
         "wholeSalePrice": 550,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "3' (300 gauge)",
         "regularPrice": 0,
         "wholeSalePrice": 550,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 0,
-    "wholeSalePrice": 550
+    "wholeSalePrice": 550,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 71,
-    "title": "Color Polythene – Vibrant & Durable Packaging Solution",
+    "title": "Color Polythene (2\") – Vibrant & Durable Packaging Solution",
     "product_name": "Color Polythene (2\")",
     "category": "Industrial Supplies",
     "sub_category": "",
     "disposable": "",
-    "price_determined_by": "Weight",
     "mainDescription": "High-quality colored polythene for packaging and wrapping. Available in various colors for versatile applications.",
     "features": {
       "material": "Made from high-quality polyethylene (LDPE or HDPE), available in a variety of colors.",
@@ -3663,39 +4154,47 @@
         "size": "White",
         "regularPrice": 0,
         "wholeSalePrice": 600,
-        "special_notes": "If a client buys a roll, the price per 1kg will be 600"
+        "special_notes": "If a client buys a roll, the price per 1kg will be 600",
+        "per_one_price": ""
       },
       {
         "size": "Dark Green",
         "regularPrice": 0,
         "wholeSalePrice": 500,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 0,
-    "wholeSalePrice": 600
+    "wholeSalePrice": 600,
+    "retail_limit": 100,
+    "per_one_price": ""
   },
   {
     "id": 72,
-    "title": "Color Polythene (3\")",
+    "title": "Color Polythene (3\") – Vibrant & Durable Packaging Solution",
     "product_name": "Color Polethene (3\")",
     "category": "Industrial Supplies",
     "sub_category": "",
     "disposable": "",
-    "price_determined_by": "Weight",
-    "mainDescription": "",
+    "mainDescription": "High-quality colored polythene for packaging and wrapping. Available in various colors for versatile applications.",
     "features": {
-      "material": "",
-      "durability": "",
-      "waterproof": "",
+      "material": "Made from high-quality polyethylene (LDPE or HDPE), available in a variety of colors.",
+      "durability": "Strong, tear-resistant, and stretchable, ensuring long-lasting use even in demanding conditions.",
+      "waterproof": "Provides excellent moisture protection, making it suitable for packaging sensitive items.",
       "customizable": "N/A",
-      "transparency": ""
+      "transparency": "Available in opaque"
     },
-    "commonUsages": [],
+    "commonUsages": [
+      "packaging applications",
+      "including shopping bags",
+      "promotional packaging",
+      "product wraps"
+    ],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
-    "ratingFromFive": 4.8,
-    "ratingCount": 176,
+    "image": "/Assets/ProductsImages/Color Polythene.webp",
+    "ratingFromFive": 4.5,
+    "ratingCount": 242,
     "neccessaryGoods": [
       "eco-friendly",
       "packaging"
@@ -3706,16 +4205,20 @@
         "size": "White",
         "regularPrice": 0,
         "wholeSalePrice": 750,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       },
       {
         "size": "Dark Green",
         "regularPrice": 0,
         "wholeSalePrice": 700,
-        "special_notes": ""
+        "special_notes": "",
+        "per_one_price": ""
       }
     ],
     "regularPrice": 0,
-    "wholeSalePrice": 750
+    "wholeSalePrice": 750,
+    "retail_limit": 100,
+    "per_one_price": ""
   }
 ]

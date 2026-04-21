@@ -202,20 +202,20 @@ export default function PlaceOrderPage() {
 
     const itemLines = orderItems
       .map((item, i) => {
-          const prod = productsData.find((p) => p.id === item.productId);
-          const qty = item.quantity as number;
-          const optionData = prod?.options.find(opt => opt.size === item.option);
-          const regularPrice = optionData ? optionData.regularPrice : (prod?.regularPrice || 0);
-          const wholeSalePrice = optionData ? optionData.wholeSalePrice : (prod?.wholeSalePrice || 0);
-          const price = qty >= 500 ? wholeSalePrice : regularPrice;
-          const subtotal = (price || 0) * qty;
-          return (
-            `  ${i + 1}. ${prod?.title || "Unknown Product"}\n` +
-            `     ├ Size    : ${item.option}\n` +
-            `     ├ Quantity: ${qty} Packs (${qty * 1000} pieces)\n` +
-            `     ├ Pricing : ${qty >= 500 ? "Wholesale" : "Regular"} Rate – LKR ${price?.toFixed(2)} / pack\n` +
-            `     └ Subtotal: LKR ${subtotal.toFixed(2)}`
-          );
+        const prod = productsData.find((p) => p.id === item.productId);
+        const qty = item.quantity as number;
+        const optionData = prod?.options.find(opt => opt.size === item.option);
+        const regularPrice = optionData ? optionData.regularPrice : (prod?.regularPrice || 0);
+        const wholeSalePrice = optionData ? optionData.wholeSalePrice : (prod?.wholeSalePrice || 0);
+        const price = qty >= 500 ? wholeSalePrice : regularPrice;
+        const subtotal = (price || 0) * qty;
+        return (
+          `  ${i + 1}. ${prod?.title || "Unknown Product"}\n` +
+          `     ├ Size    : ${item.option}\n` +
+          `     ├ Quantity: ${qty} Packs (${qty * 1000} pieces)\n` +
+          `     ├ Pricing : ${qty >= 500 ? "Wholesale" : "Regular"} Rate – LKR ${price?.toFixed(2)} / pack\n` +
+          `     └ Subtotal: LKR ${subtotal.toFixed(2)}`
+        );
       })
       .join("\n\n");
 
@@ -481,7 +481,7 @@ export default function PlaceOrderPage() {
                   {item.quantity && (item.quantity as number) > 0 && (
                     <Box sx={{ mt: 1, p: 1.5, borderRadius: "10px", backgroundColor: (item.quantity as number) >= 500 ? "#f0faf3" : "#fafafa", border: "1px solid", borderColor: (item.quantity as number) >= 500 ? "#629474" : "#e0e0e0" }}>
                       <Typography sx={{ fontSize: "11px", fontFamily: poppins.style.fontFamily, color: (item.quantity as number) >= 500 ? "#629474" : "#888", fontWeight: 500 }}>
-                        {(item.quantity as number) >= 500 ? "🎉 Wholesale rate applied!" : `Order ${500 - (item.quantity as number)} more packs for wholesale pricing`}
+                        {(item.quantity as number) >= 500 ? "Wholesale rate applied!" : `Order ${500 - (item.quantity as number)} more packs for wholesale pricing`}
                       </Typography>
                     </Box>
                   )}
@@ -836,7 +836,7 @@ export default function PlaceOrderPage() {
               <Box sx={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
                 <Box>
                   <Typography sx={{ fontFamily: poppins.style.fontFamily, fontSize: "13px", fontWeight: 700, color: "#629474" }}>
-                     Senasuma Polythene
+                    Senasuma Polythene
                   </Typography>
                   <Typography sx={{ fontFamily: poppins.style.fontFamily, fontSize: "11px", color: "#aaa" }}>
                     www.senasuma.lk · +94 71 684 3344
