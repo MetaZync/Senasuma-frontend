@@ -16,8 +16,10 @@ import ShoppingBagIcon from "@mui/icons-material/ShoppingBag";
 import StarIcon from "@mui/icons-material/Star";
 import DescriptionIcon from "@mui/icons-material/Description";
 import CloseIcon from "@mui/icons-material/Close";
+import ErrorOutlineIcon from "@mui/icons-material/ErrorOutline";
 import OrderButton from "@/components/Button";
 import FadeIn from "@/components/FadeIn";
+import CircularProgress from "@mui/material/CircularProgress";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -70,6 +72,26 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
   const [selectedSize, setSelectedSize] = React.useState(product.options?.[0] || { size: "Default", regularPrice: product.regularPrice, wholeSalePrice: product.wholeSalePrice, image: "" });
   const [currentImage, setCurrentImage] = React.useState(product.image);
   const [pdfOpen, setPdfOpen] = React.useState(false);
+  const [pdfError, setPdfError] = React.useState(false);
+  const [isLoadingPdf, setIsLoadingPdf] = React.useState(false);
+
+  const handleOpenPdf = async () => {
+    if (!product.pdf) return;
+    setIsLoadingPdf(true);
+    setPdfOpen(true);
+    try {
+      const response = await fetch(product.pdf, { method: "HEAD" });
+      if (response.ok) {
+        setPdfError(false);
+      } else {
+        setPdfError(true);
+      }
+    } catch {
+      setPdfError(true);
+    } finally {
+      setIsLoadingPdf(false);
+    }
+  };
 
   React.useEffect(() => {
     if (product.options && product.options.length > 0) {
@@ -159,7 +181,7 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
               </Typography>
               {product.pdf && (
                 <Box
-                  onClick={() => setPdfOpen(true)}
+                  onClick={handleOpenPdf}
                   sx={{
                     cursor: "pointer",
                     display: "inline-flex",
@@ -503,13 +525,62 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
           </Box>
 
           <Box sx={{ flex: 1, position: "relative", overflow: "hidden" }}>
-            <iframe
-              src={product.pdf}
-              width="100%"
-              height="100%"
-              style={{ border: "none", display: "block" }}
-              title={`${product.title} PDF`}
-            />
+            {isLoadingPdf ? (
+              <Box
+                sx={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "center",
+                  height: "100%",
+                }}
+              >
+                <CircularProgress sx={{ color: "#629474" }} />
+              </Box>
+            ) : pdfError ? (
+              <Box
+                sx={{
+                  display: "flex",
+                  flexDirection: "column",
+                  alignItems: "center",
+                  justifyContent: "center",
+                  height: "100%",
+                  backgroundColor: "#f9f9f9",
+                  p: 4,
+                  textAlign: "center"
+                }}
+              >
+                <ErrorOutlineIcon sx={{ fontSize: "64px", color: "#d32f2f", mb: 2 }} />
+                <Typography
+                  sx={{
+                    fontSize: { xs: "24px", md: "32px" },
+                    fontWeight: 600,
+                    fontFamily: poppins.style.fontFamily,
+                    color: "#000",
+                    mb: 1
+                  }}
+                >
+                  Oops! Document Not Found
+                </Typography>
+                <Typography
+                  sx={{
+                    fontSize: "16px",
+                    color: "#7a7a7a",
+                    fontFamily: poppins.style.fontFamily,
+                    maxWidth: "500px"
+                  }}
+                >
+                  We couldn't locate the PDF for this product. It might have been removed or temporarily unavailable. Please check back later.
+                </Typography>
+              </Box>
+            ) : (
+              <iframe
+                src={product.pdf}
+                width="100%"
+                height="100%"
+                style={{ border: "none", display: "block" }}
+                title={`${product.title} PDF`}
+              />
+            )}
           </Box>
         </Box>
       </Modal>
