@@ -39,6 +39,7 @@ interface ProductOption {
   size: string;
   regularPrice: number;
   wholeSalePrice: number;
+  image?: string;
 }
 
 interface Product {

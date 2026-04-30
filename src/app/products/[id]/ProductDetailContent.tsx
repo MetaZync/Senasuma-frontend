@@ -7,11 +7,15 @@ import {
   Stack,
   Container,
   Rating,
+  Modal,
+  IconButton,
 } from "@mui/material";
 import Image from "next/image";
 import { Poppins } from "next/font/google";
 import ShoppingBagIcon from "@mui/icons-material/ShoppingBag";
 import StarIcon from "@mui/icons-material/Star";
+import DescriptionIcon from "@mui/icons-material/Description";
+import CloseIcon from "@mui/icons-material/Close";
 import OrderButton from "@/components/Button";
 import FadeIn from "@/components/FadeIn";
 
@@ -25,6 +29,7 @@ export interface ProductOption {
   regularPrice: number;
   wholeSalePrice: number;
   special_notes?: string;
+  image?: string;
 }
 
 export interface Product {
@@ -52,6 +57,7 @@ export interface Product {
   regularPrice: number;
   wholeSalePrice: number;
   image: string;
+  pdf?: string;
   options: ProductOption[];
 }
 
@@ -61,13 +67,24 @@ interface ProductDetailContentProps {
 }
 
 export default function ProductDetailContent({ product }: ProductDetailContentProps) {
-  const [selectedSize, setSelectedSize] = React.useState(product.options?.[0] || { size: "Default", regularPrice: product.regularPrice, wholeSalePrice: product.wholeSalePrice });
+  const [selectedSize, setSelectedSize] = React.useState(product.options?.[0] || { size: "Default", regularPrice: product.regularPrice, wholeSalePrice: product.wholeSalePrice, image: "" });
+  const [currentImage, setCurrentImage] = React.useState(product.image);
+  const [pdfOpen, setPdfOpen] = React.useState(false);
 
   React.useEffect(() => {
     if (product.options && product.options.length > 0) {
       setSelectedSize(product.options[0]);
     }
+    setCurrentImage(product.image);
   }, [product]);
+
+  React.useEffect(() => {
+    if (selectedSize.image && selectedSize.image.trim() !== "") {
+      setCurrentImage(selectedSize.image);
+    } else {
+      setCurrentImage(product.image);
+    }
+  }, [selectedSize, product.image]);
 
   return (
     <Box sx={{ backgroundColor: "#ffffff", pt: { xs: 24, sm: 26, md: 20, lg: 24 }, pb: 8 }}>
@@ -91,7 +108,7 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
               }}
             >
               <Image
-                src={product.image}
+                src={currentImage}
                 alt={product.title}
                 fill
                 sizes="(max-width: 768px) 100vw, 50vw"
@@ -100,6 +117,7 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
               />
             </Box>
           </FadeIn>
+
 
           <FadeIn delay={0.2} style={{ flex: 1.2, width: "100%" }}>
             <Box sx={{ px: { xs: 1, sm: 0 } }}>
@@ -139,6 +157,36 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
               >
                 Material : {product.features?.material || "Not Mentioned"}
               </Typography>
+              {product.pdf && (
+                <Box
+                  onClick={() => setPdfOpen(true)}
+                  sx={{
+                    cursor: "pointer",
+                    display: "inline-flex",
+                    alignItems: "center",
+                    gap: 1,
+                    mb: 2,
+                    color: "#ffffff",
+                    background: "linear-gradient(to right, #8DC38B, #527F65)",
+                    textDecoration: "none",
+                    fontFamily: poppins.style.fontFamily,
+                    fontSize: "14px",
+                    fontWeight: 600,
+                    transition: "all 0.2s ease",
+                    border: "1px solid",
+
+                    borderRadius: "30px",
+                    padding: "10px",
+                    "&:hover": {
+                      color: "#629474",
+                      background: "linear-gradient(to right, #ffffffff, #ffffffff)",
+                    },
+                  }}
+                >
+                  <DescriptionIcon sx={{ fontSize: "18px" }} />
+                  <span>See more on Product</span>
+                </Box>
+              )}
 
               <Typography
                 sx={{
@@ -214,6 +262,7 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
                   ))}
                 </Stack>
               </Stack>
+
 
               {product.options && product.options.length > 1 && (
                 <Box sx={{ mb: 4 }}>
@@ -400,6 +449,70 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
           </FadeIn>
         </Stack>
       </Container>
+
+      <Modal
+        open={pdfOpen}
+        onClose={() => setPdfOpen(false)}
+        sx={{
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+          p: { xs: 2, md: 4 },
+          "& .MuiBackdrop-root": {
+            backdropFilter: "blur(5px)",
+            backgroundColor: "rgba(0, 0, 0, 0.4)",
+          },
+        }}
+      >
+        <Box
+          sx={{
+            width: "100%",
+            maxWidth: "1000px",
+            height: "90vh",
+            backgroundColor: "#fff",
+            borderRadius: "16px",
+            overflow: "hidden",
+            display: "flex",
+            flexDirection: "column",
+            position: "relative",
+            boxShadow: 24,
+            outline: "none",
+          }}
+        >
+          <Box
+            sx={{
+              display: "flex",
+              justifyContent: "space-between",
+              alignItems: "center",
+              p: 2,
+              borderBottom: "1px solid #e0e0e0",
+            }}
+          >
+            <Typography
+              sx={{
+                fontSize: "18px",
+                fontWeight: 600,
+                fontFamily: poppins.style.fontFamily,
+              }}
+            >
+              {product.title}
+            </Typography>
+            <IconButton onClick={() => setPdfOpen(false)} sx={{ color: "#7a7a7a" }}>
+              <CloseIcon />
+            </IconButton>
+          </Box>
+
+          <Box sx={{ flex: 1, position: "relative", overflow: "hidden" }}>
+            <iframe
+              src={product.pdf}
+              width="100%"
+              height="100%"
+              style={{ border: "none", display: "block" }}
+              title={`${product.title} PDF`}
+            />
+          </Box>
+        </Box>
+      </Modal>
     </Box>
   );
 }

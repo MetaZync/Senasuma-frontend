@@ -122,22 +122,27 @@ export default function ProductCard({
       </Box>
 
       <Box sx={{ display: "flex", flexDirection: "column", gap: "8px", px: { xs: "4px", md: "8px" }, flexGrow: 1 }}>
-        <Typography
-          variant="h4"
-          sx={{
-            fontSize: { xs: "16px", sm: "18px", md: "22px" },
-            fontWeight: 600,
-            color: "#000000",
-            fontFamily: poppins.style.fontFamily,
-            display: "-webkit-box",
-            WebkitLineClamp: 2,
-            WebkitBoxOrient: "vertical",
-            overflow: "hidden",
-            lineHeight: 1.2,
-          }}
-        >
-          {title}
-        </Typography>
+        <Link href={`/products/${id}`} style={{ textDecoration: "none" }}>
+          <Typography
+            variant="h4"
+            sx={{
+              fontSize: { xs: "16px", sm: "18px", md: "22px" },
+              fontWeight: 600,
+              color: "#000000",
+              fontFamily: poppins.style.fontFamily,
+              display: "-webkit-box",
+              WebkitLineClamp: 2,
+              WebkitBoxOrient: "vertical",
+              overflow: "hidden",
+              lineHeight: 1.2,
+              "&:hover": {
+                color: "#629474",
+              },
+            }}
+          >
+            {title}
+          </Typography>
+        </Link>
         <Typography
           sx={{
             fontSize: { xs: "11px", md: "14px" },
@@ -148,7 +153,7 @@ export default function ProductCard({
             WebkitLineClamp: 3,
             WebkitBoxOrient: "vertical",
             overflow: "hidden",
-            height: { xs: "48px", md: "63px" }, // Fixed height for 3 lines
+            height: { xs: "48px", md: "63px" },
           }}
         >
           {getCardDescription(short_description || mainDescription)}

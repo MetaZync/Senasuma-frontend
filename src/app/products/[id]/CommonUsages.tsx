@@ -56,7 +56,7 @@ const UsageCard: React.FC<UsageCardProps> = ({ name }) => {
         sx={{
           width: "100%",
           backgroundColor: "#000000",
-          borderRadius: "100px",
+          // borderRadius: "100px",
           py: { xs: 1, md: 2 },
           display: "flex",
           alignItems: "center",
@@ -70,9 +70,9 @@ const UsageCard: React.FC<UsageCardProps> = ({ name }) => {
             color: "#ffffff",
             fontFamily: poppins.style.fontFamily,
             fontWeight: 500,
-            fontSize: { xs: "10px", sm: "14px", md: "18px" },
+            fontSize: { xs: "10px", sm: "14px", md: "15px" },
             textAlign: "center",
-            px: { xs: 0.5, md: 1 },
+            px: { xs: 0.5, md: 0 },
             lineHeight: 1.2
           }}
         >

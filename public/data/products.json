@@ -15,11 +15,11 @@
       "transparency": "Available in clear"
     },
     "commonUsages": [
-      "Eco-Friendly Packaging",
+      "Eco-friendly packaging",
       "Product Branding",
       "Personalized Gift Bags",
       "Event Packaging",
-      "Retail Packaging"
+      "Food Packaging"
     ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Sticker Bag.webp",
@@ -36,111 +36,127 @@
         "regularPrice": 320,
         "wholeSalePrice": 300,
         "special_notes": "No sales under 100",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "3\" x 5\"",
         "regularPrice": 350,
         "wholeSalePrice": 330,
         "special_notes": "No sales under 100",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "5\" x 8\"",
         "regularPrice": 420,
         "wholeSalePrice": 400,
         "special_notes": "No sales under 100",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "6½\" x 9\"",
         "regularPrice": 530,
         "wholeSalePrice": 500,
         "special_notes": "No sales under 100",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "7\" x 10\"",
         "regularPrice": 560,
         "wholeSalePrice": 530,
         "special_notes": "No sales under 100",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "8\" x 10\"",
         "regularPrice": 600,
         "wholeSalePrice": 570,
         "special_notes": "No sales under 100",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "8\" x 12\"",
         "regularPrice": 650,
         "wholeSalePrice": 620,
         "special_notes": "No sales under 100",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "9\" x 12\"",
         "regularPrice": 750,
         "wholeSalePrice": 720,
         "special_notes": "No sales under 100",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "10\" x 14\"",
         "regularPrice": 920,
         "wholeSalePrice": 880,
         "special_notes": "No sales under 100",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "11\" x 14\"",
         "regularPrice": 1000,
         "wholeSalePrice": 950,
         "special_notes": "No sales under 100",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "11\" x 16\"",
         "regularPrice": 1100,
         "wholeSalePrice": 1050,
         "special_notes": "No sales under 100",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "12\" x 16\"",
         "regularPrice": 1150,
         "wholeSalePrice": 1100,
         "special_notes": "No sales under 100",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "13\" x 18\"",
         "regularPrice": 1420,
         "wholeSalePrice": 1370,
         "special_notes": "No sales under 100",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "14\" x 18\"",
         "regularPrice": 1500,
         "wholeSalePrice": 1450,
         "special_notes": "No sales under 100",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "16\" x 20\"",
         "regularPrice": 0,
         "wholeSalePrice": 0,
         "special_notes": "No sales under 100",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 320,
     "wholeSalePrice": 300,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/MPR Paper 18 EM.pdf"
   },
   {
     "id": 2,
@@ -161,7 +177,8 @@
       "storing food items",
       "storing medical supplies",
       "organizing items in domestic",
-      "organizing items in industrial settings"
+      "organizing items in industrial settings",
+      "Eco-friendly packaging"
     ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Ziplock bags.webp",
@@ -178,118 +195,135 @@
         "regularPrice": 300,
         "wholeSalePrice": 250,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "1½\" x 1½\"",
         "regularPrice": 250,
         "wholeSalePrice": 230,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "1½\" x 2\"",
         "regularPrice": 250,
         "wholeSalePrice": 230,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "2\" x 3\"",
         "regularPrice": 300,
         "wholeSalePrice": 280,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "3\" x 4\"",
         "regularPrice": 300,
         "wholeSalePrice": 280,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "4\" x 4\"",
         "regularPrice": 400,
         "wholeSalePrice": 370,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "4\" x 6\"",
         "regularPrice": 500,
         "wholeSalePrice": 470,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "5\" x 6\"",
         "regularPrice": 600,
         "wholeSalePrice": 570,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "5\" x 7\"",
         "regularPrice": 700,
         "wholeSalePrice": 670,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "6\" x 8\"",
         "regularPrice": 800,
         "wholeSalePrice": 770,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "6\" x 9\"",
         "regularPrice": 900,
         "wholeSalePrice": 870,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "7\" x 10\"",
         "regularPrice": 1100,
         "wholeSalePrice": 1050,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "8\" x 10\"",
         "regularPrice": 1250,
         "wholeSalePrice": 1200,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "8\" x 12\"",
         "regularPrice": 1350,
         "wholeSalePrice": 1300,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "10\" x 12\"",
         "regularPrice": 1850,
         "wholeSalePrice": 1800,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "12\" x 15\"",
         "regularPrice": 2800,
         "wholeSalePrice": 2750,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 300,
     "wholeSalePrice": 250,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/MPR Paper 18 EM.pdf"
   },
   {
     "id": 3,
@@ -322,41 +356,47 @@
         "regularPrice": 20,
         "wholeSalePrice": 18,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "5\" x 8\"",
         "regularPrice": 30,
         "wholeSalePrice": 28,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "6\" x 9\"",
         "regularPrice": 35,
         "wholeSalePrice": 33,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "7\" x 10\"",
         "regularPrice": 40,
         "wholeSalePrice": 38,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "8\" x 12\"",
         "regularPrice": 45,
         "wholeSalePrice": 43,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 20,
     "wholeSalePrice": 18,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Ziplock bags (White).pdf"
   },
   {
     "id": 4,
@@ -389,41 +429,47 @@
         "regularPrice": 28,
         "wholeSalePrice": 18,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "5\" x 8\"",
         "regularPrice": 30,
         "wholeSalePrice": 28,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "6\" x 8\"",
         "regularPrice": 35,
         "wholeSalePrice": 33,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "7\" x 10\"",
         "regularPrice": 40,
         "wholeSalePrice": 38,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "8\" x 12\"",
         "regularPrice": 45,
         "wholeSalePrice": 43,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 28,
     "wholeSalePrice": 18,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Ziplock bags (Black).pdf"
   },
   {
     "id": 5,
@@ -456,20 +502,23 @@
         "regularPrice": 20,
         "wholeSalePrice": 18,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "5\" x 8\"",
         "regularPrice": 30,
         "wholeSalePrice": 28,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 20,
     "wholeSalePrice": 18,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Ziplock bags (Red/ Green/ Pink/ Purple).pdf"
   },
   {
     "id": 6,
@@ -504,41 +553,47 @@
         "regularPrice": 20,
         "wholeSalePrice": 18,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "5\" x 7\"",
         "regularPrice": 30,
         "wholeSalePrice": 28,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "6\" x 8\"",
         "regularPrice": 35,
         "wholeSalePrice": 33,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "7\" x 10\"",
         "regularPrice": 40,
         "wholeSalePrice": 38,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "8\" x 12\"",
         "regularPrice": 45,
         "wholeSalePrice": 43,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 20,
     "wholeSalePrice": 18,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Ziplock bags (Aluminum).pdf"
   },
   {
     "id": 7,
@@ -571,27 +626,31 @@
         "regularPrice": 20,
         "wholeSalePrice": 18,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "5\" x 8\"",
         "regularPrice": 30,
         "wholeSalePrice": 28,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "6\" x 8\"",
         "regularPrice": 35,
         "wholeSalePrice": 33,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 20,
     "wholeSalePrice": 18,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Ziplock bags (Gold).pdf"
   },
   {
     "id": 8,
@@ -624,34 +683,39 @@
         "regularPrice": 20,
         "wholeSalePrice": 18,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "5\" x 7\"",
         "regularPrice": 30,
         "wholeSalePrice": 28,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "7\" x 10\"",
         "regularPrice": 40,
         "wholeSalePrice": 38,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "8\" x 12\"",
         "regularPrice": 45,
         "wholeSalePrice": 43,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 20,
     "wholeSalePrice": 18,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Ziplock bags (Kraft Paper).pdf"
   },
   {
     "id": 9,
@@ -686,48 +750,55 @@
         "regularPrice": 400,
         "wholeSalePrice": 350,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "4\" x 5\" (50g)",
         "regularPrice": 500,
         "wholeSalePrice": 450,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "4\" x 6\" (100g)",
         "regularPrice": 700,
         "wholeSalePrice": 600,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "6\" x 8\" (250g)",
         "regularPrice": 1000,
         "wholeSalePrice": 900,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "7\" x 10\" (500g)",
         "regularPrice": 1300,
         "wholeSalePrice": 1250,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "8\" x 12\" (1kg)",
         "regularPrice": 2000,
         "wholeSalePrice": 1850,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 400,
     "wholeSalePrice": 350,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Tea bags (Aluminum).pdf"
   },
   {
     "id": 10,
@@ -764,34 +835,39 @@
         "regularPrice": 20,
         "wholeSalePrice": 18,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "7\" x 10\"",
         "regularPrice": 25,
         "wholeSalePrice": 23,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "8\" x 10\"",
         "regularPrice": 30,
         "wholeSalePrice": 28,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "8\" x 12\"",
         "regularPrice": 32,
         "wholeSalePrice": 30,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 20,
     "wholeSalePrice": 18,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Vacuum bags (100g).pdf"
   },
   {
     "id": 11,
@@ -830,34 +906,39 @@
         "regularPrice": 1300,
         "wholeSalePrice": 0,
         "special_notes": "100 bags include in 1 pack",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "8\" x 12\"",
         "regularPrice": 1800,
         "wholeSalePrice": 0,
         "special_notes": "100 bags include in 1 pack",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "10\" x 14\"",
         "regularPrice": 2000,
         "wholeSalePrice": 0,
         "special_notes": "100 bags include in 1 pack",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "14\" x 18\"",
         "regularPrice": 3500,
         "wholeSalePrice": 0,
         "special_notes": "100 bags include in 1 pack",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 1300,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Courier bags.pdf"
   },
   {
     "id": 12,
@@ -896,41 +977,47 @@
         "regularPrice": 150,
         "wholeSalePrice": 140,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "1\" x 8\"",
         "regularPrice": 220,
         "wholeSalePrice": 200,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "1\" x 4\"",
         "regularPrice": 420,
         "wholeSalePrice": 400,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "1\" x 3\"",
         "regularPrice": 780,
         "wholeSalePrice": 750,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "1\" x 2\"",
         "regularPrice": 880,
         "wholeSalePrice": 850,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 150,
     "wholeSalePrice": 140,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Brown paper bags.pdf"
   },
   {
     "id": 13,
@@ -967,27 +1054,31 @@
         "regularPrice": 850,
         "wholeSalePrice": 100,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "Large: 26\" x 36\"",
         "regularPrice": 1450,
         "wholeSalePrice": 200,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "Extra Large: 30\" x 36\"",
         "regularPrice": 1650,
         "wholeSalePrice": 250,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 850,
     "wholeSalePrice": 100,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Garbage bags.pdf"
   },
   {
     "id": 14,
@@ -1025,55 +1116,63 @@
         "regularPrice": 220,
         "wholeSalePrice": 200,
         "special_notes": "No sales under 100. Price will be changed in quantity 1000",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "8\" x 12\"",
         "regularPrice": 260,
         "wholeSalePrice": 240,
         "special_notes": "No sales under 100. Price will be changed in quantity 1000",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "10\" x 14\"",
         "regularPrice": 430,
         "wholeSalePrice": 410,
         "special_notes": "No sales under 100. Price will be changed in quantity 1000",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "12\" x 16\"",
         "regularPrice": 620,
         "wholeSalePrice": 600,
         "special_notes": "No sales under 100. Price will be changed in quantity 1000",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "14\" x 18\"",
         "regularPrice": 880,
         "wholeSalePrice": 850,
         "special_notes": "No sales under 100. Price will be changed in quantity 1000",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "16\" x 20\"",
         "regularPrice": 1000,
         "wholeSalePrice": 1970,
         "special_notes": "No sales under 100. Price will be changed in quantity 1000",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "18\" x 24\"",
         "regularPrice": 1400,
         "wholeSalePrice": 1350,
         "special_notes": "No sales under 100. Price will be changed in quantity 1000",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 220,
     "wholeSalePrice": 200,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/White bags.pdf"
   },
   {
     "id": 15,
@@ -1111,27 +1210,31 @@
         "regularPrice": 550,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "Medium: 12\" x 16\"",
         "regularPrice": 800,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "Large: 14\" x 18\"",
         "regularPrice": 1100,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 550,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Thank you bags.pdf"
   },
   {
     "id": 16,
@@ -1169,27 +1272,31 @@
         "regularPrice": 550,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "12\" x 16\"",
         "regularPrice": 750,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "14\" x 18\"",
         "regularPrice": 1100,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 550,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Color bags.pdf"
   },
   {
     "id": 17,
@@ -1225,27 +1332,31 @@
         "regularPrice": 500,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "Medium: 14\" x 18\"",
         "regularPrice": 800,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "Large: 16\" x 20\"",
         "regularPrice": 1000,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 500,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Tulip bags.pdf"
   },
   {
     "id": 18,
@@ -1283,13 +1394,15 @@
         "regularPrice": 0,
         "wholeSalePrice": 120,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 0,
     "wholeSalePrice": 120,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Bubble wrapping.pdf"
   },
   {
     "id": 19,
@@ -1311,7 +1424,7 @@
       "shipping",
       "logistics to wrap pallets",
       "bundle products",
-      "secure goods during transport"
+      "Food Packaging"
     ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Stretch film.webp",
@@ -1326,7 +1439,8 @@
     "regularPrice": 0,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Stretch film.pdf"
   },
   {
     "id": 20,
@@ -1364,34 +1478,39 @@
         "regularPrice": 650,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "18\" - 20m",
         "regularPrice": 750,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "12\" - 300m",
         "regularPrice": 2250,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "18\" - 600m",
         "regularPrice": 4750,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 650,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Cling film.pdf"
   },
   {
     "id": 21,
@@ -1428,41 +1547,47 @@
         "regularPrice": 100,
         "wholeSalePrice": 90,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "10 + 5 - Medium (MS bag)",
         "regularPrice": 220,
         "wholeSalePrice": 200,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "11 + 5 - Large (LS bag)",
         "regularPrice": 420,
         "wholeSalePrice": 400,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "13 + 7 - Jambo",
         "regularPrice": 600,
         "wholeSalePrice": 580,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "17 + 7 - King Jambo",
         "regularPrice": 1300,
         "wholeSalePrice": 1250,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 100,
     "wholeSalePrice": 90,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Shopping bags.pdf"
   },
   {
     "id": 22,
@@ -1499,20 +1624,23 @@
         "regularPrice": 250,
         "wholeSalePrice": 230,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "7\" x 10\"",
         "regularPrice": 350,
         "wholeSalePrice": 330,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 250,
     "wholeSalePrice": 230,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Grocery bags.pdf"
   },
   {
     "id": 23,
@@ -1550,62 +1678,71 @@
         "regularPrice": 30,
         "wholeSalePrice": 70,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "1/2\" - 50m Clear",
         "regularPrice": 60,
         "wholeSalePrice": 50,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "1\" - 100m - Clear tape",
         "regularPrice": 130,
         "wholeSalePrice": 120,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "2\" - 100m Clear tape",
         "regularPrice": 250,
         "wholeSalePrice": 230,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "2\" - 100m Tan tape",
         "regularPrice": 250,
         "wholeSalePrice": 230,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "2\" - 300m Clear tape",
         "regularPrice": 600,
         "wholeSalePrice": 550,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "2\" - 300m Tan tape",
         "regularPrice": 600,
         "wholeSalePrice": 550,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "3\" - 100m Clear tape",
         "regularPrice": 400,
         "wholeSalePrice": 380,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 30,
     "wholeSalePrice": 70,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Tapes.pdf"
   },
   {
     "id": 24,
@@ -1643,27 +1780,31 @@
         "regularPrice": 100,
         "wholeSalePrice": 90,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "1\" - 50m",
         "regularPrice": 250,
         "wholeSalePrice": 230,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "2\" - 20m",
         "regularPrice": 200,
         "wholeSalePrice": 180,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 100,
     "wholeSalePrice": 90,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Masking tape.pdf"
   },
   {
     "id": 25,
@@ -1703,20 +1844,23 @@
         "regularPrice": 120,
         "wholeSalePrice": 110,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "2\" - 10m",
         "regularPrice": 240,
         "wholeSalePrice": 220,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 120,
     "wholeSalePrice": 110,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Double side tape.pdf"
   },
   {
     "id": 26,
@@ -1758,13 +1902,15 @@
         "regularPrice": 750,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 750,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Drinking Cup.pdf"
   },
   {
     "id": 27,
@@ -1801,13 +1947,15 @@
         "regularPrice": 850,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 850,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Yogurt Cup (Clear).pdf"
   },
   {
     "id": 28,
@@ -1845,13 +1993,15 @@
         "regularPrice": 850,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 850,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Yogurt Cup (White).pdf"
   },
   {
     "id": 29,
@@ -1892,13 +2042,15 @@
         "regularPrice": 500,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 500,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Sauce Cup.pdf"
   },
   {
     "id": 30,
@@ -1939,13 +2091,15 @@
         "regularPrice": 500,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 500,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Cup.pdf"
   },
   {
     "id": 31,
@@ -1987,27 +2141,31 @@
         "regularPrice": 1500,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "250ml",
         "regularPrice": 1800,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "1l",
         "regularPrice": 3500,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 1500,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/White tub.pdf"
   },
   {
     "id": 32,
@@ -2048,20 +2206,23 @@
         "regularPrice": 1800,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "500ml",
         "regularPrice": 2600,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 1800,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Clear tub.pdf"
   },
   {
     "id": 33,
@@ -2101,34 +2262,39 @@
         "regularPrice": 500,
         "wholeSalePrice": 520,
         "special_notes": "Customers have to purchase the paper cup and lid separately.",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "250ml",
         "regularPrice": 950,
         "wholeSalePrice": 900,
         "special_notes": "Customers have to purchase the paper cup and lid separately.",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "300ml",
         "regularPrice": 1050,
         "wholeSalePrice": 1000,
         "special_notes": "Customers have to purchase the paper cup and lid separately.",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "400ml",
         "regularPrice": 1450,
         "wholeSalePrice": 1400,
         "special_notes": "Customers have to purchase the paper cup and lid separately.",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 500,
     "wholeSalePrice": 520,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Paper Cup.pdf"
   },
   {
     "id": 34,
@@ -2161,13 +2327,15 @@
         "regularPrice": 400,
         "wholeSalePrice": 0,
         "special_notes": "Customers have to purchase the paper cup and lid separately.",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 400,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Lid.pdf"
   },
   {
     "id": 35,
@@ -2207,13 +2375,15 @@
         "regularPrice": 1850,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 1850,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Paper tub.pdf"
   },
   {
     "id": 36,
@@ -2232,7 +2402,7 @@
     },
     "commonUsages": [],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Drinking Straw 2.webp",
     "ratingFromFive": 5,
     "ratingCount": 219,
     "neccessaryGoods": [
@@ -2246,27 +2416,31 @@
         "regularPrice": 450,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "8mm",
         "regularPrice": 550,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "10mm",
         "regularPrice": 100,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 450,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Paper Straw.pdf"
   },
   {
     "id": 37,
@@ -2299,13 +2473,15 @@
         "regularPrice": 170,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 170,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Paper serviette.pdf"
   },
   {
     "id": 38,
@@ -2338,20 +2514,23 @@
         "regularPrice": 220,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "Large",
         "regularPrice": 320,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 220,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Paper Plate.pdf"
   },
   {
     "id": 39,
@@ -2389,27 +2568,31 @@
         "regularPrice": 1100,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "250g",
         "regularPrice": 1750,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "500g",
         "regularPrice": 2750,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 1100,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/PVC Tray.pdf"
   },
   {
     "id": 40,
@@ -2445,7 +2628,8 @@
     "regularPrice": 0,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Transparent Box.pdf"
   },
   {
     "id": 41,
@@ -2482,27 +2666,31 @@
         "regularPrice": 0,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "750ml",
         "regularPrice": 0,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "1200ml",
         "regularPrice": 0,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 0,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Aluminium Box.pdf"
   },
   {
     "id": 42,
@@ -2535,20 +2723,23 @@
         "regularPrice": 1350,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "Large",
         "regularPrice": 1650,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 1350,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Lunch Box.pdf"
   },
   {
     "id": 43,
@@ -2579,7 +2770,8 @@
     "regularPrice": 0,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Plastic Box.pdf"
   },
   {
     "id": 44,
@@ -2612,20 +2804,23 @@
         "regularPrice": 50,
         "wholeSalePrice": 0,
         "special_notes": "Pack & 1",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "Large",
         "regularPrice": 1200,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 50,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/PP Ball.pdf"
   },
   {
     "id": 45,
@@ -2665,27 +2860,31 @@
         "regularPrice": 300,
         "wholeSalePrice": 250,
         "special_notes": "Cut and roll (50m)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "15mm",
         "regularPrice": 350,
         "wholeSalePrice": 300,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "25mm",
         "regularPrice": 500,
         "wholeSalePrice": 450,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 300,
     "wholeSalePrice": 250,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/PVC Sheet.pdf"
   },
   {
     "id": 46,
@@ -2723,13 +2922,15 @@
         "regularPrice": 0,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 0,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Table Cloth.pdf"
   },
   {
     "id": 47,
@@ -2766,41 +2967,47 @@
         "regularPrice": 1400,
         "wholeSalePrice": 1300,
         "special_notes": "1kg price",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "3\"",
         "regularPrice": 1400,
         "wholeSalePrice": 1300,
         "special_notes": "1kg price",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "3½\"",
         "regularPrice": 1400,
         "wholeSalePrice": 1300,
         "special_notes": "1kg price",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "4\"",
         "regularPrice": 1400,
         "wholeSalePrice": 1300,
         "special_notes": "1kg price",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "5\" - 26\"",
         "regularPrice": 1250,
         "wholeSalePrice": 1150,
         "special_notes": "1kg price",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 1400,
     "wholeSalePrice": 1300,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/shrink film.pdf"
   },
   {
     "id": 48,
@@ -2836,7 +3043,8 @@
     "regularPrice": 0,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Vacuum machine.pdf"
   },
   {
     "id": 49,
@@ -2873,13 +3081,15 @@
         "regularPrice": 0,
         "wholeSalePrice": 0,
         "special_notes": "1m = rs. 5000",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 0,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Strapping roll.pdf"
   },
   {
     "id": 50,
@@ -2919,13 +3129,15 @@
         "regularPrice": 950,
         "wholeSalePrice": 900,
         "special_notes": "roll = 30y",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 950,
     "wholeSalePrice": 900,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Carpet (One Color).pdf"
   },
   {
     "id": 51,
@@ -2958,13 +3170,15 @@
         "regularPrice": 850,
         "wholeSalePrice": 800,
         "special_notes": "roll = 30y",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 850,
     "wholeSalePrice": 800,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Carpet (Design).pdf"
   },
   {
     "id": 52,
@@ -2997,20 +3211,23 @@
         "regularPrice": 780,
         "wholeSalePrice": 0,
         "special_notes": "Wholesale price = 780",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "7 x 10 Bags",
         "regularPrice": 780,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 780,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Mushroom Bag.pdf"
   },
   {
     "id": 53,
@@ -3045,7 +3262,8 @@
     "regularPrice": 0,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Mushroom seeds.pdf"
   },
   {
     "id": 54,
@@ -3078,13 +3296,15 @@
         "regularPrice": 0,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 0,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Caco3(calcium carbonate).pdf"
   },
   {
     "id": 55,
@@ -3117,20 +3337,23 @@
         "regularPrice": 0,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "25kg",
         "regularPrice": 0,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 0,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Magnesium sulfate.pdf"
   },
   {
     "id": 56,
@@ -3163,20 +3386,23 @@
         "regularPrice": 0,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "25kg",
         "regularPrice": 0,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 0,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Gypsum.pdf"
   },
   {
     "id": 57,
@@ -3215,20 +3441,23 @@
         "regularPrice": 0,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "1kg",
         "regularPrice": 0,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 0,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Rubber Band.pdf"
   },
   {
     "id": 58,
@@ -3266,104 +3495,119 @@
         "regularPrice": 400,
         "wholeSalePrice": 350,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "3mm",
         "regularPrice": 650,
         "wholeSalePrice": 600,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "4mm",
         "regularPrice": 1300,
         "wholeSalePrice": 1200,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "5mm",
         "regularPrice": 1750,
         "wholeSalePrice": 1600,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "6mm",
         "regularPrice": 2300,
         "wholeSalePrice": 2150,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "7mm",
         "regularPrice": 3000,
         "wholeSalePrice": 2800,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "8mm",
         "regularPrice": 4100,
         "wholeSalePrice": 3750,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "9mm",
         "regularPrice": 4900,
         "wholeSalePrice": 4500,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "10mm",
         "regularPrice": 6500,
         "wholeSalePrice": 6000,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "12mm",
         "regularPrice": 9500,
         "wholeSalePrice": 8900,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "14mm",
         "regularPrice": 12500,
         "wholeSalePrice": 11500,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "16mm",
         "regularPrice": 15500,
         "wholeSalePrice": 14500,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "18mm",
         "regularPrice": 22500,
         "wholeSalePrice": 20500,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "20mm",
         "regularPrice": 24500,
         "wholeSalePrice": 22500,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 400,
     "wholeSalePrice": 350,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Nylon Rope.pdf"
   },
   {
     "id": 59,
@@ -3403,27 +3647,31 @@
         "regularPrice": 700,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "8\" x 8\"",
         "regularPrice": 680,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "14\" x 14\"",
         "regularPrice": 650,
         "wholeSalePrice": 0,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 700,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Grow Bag.pdf"
   },
   {
     "id": 60,
@@ -3463,230 +3711,263 @@
         "regularPrice": 780,
         "wholeSalePrice": 750,
         "special_notes": "Cut - 780",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "3\" - 150",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "3\" - 250",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "4\" - 150",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "4\" - 250",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "5\" - 150",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "5\" - 250",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "6\" - 150",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "6\" - 250",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "7\" - 150",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "7\" - 250",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "8\" - 150",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "8\" - 250",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "9\" - 150",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "9\" - 250",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "10\" - 150",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "10\" - 250",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "11\" - 150",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "11\" - 250",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "12\" - 150",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "12\" - 250",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "14\" - 150",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "14\" - 250",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "16\" - 150",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "16\" - 250",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "16\" - 130",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "16\" - 150",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "18\" - 150",
         "regularPrice": 800,
         "wholeSalePrice": 0,
         "special_notes": "bags",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "20\" - 150",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "22\" - 150",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "26\" - 150",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "Cut - 720. Thickness (150gage and 250gage)",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "16\" - 130",
         "regularPrice": 720,
         "wholeSalePrice": 700,
         "special_notes": "bags",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 780,
     "wholeSalePrice": 750,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/PP Polythene(Polypropylene polyethylene).pdf"
   },
   {
     "id": 61,
@@ -3725,27 +4006,31 @@
         "regularPrice": 1300,
         "wholeSalePrice": 1200,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "3\" - 150",
         "regularPrice": 850,
         "wholeSalePrice": 820,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "12\" - 300",
         "regularPrice": 750,
         "wholeSalePrice": 720,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 1300,
     "wholeSalePrice": 1200,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/LDPE CLEAN.pdf"
   },
   {
     "id": 62,
@@ -3770,7 +4055,7 @@
       "airtight seal"
     ],
     "tagline": "100% Recycled",
-    "image": "/Assets/BagTemp.webp",
+    "image": "/Assets/ProductsImages/Polythene Sealer.webp",
     "ratingFromFive": 4.8,
     "ratingCount": 77,
     "neccessaryGoods": [
@@ -3782,7 +4067,8 @@
     "regularPrice": 0,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Hand Sealer.pdf"
   },
   {
     "id": 63,
@@ -3813,7 +4099,8 @@
     "regularPrice": 125000,
     "wholeSalePrice": 120000,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Band sealer.pdf"
   },
   {
     "id": 64,
@@ -3851,7 +4138,8 @@
     "regularPrice": 0,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Sealer Tape with eliment.pdf"
   },
   {
     "id": 65,
@@ -3876,7 +4164,7 @@
       "various molded products"
     ],
     "tagline": "100% Recycled",
-    "image": "/Assets/ProductsImages/Master Batch Red New.webp",
+    "image": "/Assets/ProductsImages/Master Batch White New.webp",
     "ratingFromFive": 4.5,
     "ratingCount": 93,
     "neccessaryGoods": [
@@ -3884,11 +4172,141 @@
       "packaging"
     ],
     "type": "industrial",
-    "options": [],
+    "options": [
+      {
+        "size": "White",
+        "regularPrice": 1850,
+        "wholeSalePrice": 1850,
+        "special_notes": "",
+        "per_one_price": "",
+        "image": ""
+      },
+      {
+        "size": "Black",
+        "regularPrice": 800,
+        "wholeSalePrice": 800,
+        "special_notes": "",
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Master Batch Black.webp"
+      },
+      {
+        "size": "Pink",
+        "regularPrice": 2600,
+        "wholeSalePrice": 2600,
+        "special_notes": "",
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Master Batch Pink.webp"
+      },
+      {
+        "size": "Purple",
+        "regularPrice": 2300,
+        "wholeSalePrice": 2300,
+        "special_notes": "",
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Master Batch Purple.webp"
+      },
+      {
+        "size": "Red",
+        "regularPrice": 2300,
+        "wholeSalePrice": 2300,
+        "special_notes": "",
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Master Batch Red New.webp"
+      },
+      {
+        "size": "Brown",
+        "regularPrice": 2050,
+        "wholeSalePrice": 2050,
+        "special_notes": "",
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Master Batch Brown.webp"
+      },
+      {
+        "size": "OB",
+        "regularPrice": 1800,
+        "wholeSalePrice": 1800,
+        "special_notes": "",
+        "per_one_price": "",
+        "image": ""
+      },
+      {
+        "size": "Light Blue",
+        "regularPrice": 2100,
+        "wholeSalePrice": 2100,
+        "special_notes": "",
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Master Batch Light Blue.webp"
+      },
+      {
+        "size": "Dark Blue",
+        "regularPrice": 2200,
+        "wholeSalePrice": 2200,
+        "special_notes": "",
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Master Batch Dark Blue.webp"
+      },
+      {
+        "size": "Light Green",
+        "regularPrice": 2300,
+        "wholeSalePrice": 2300,
+        "special_notes": "",
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Master Batch Light Green.webp"
+      },
+      {
+        "size": "Dark Green",
+        "regularPrice": 2200,
+        "wholeSalePrice": 2200,
+        "special_notes": "",
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Master Batch Dark Green.webp"
+      },
+      {
+        "size": "Silver",
+        "regularPrice": 2400,
+        "wholeSalePrice": 2400,
+        "special_notes": "",
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/.webp"
+      },
+      {
+        "size": "Beige",
+        "regularPrice": 2000,
+        "wholeSalePrice": 2000,
+        "special_notes": "",
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Master Batch Beige New.webp"
+      },
+      {
+        "size": "Orange",
+        "regularPrice": 2450,
+        "wholeSalePrice": 2350,
+        "special_notes": "",
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Master Batch Orange.webp"
+      },
+      {
+        "size": "Yellow",
+        "regularPrice": 2400,
+        "wholeSalePrice": 2400,
+        "special_notes": "",
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Master Batch Yellow New.webp"
+      },
+      {
+        "size": "Gold",
+        "regularPrice": 3000,
+        "wholeSalePrice": 3000,
+        "special_notes": "",
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Master Batch Gold.webp"
+      }
+    ],
     "regularPrice": 0,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Master Batch.pdf"
   },
   {
     "id": 66,
@@ -3928,13 +4346,15 @@
         "regularPrice": 2700,
         "wholeSalePrice": 0,
         "special_notes": "5kg - 2700",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 2700,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Scale.pdf"
   },
   {
     "id": 67,
@@ -3970,7 +4390,8 @@
     "regularPrice": 0,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Tape dispenser.pdf"
   },
   {
     "id": 68,
@@ -4007,7 +4428,8 @@
     "regularPrice": 0,
     "wholeSalePrice": 0,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Hot Gun.pdf"
   },
   {
     "id": 69,
@@ -4044,27 +4466,31 @@
         "regularPrice": 0,
         "wholeSalePrice": 350,
         "special_notes": "roll = 350 = 1kg",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "3' (850 gauge)",
         "regularPrice": 0,
         "wholeSalePrice": 350,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "3' (500 gauge)",
         "regularPrice": 0,
         "wholeSalePrice": 350,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 0,
     "wholeSalePrice": 350,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Black Polythene.pdf"
   },
   {
     "id": 70,
@@ -4097,27 +4523,31 @@
         "regularPrice": 0,
         "wholeSalePrice": 550,
         "special_notes": "roll = 550",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "3' (500 gauge)",
         "regularPrice": 0,
         "wholeSalePrice": 550,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       },
       {
         "size": "3' (300 gauge)",
         "regularPrice": 0,
         "wholeSalePrice": 550,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": ""
       }
     ],
     "regularPrice": 0,
     "wholeSalePrice": 550,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/No 1 Black Polethene.pdf"
   },
   {
     "id": 71,
@@ -4152,23 +4582,106 @@
     "options": [
       {
         "size": "White",
-        "regularPrice": 0,
+        "regularPrice": 650,
         "wholeSalePrice": 600,
         "special_notes": "If a client buys a roll, the price per 1kg will be 600",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Color Polythene White.webp"
+      },
+      {
+        "size": "Yellow",
+        "regularPrice": 650,
+        "wholeSalePrice": 600,
+        "special_notes": "If a client buys a roll, the price per 1kg will be 600",
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Color Polythene Yellow.webp"
+      },
+      {
+        "size": "Silver",
+        "regularPrice": 650,
+        "wholeSalePrice": 600,
+        "special_notes": "If a client buys a roll, the price per 1kg will be 600",
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Color Polythene Silver New.webp"
       },
       {
         "size": "Dark Green",
-        "regularPrice": 0,
+        "regularPrice": 550,
         "wholeSalePrice": 500,
-        "special_notes": "",
-        "per_one_price": ""
+        "special_notes": "If a client buys a roll, the price per 1kg will be 600",
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Color Polythene Dark Green.webp"
+      },
+      {
+        "size": "Light Green",
+        "regularPrice": 550,
+        "wholeSalePrice": 500,
+        "special_notes": "If a client buys a roll, the price per 1kg will be 600",
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Color Polythene Light Green New.webp"
+      },
+      {
+        "size": "Pink",
+        "regularPrice": 550,
+        "wholeSalePrice": 500,
+        "special_notes": "If a client buys a roll, the price per 1kg will be 600",
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Color Polythene Pink New.webp"
+      },
+      {
+        "size": "Brown",
+        "regularPrice": 550,
+        "wholeSalePrice": 500,
+        "special_notes": "If a client buys a roll, the price per 1kg will be 600",
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Color Polythene Brown.webp"
+      },
+      {
+        "size": "Dark Blue",
+        "regularPrice": 550,
+        "wholeSalePrice": 500,
+        "special_notes": "If a client buys a roll, the price per 1kg will be 600",
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Color Polythene dark Blue.webp"
+      },
+      {
+        "size": "Purple",
+        "regularPrice": 550,
+        "wholeSalePrice": 500,
+        "special_notes": "If a client buys a roll, the price per 1kg will be 600",
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Color Polythene  Purple.webp"
+      },
+      {
+        "size": "Beige",
+        "regularPrice": 550,
+        "wholeSalePrice": 500,
+        "special_notes": "If a client buys a roll, the price per 1kg will be 600",
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Color Polythene Beige.webp"
+      },
+      {
+        "size": "Orange",
+        "regularPrice": 550,
+        "wholeSalePrice": 500,
+        "special_notes": "If a client buys a roll, the price per 1kg will be 600",
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Color Polythene Orange.webp"
+      },
+      {
+        "size": "Red",
+        "regularPrice": 550,
+        "wholeSalePrice": 500,
+        "special_notes": "If a client buys a roll, the price per 1kg will be 600",
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Color Polythene Red.webp"
       }
     ],
     "regularPrice": 0,
     "wholeSalePrice": 600,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Color Polythene (2\").pdf"
   },
   {
     "id": 72,
@@ -4203,22 +4716,49 @@
     "options": [
       {
         "size": "White",
-        "regularPrice": 0,
+        "regularPrice": 800,
         "wholeSalePrice": 750,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Color Polythene White.webp"
       },
       {
         "size": "Dark Green",
-        "regularPrice": 0,
+        "regularPrice": 750,
         "wholeSalePrice": 700,
         "special_notes": "",
-        "per_one_price": ""
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Color Polythene Dark Green.webp"
+      },
+      {
+        "size": "Red",
+        "regularPrice": 750,
+        "wholeSalePrice": 700,
+        "special_notes": "",
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Color Polythene Red.webp"
+      },
+      {
+        "size": "Dark Blue",
+        "regularPrice": 750,
+        "wholeSalePrice": 700,
+        "special_notes": "",
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Color Polythene dark Blue.webp"
+      },
+      {
+        "size": "Brown",
+        "regularPrice": 750,
+        "wholeSalePrice": 700,
+        "special_notes": "",
+        "per_one_price": "",
+        "image": "/Assets/ProductsImages/Color Polythene Brown.webp"
       }
     ],
     "regularPrice": 0,
     "wholeSalePrice": 750,
     "retail_limit": 100,
-    "per_one_price": ""
+    "per_one_price": "",
+    "pdf": "/Assets/Pdfs/Color Polethene (3\").pdf"
   }
 ]
