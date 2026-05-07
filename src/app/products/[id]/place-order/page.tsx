@@ -19,6 +19,8 @@ import {
   Backdrop,
   Divider,
   Chip,
+  useMediaQuery,
+  useTheme,
 } from "@mui/material";
 import { Poppins } from "next/font/google";
 import CloseIcon from "@mui/icons-material/Close";
@@ -73,6 +75,8 @@ const TODAY = new Date().toISOString().split("T")[0];
 export default function PlaceOrderPage() {
   const { id } = useParams();
   const router = useRouter();
+  const theme = useTheme();
+  const isMobile = useMediaQuery(theme.breakpoints.down("sm"));
   const orderCardRef = useRef<HTMLDivElement>(null);
 
   const [productsData, setProductsData] = useState<Product[]>([]);
@@ -327,8 +331,8 @@ export default function PlaceOrderPage() {
   const now = new Date();
 
   return (
-    <Box sx={{ minHeight: "100vh", backgroundColor: "#ffffff", pt: { xs: 12, md: 16 } }}>
-      <Container maxWidth="lg" sx={{ py: { xs: 6, md: 10 } }}>
+    <Box sx={{ minHeight: "100vh", backgroundColor: "#ffffff", pt: { xs: 8, md: 16 } }}>
+      <Container maxWidth="lg" sx={{ py: { xs: 14, md: 10 } }}>
 
         <Typography
           component={FadeIn}
@@ -422,7 +426,7 @@ export default function PlaceOrderPage() {
                 )}
               </Box>
 
-              <Box sx={{ display: "grid", gridTemplateColumns: { xs: "1fr", md: "repeat(3, 1fr)" }, gap: 4 }}>
+              <Box sx={{ display: "grid", gridTemplateColumns: { xs: "1fr", md: "repeat(3, 1fr)" }, gap: { xs: 2.5, md: 4 } }}>
                 <Box>
                   <Typography sx={labelStyle}>Select Product *</Typography>
                   <TextField
@@ -433,13 +437,27 @@ export default function PlaceOrderPage() {
                     error={!!itemErr.productId}
                     helperText={itemErr.productId}
                     sx={inputStyles}
+                    SelectProps={{
+                      native: isMobile,
+                    }}
                     FormHelperTextProps={{ style: { fontFamily: poppins.style.fontFamily, fontSize: "11px" } }}
                   >
-                    {productsData.map((prod) => (
-                      <MenuItem key={prod.id} value={prod.id} sx={{ fontFamily: poppins.style.fontFamily }}>
-                        {prod.title}
-                      </MenuItem>
-                    ))}
+                    {isMobile ? (
+                      <>
+                        <option value="" disabled>Select a product</option>
+                        {productsData.map((prod) => (
+                          <option key={prod.id} value={prod.id}>
+                            {prod.title}
+                          </option>
+                        ))}
+                      </>
+                    ) : (
+                      productsData.map((prod) => (
+                        <MenuItem key={prod.id} value={prod.id} sx={{ fontFamily: poppins.style.fontFamily }}>
+                          {prod.title}
+                        </MenuItem>
+                      ))
+                    )}
                   </TextField>
                 </Box>
 
@@ -453,12 +471,24 @@ export default function PlaceOrderPage() {
                     error={!!itemErr.option}
                     helperText={itemErr.option || (!selectedProd ? "Select a product first" : "")}
                     sx={inputStyles}
+                    SelectProps={{
+                      native: isMobile,
+                    }}
                     FormHelperTextProps={{ style: { fontFamily: poppins.style.fontFamily, fontSize: "11px" } }}
                     disabled={optionsList.length === 0}
                   >
-                    {optionsList.map((opt) => (
-                      <MenuItem key={opt.size} value={opt.size} sx={{ fontFamily: poppins.style.fontFamily }}>{opt.size}</MenuItem>
-                    ))}
+                    {isMobile ? (
+                      <>
+                        {optionsList.length === 0 && <option value="" disabled>Select product first</option>}
+                        {optionsList.map((opt) => (
+                          <option key={opt.size} value={opt.size}>{opt.size}</option>
+                        ))}
+                      </>
+                    ) : (
+                      optionsList.map((opt) => (
+                        <MenuItem key={opt.size} value={opt.size} sx={{ fontFamily: poppins.style.fontFamily }}>{opt.size}</MenuItem>
+                      ))
+                    )}
                   </TextField>
                 </Box>
 
@@ -490,7 +520,7 @@ export default function PlaceOrderPage() {
               </Box>
 
               {item.productId && item.quantity && (item.quantity as number) > 0 && (
-                <Box sx={{ mt: 2, display: "flex", justifyContent: "flex-end" }}>
+                <Box sx={{ mt: 2, display: "flex", justifyContent: { xs: "center", md: "flex-end" } }}>
                   <Chip
                     label={`Subtotal: LKR ${(() => {
                       const optionData = selectedProd?.options.find(opt => opt.size === item.option);
@@ -499,7 +529,16 @@ export default function PlaceOrderPage() {
                       const price = (item.quantity as number) >= 500 ? wholeSalePrice : regularPrice;
                       return (price * (item.quantity as number)).toFixed(2);
                     })()}`}
-                    sx={{ fontFamily: poppins.style.fontFamily, fontWeight: 600, backgroundColor: "#f0faf3", color: "#629474", fontSize: "13px" }}
+                    sx={{
+                      fontFamily: poppins.style.fontFamily,
+                      fontWeight: 600,
+                      backgroundColor: "#f0faf3",
+                      color: "#629474",
+                      fontSize: "13px",
+                      width: { xs: "100%", md: "auto" },
+                      py: { xs: 2.5, md: 0 },
+                      borderRadius: { xs: "10px", md: "16px" }
+                    }}
                   />
                 </Box>
               )}
@@ -541,7 +580,7 @@ export default function PlaceOrderPage() {
 
         <Box sx={{ borderBottom: "1px solid #eaeaea", mb: 4 }} />
 
-        <Box component={FadeIn} delay={0.4} sx={{ display: "flex", flexDirection: "column", alignItems: "flex-end", mb: 4 }}>
+        <Box component={FadeIn} delay={0.4} sx={{ display: "flex", flexDirection: "column", alignItems: { xs: "center", md: "flex-end" }, mb: 4, textAlign: { xs: "center", md: "right" } }}>
           <Typography sx={{ fontFamily: poppins.style.fontFamily, fontSize: "14px", fontWeight: 500, color: "#888", mb: 0.5 }}>
             Estimated Total
           </Typography>
@@ -677,8 +716,8 @@ export default function PlaceOrderPage() {
         )}
 
         <Box sx={{ borderBottom: "1px solid #eaeaea", mb: 4 }} />
-        <Box sx={{ textAlign: "center" }}>
-          <Typography sx={{ color: "#629474", fontSize: "14px", fontFamily: poppins.style.fontFamily, display: "flex", alignItems: "center", justifyContent: "center", gap: 1 }}>
+        <Box sx={{ textAlign: "center", px: 2 }}>
+          <Typography sx={{ color: "#629474", fontSize: "14px", fontFamily: poppins.style.fontFamily, display: "flex", flexDirection: { xs: "column", sm: "row" }, alignItems: "center", justifyContent: "center", gap: 1 }}>
             <WhatsAppIcon sx={{ fontSize: 18 }} />
             Your order will be sent directly to our WhatsApp for fast processing.
           </Typography>
@@ -706,8 +745,8 @@ export default function PlaceOrderPage() {
             boxShadow: "0 32px 80px rgba(0,0,0,0.25)",
           }}>
 
-            <Box sx={{ display: "flex", justifyContent: "space-between", alignItems: "center", px: 4, pt: 3, pb: 2, borderBottom: "1px solid #f0f0f0" }}>
-              <Typography sx={{ fontFamily: poppins.style.fontFamily, fontWeight: 700, fontSize: "20px" }}>
+            <Box sx={{ display: "flex", justifyContent: "space-between", alignItems: "center", px: { xs: 2, md: 4 }, pt: 3, pb: 2, borderBottom: "1px solid #f0f0f0" }}>
+              <Typography sx={{ fontFamily: poppins.style.fontFamily, fontWeight: 700, fontSize: { xs: "18px", md: "20px" } }}>
                 Order Summary
               </Typography>
               <IconButton onClick={() => setShowConfirmModal(false)} sx={{ color: "#666" }}>
@@ -720,7 +759,7 @@ export default function PlaceOrderPage() {
               <Box sx={{
                 background: "linear-gradient(135deg, #1a1a1a 0%, #2d4a3a 60%, #629474 100%)",
                 borderRadius: "16px",
-                p: 3,
+                p: { xs: 2.5, md: 3 },
                 mb: 3,
                 position: "relative",
                 overflow: "hidden",
@@ -728,21 +767,21 @@ export default function PlaceOrderPage() {
                 <Box sx={{ position: "absolute", top: -20, right: -20, width: 120, height: 120, borderRadius: "50%", backgroundColor: "rgba(255,255,255,0.05)" }} />
                 <Box sx={{ position: "absolute", bottom: -30, right: 80, width: 80, height: 80, borderRadius: "50%", backgroundColor: "rgba(98,148,116,0.3)" }} />
 
-                <Box sx={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start", position: "relative", zIndex: 1 }}>
+                <Box sx={{ display: "flex", flexDirection: { xs: "column", sm: "row" }, justifyContent: "space-between", alignItems: "flex-start", position: "relative", zIndex: 1, gap: { xs: 2, sm: 0 } }}>
                   <Box>
                     <Typography sx={{ fontFamily: poppins.style.fontFamily, color: "#a8d5b8", fontSize: "11px", fontWeight: 600, textTransform: "uppercase", letterSpacing: "2px", mb: 0.5 }}>
                       Senasuma Polythene
                     </Typography>
-                    <Typography sx={{ fontFamily: poppins.style.fontFamily, color: "#fff", fontSize: "22px", fontWeight: 700, lineHeight: 1.2 }}>
+                    <Typography sx={{ fontFamily: poppins.style.fontFamily, color: "#fff", fontSize: { xs: "18px", md: "22px" }, fontWeight: 700, lineHeight: 1.2 }}>
                       Order Confirmation
                     </Typography>
                     <Typography sx={{ fontFamily: poppins.style.fontFamily, color: "rgba(255,255,255,0.6)", fontSize: "12px", mt: 0.5 }}>
                       {now.toLocaleDateString("en-GB", { day: "2-digit", month: "long", year: "numeric" })} · {now.toLocaleTimeString("en-US", { hour: "2-digit", minute: "2-digit" })}
                     </Typography>
                   </Box>
-                  <Box sx={{ textAlign: "right" }}>
+                  <Box sx={{ textAlign: { xs: "left", sm: "right" } }}>
                     <Typography sx={{ fontFamily: poppins.style.fontFamily, color: "rgba(255,255,255,0.5)", fontSize: "11px", mb: 0.5 }}>Ref No.</Typography>
-                    <Box sx={{ backgroundColor: "rgba(255,255,255,0.15)", borderRadius: "8px", px: 1.5, py: 0.5 }}>
+                    <Box sx={{ backgroundColor: "rgba(255,255,255,0.15)", borderRadius: "8px", px: 1.5, py: 0.5, display: "inline-block" }}>
                       <Typography sx={{ fontFamily: poppins.style.fontFamily, color: "#a8d5b8", fontWeight: 700, fontSize: "14px" }}>
                         #{orderRef.current}
                       </Typography>
@@ -755,7 +794,7 @@ export default function PlaceOrderPage() {
                 <Typography sx={{ fontFamily: poppins.style.fontFamily, fontSize: "11px", fontWeight: 700, color: "#629474", textTransform: "uppercase", letterSpacing: "1.5px", mb: 1.5 }}>
                   Customer Details
                 </Typography>
-                <Box sx={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 1.5 }}>
+                <Box sx={{ display: "grid", gridTemplateColumns: { xs: "1fr", sm: "1fr 1fr" }, gap: 1.5 }}>
                   {[
                     { label: "Name", value: fullName },
                     { label: "Mobile", value: contactNumber },
@@ -783,7 +822,7 @@ export default function PlaceOrderPage() {
                   const subtotal = (price || 0) * qty;
                   return (
                     <Box key={item.id} sx={{ mb: 1.5, p: 2, borderRadius: "10px", border: "1px solid #f0f0f0", backgroundColor: "#fff" }}>
-                      <Box sx={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start" }}>
+                      <Box sx={{ display: "flex", flexDirection: { xs: "column", sm: "row" }, justifyContent: "space-between", alignItems: { xs: "flex-start", sm: "flex-start" } }}>
                         <Box sx={{ flex: 1 }}>
                           <Box sx={{ display: "flex", alignItems: "center", gap: 1, mb: 0.5 }}>
                             <Box sx={{ width: 20, height: 20, borderRadius: "50%", backgroundColor: "#629474", display: "flex", alignItems: "center", justifyContent: "center" }}>
@@ -799,7 +838,7 @@ export default function PlaceOrderPage() {
                             <Chip size="small" label={qty >= 500 ? "Wholesale" : "Regular"} sx={{ height: 18, fontSize: "10px", backgroundColor: qty >= 500 ? "#f0faf3" : "#f5f5f5", color: qty >= 500 ? "#629474" : "#666", fontFamily: poppins.style.fontFamily }} />
                           </Box>
                         </Box>
-                        <Box sx={{ textAlign: "right", ml: 2 }}>
+                        <Box sx={{ textAlign: { xs: "left", sm: "right" }, ml: { xs: 4, sm: 2 }, mt: { xs: 1, sm: 0 } }}>
                           <Typography sx={{ fontFamily: poppins.style.fontFamily, fontSize: "11px", color: "#aaa" }}>LKR {price?.toFixed(2)}/pack</Typography>
                           <Typography sx={{ fontFamily: poppins.style.fontFamily, fontWeight: 700, fontSize: "15px", color: "#629474" }}>LKR {subtotal.toFixed(2)}</Typography>
                         </Box>
