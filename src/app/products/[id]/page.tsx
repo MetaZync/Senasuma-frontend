@@ -11,6 +11,7 @@ import Link from "next/link";
 import ProductDetailContent, { Product } from "./ProductDetailContent";
 import CommonUsages from "./CommonUsages";
 import CardSection from "../CardSection";
+import { productUsagesById } from "./CommonUsageData";
 
 export default function ProductDetailsPage() {
   const { id } = useParams();
@@ -56,7 +57,7 @@ export default function ProductDetailsPage() {
     <Box>
       <ProductDetailContent product={product} />
 
-      <CommonUsages usages={product.commonUsages || []} />
+      <CommonUsages usages={productUsagesById[product.id] || []} />
 
       <CardSection 
         hideFilters={true} 

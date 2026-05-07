@@ -52,7 +52,6 @@ export interface Product {
     transparency?: string;
     [key: string]: string | undefined;
   };
-  commonUsages?: string[];
   ratingFromFive: number;
   ratingCount: number;
   neccessaryGoods: string[];

@@ -14,13 +14,6 @@
       "customizable": "N/A",
       "transparency": "Available in clear"
     },
-    "commonUsages": [
-      "Eco-friendly packaging",
-      "Product Branding",
-      "Personalized Gift Bags",
-      "Event Packaging",
-      "Food Packaging"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Sticker Bag.webp",
     "ratingFromFive": 5,
@@ -173,13 +166,6 @@
       "customizable": "N/A",
       "transparency": "Available in clear for visibility"
     },
-    "commonUsages": [
-      "storing food items",
-      "storing medical supplies",
-      "organizing items in domestic",
-      "organizing items in industrial settings",
-      "Eco-friendly packaging"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Ziplock bags.webp",
     "ratingFromFive": 4.8,
@@ -340,7 +326,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Ziplock White Bag.webp",
     "ratingFromFive": 4.9,
@@ -413,7 +398,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Ziplock Bag Black.webp",
     "ratingFromFive": 4.6,
@@ -486,7 +470,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Ziplock Bag Color.webp",
     "ratingFromFive": 4.9,
@@ -535,9 +518,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [
-      "Eco-Friendly Packaging"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Aluminium Ziplock Bag.webp",
     "ratingFromFive": 4.8,
@@ -610,7 +590,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Ziplock bags Gold.webp",
     "ratingFromFive": 4.7,
@@ -667,7 +646,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Ziplock bags Kraft Paper 3.webp",
     "ratingFromFive": 4.9,
@@ -732,9 +710,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [
-      "packaging loose-leaf tea and herbs"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Tea Bag.webp",
     "ratingFromFive": 5,
@@ -815,11 +790,6 @@
       "customizable": "N/A",
       "transparency": "Available in both clear and opaque finishes depending on product display needs."
     },
-    "commonUsages": [
-      "food processing",
-      "retail",
-      "export industries"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Vacuum Bag.webp",
     "ratingFromFive": 4.5,
@@ -884,13 +854,6 @@
       "customizable": "N/A",
       "transparency": "Typically opaque for privacy"
     },
-    "commonUsages": [
-      "shipping documents",
-      "clothing",
-      "lightweight parcels in e-commerce",
-      "postal services",
-      "logistics"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Courier Bag.webp",
     "ratingFromFive": 4.6,
@@ -955,13 +918,6 @@
       "customizable": "N/A",
       "transparency": "Opaque for a clean"
     },
-    "commonUsages": [
-      "used in retail",
-      "bakeries",
-      "groceries",
-      "cafes for packaging food",
-      "takeaway items"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Brownd paper Bag New.webp",
     "ratingFromFive": 4.9,
@@ -1034,11 +990,6 @@
       "customizable": "N/A",
       "transparency": "Available in black, opaque"
     },
-    "commonUsages": [
-      "collection and disposal of household",
-      "commercial",
-      "industrial waste"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Garbage Bag.webp",
     "ratingFromFive": 4.6,
@@ -1095,12 +1046,6 @@
       "customizable": "N/A",
       "transparency": "Opaque for a clean and professional presentation."
     },
-    "commonUsages": [
-      "retail packaging",
-      "garment packing",
-      "takeaway food",
-      "general-purpose storage"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/White Bag.webp",
     "ratingFromFive": 4.9,
@@ -1189,12 +1134,6 @@
       "customizable": "N/A",
       "transparency": "Typically opaque"
     },
-    "commonUsages": [
-      "retail shops",
-      "boutiques",
-      "takeaway services",
-      "supermarkets"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Thank You Bag New.webp",
     "ratingFromFive": 4.9,
@@ -1251,12 +1190,6 @@
       "customizable": "N/A",
       "transparency": "Opaque for a clean and professional presentation."
     },
-    "commonUsages": [
-      "retail packaging",
-      "garment packing",
-      "takeaway food",
-      "general-purpose storage"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Color Bag.webp",
     "ratingFromFive": 4.8,
@@ -1313,10 +1246,6 @@
       "customizable": "N/A",
       "transparency": "Available in opaque"
     },
-    "commonUsages": [
-      "takeaway food",
-      "general-purpose storage"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Tulip Bag.webp",
     "ratingFromFive": 4.7,
@@ -1373,12 +1302,6 @@
       "customizable": "N/A",
       "transparency": "Clear for visibility"
     },
-    "commonUsages": [
-      "used in e-commerce",
-      "electronics",
-      "logistics",
-      "fragile item shipping"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Bubble wrap.webp",
     "ratingFromFive": 4.8,
@@ -1419,13 +1342,6 @@
       "customizable": "N/A",
       "transparency": "Typically clear for easy identification"
     },
-    "commonUsages": [
-      "warehousing",
-      "shipping",
-      "logistics to wrap pallets",
-      "bundle products",
-      "Food Packaging"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Stretch film.webp",
     "ratingFromFive": 4.9,
@@ -1457,12 +1373,6 @@
       "customizable": "N/A",
       "transparency": "Crystal clear for easy visibility of contents."
     },
-    "commonUsages": [
-      "used in households",
-      "restaurants",
-      "supermarkets",
-      "food processing industries to wrap and preserve food items"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Cling Film New.webp",
     "ratingFromFive": 4.6,
@@ -1527,11 +1437,6 @@
       "customizable": "N/A",
       "transparency": "Available in clear"
     },
-    "commonUsages": [
-      "used in retail stores",
-      "supermarkets",
-      "boutiques to carry purchased goods"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Shopping Bags.webp",
     "ratingFromFive": 5,
@@ -1604,11 +1509,6 @@
       "customizable": "N/A",
       "transparency": "Available in opaque"
     },
-    "commonUsages": [
-      "supermarkets",
-      "grocery stores",
-      "local markets to carry food items and household essentials"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Grocery bag.webp",
     "ratingFromFive": 4.6,
@@ -1657,12 +1557,6 @@
       "customizable": "N/A",
       "transparency": "Clear and opaque"
     },
-    "commonUsages": [
-      "packaging",
-      "shipping",
-      "office work",
-      "industrial applications"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Tape 2.webp",
     "ratingFromFive": 4.5,
@@ -1759,12 +1653,6 @@
       "customizable": "N/A",
       "transparency": "Opaque"
     },
-    "commonUsages": [
-      "painting",
-      "crafting",
-      "labeling",
-      "light-duty bundling tasks"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Masking Tape 1.webp",
     "ratingFromFive": 4.9,
@@ -1821,14 +1709,6 @@
       "customizable": "N/A",
       "transparency": "Available in white"
     },
-    "commonUsages": [
-      "crafting",
-      "mounting",
-      "signage",
-      "packaging",
-      "office",
-      "industrial tasks where two surfaces need to be joined discreetly"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Double Sided Tape.webp",
     "ratingFromFive": 4.6,
@@ -1877,16 +1757,6 @@
       "customizable": "N/A",
       "transparency": "Available in clear"
     },
-    "commonUsages": [
-      "used in food stalls",
-      "cafes",
-      "offices",
-      "parties",
-      "takeaway services to serve water",
-      "soft drinks",
-      "juices",
-      "hot beverages"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Drinking Cup.webp",
     "ratingFromFive": 4.6,
@@ -1927,11 +1797,6 @@
       "customizable": "N/A",
       "transparency": "Fully transparent for product visibility and appealing presentation."
     },
-    "commonUsages": [
-      "used in dairy packaging",
-      "dessert presentation",
-      "takeaway counters"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/yogurt cup Clear.webp",
     "ratingFromFive": 4.7,
@@ -1972,12 +1837,6 @@
       "customizable": "N/A",
       "transparency": "Opaque white; offers a clean, minimalist look and protects contents from light."
     },
-    "commonUsages": [
-      "used in dairy production",
-      "cafes",
-      "supermarkets",
-      "food delivery services"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/yogurt cup White.webp",
     "ratingFromFive": 4.9,
@@ -2018,15 +1877,6 @@
       "customizable": "N/A",
       "transparency": "Available in opaque"
     },
-    "commonUsages": [
-      "used in restaurants",
-      "takeaways",
-      "catering services",
-      "food delivery for serving sauces",
-      "chutneys",
-      "dressings",
-      "condiments"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Sorce Cup.webp",
     "ratingFromFive": 4.9,
@@ -2067,15 +1917,6 @@
       "customizable": "N/A",
       "transparency": "Available in opaque"
     },
-    "commonUsages": [
-      "used in offices",
-      "events",
-      "restaurants",
-      "takeaway outlets for serving hot or cold beverages such as tea",
-      "coffee",
-      "juice",
-      "water"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Cup (130ml).webp",
     "ratingFromFive": 4.9,
@@ -2116,16 +1957,6 @@
       "customizable": "N/A",
       "transparency": "Opaque white for a clean"
     },
-    "commonUsages": [
-      "Used in food services",
-      "delis",
-      "bakeries",
-      "catering for packaging ice cream",
-      "yogurt",
-      "sauces",
-      "curries",
-      "other semi-liquid items"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/White tub New.webp",
     "ratingFromFive": 4.7,
@@ -2182,15 +2013,6 @@
       "customizable": "N/A",
       "transparency": "Fully transparent for excellent product visibility and appeal."
     },
-    "commonUsages": [
-      "Storing and displaying desserts",
-      "salads",
-      "fruits",
-      "sauces",
-      "other ready-to-eat foods in restaurants",
-      "takeaways",
-      "retail settings"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Clear Tub.webp",
     "ratingFromFive": 4.8,
@@ -2239,14 +2061,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [
-      "used in food service",
-      "parties",
-      "catering",
-      "takeaway outlets",
-      "cafes",
-      "events"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Paper Cup.webp",
     "ratingFromFive": 4.9,
@@ -2311,7 +2125,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Lid.webp",
     "ratingFromFive": 4.5,
@@ -2352,14 +2165,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [
-      "used in food service",
-      "parties",
-      "catering",
-      "takeaway outlets",
-      "cafes",
-      "events"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Paper Tub.webp",
     "ratingFromFive": 4.9,
@@ -2400,7 +2205,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Drinking Straw 2.webp",
     "ratingFromFive": 5,
@@ -2457,7 +2261,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Paper Serviate.webp",
     "ratingFromFive": 4.9,
@@ -2498,7 +2301,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Paper Plate.webp",
     "ratingFromFive": 4.7,
@@ -2547,12 +2349,6 @@
       "customizable": "N/A",
       "transparency": "Available in clear"
     },
-    "commonUsages": [
-      "commonly used in food service",
-      "catering",
-      "retail",
-      "packaging industries"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/PVC Tray New.webp",
     "ratingFromFive": 4.7,
@@ -2609,12 +2405,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [
-      "used across various industries including food storage",
-      "retail packaging",
-      "household organization",
-      "shipping"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Transparent Box.webp",
     "ratingFromFive": 4.6,
@@ -2646,11 +2436,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [
-      "retail packaging",
-      "household organization",
-      "shipping"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Aluminium Box.webp",
     "ratingFromFive": 5,
@@ -2707,7 +2492,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Lunch Box New.webp",
     "ratingFromFive": 5,
@@ -2756,7 +2540,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Plastic box.webp",
     "ratingFromFive": 4.8,
@@ -2788,7 +2571,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/PP Ball New.webp",
     "ratingFromFive": 5,
@@ -2837,14 +2619,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [
-      "used in a variety of industries",
-      "including construction",
-      "signage",
-      "packaging",
-      "automotive",
-      "manufacturing"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/PVC Sheets.webp",
     "ratingFromFive": 4.6,
@@ -2901,12 +2675,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [
-      "commonly used in homes",
-      "restaurants",
-      "hotels",
-      "event spaces to protect dining surfaces"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Table Cloth.webp",
     "ratingFromFive": 4.6,
@@ -2947,11 +2715,6 @@
       "customizable": "N/A",
       "transparency": "Available in clear"
     },
-    "commonUsages": [
-      "commonly used in packaging for food items",
-      "retail products",
-      "industrial goods"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Shrinking Polythene.webp",
     "ratingFromFive": 4.7,
@@ -3024,12 +2787,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [
-      "used in food packaging",
-      "industrial packaging",
-      "storage applications to remove air from bags or containers",
-      "thereby increasing shelf life and protecting items from damage"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Vacuume Machine.webp",
     "ratingFromFive": 4.7,
@@ -3061,11 +2818,6 @@
       "customizable": "N/A",
       "transparency": "Generally opaque but clear options"
     },
-    "commonUsages": [
-      "used for securing packages",
-      "pallets",
-      "large shipments"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Strapping Roll.webp",
     "ratingFromFive": 4.5,
@@ -3106,14 +2858,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [
-      "used in homes",
-      "offices",
-      "hotels",
-      "commercial spaces to add comfort",
-      "warmth",
-      "style to any room"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Carpet one color(floor mat).webp",
     "ratingFromFive": 4.8,
@@ -3154,7 +2898,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Carpet one color(floor mat).webp",
     "ratingFromFive": 4.7,
@@ -3195,7 +2938,6 @@
       "customizable": "N/A",
       "transparency": "Mushroom bags may be clear to monitor growth, while other products come in bags or bulk containers for easy application."
     },
-    "commonUsages": [],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Mushroom Bag New.webp",
     "ratingFromFive": 4.8,
@@ -3244,11 +2986,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [
-      "These agricultural products are essential in the cultivation of mushrooms",
-      "plants",
-      "crops"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Mushroom Seeds New.webp",
     "ratingFromFive": 4.6,
@@ -3280,7 +3017,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Calcium Carbonate New.webp",
     "ratingFromFive": 4.8,
@@ -3321,7 +3057,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Magnesium Sulphate 2.webp",
     "ratingFromFive": 4.7,
@@ -3370,7 +3105,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Gypsum Powder.webp",
     "ratingFromFive": 4.8,
@@ -3419,13 +3153,6 @@
       "customizable": "N/A",
       "transparency": "Typically opaque"
     },
-    "commonUsages": [
-      "used in offices",
-      "households",
-      "industries for organizing",
-      "bundling",
-      "securing items"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Rubber Band.webp",
     "ratingFromFive": 4.9,
@@ -3474,12 +3201,6 @@
       "customizable": "N/A",
       "transparency": "Typically opaque"
     },
-    "commonUsages": [
-      "commonly used in industries such as shipping",
-      "construction",
-      "agriculture",
-      "sports"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Nylon Rope.webp",
     "ratingFromFive": 4.9,
@@ -3624,14 +3345,6 @@
       "customizable": "N/A",
       "transparency": "Typically opaque"
     },
-    "commonUsages": [
-      "commonly used in gardening",
-      "horticulture",
-      "farming for growing plants",
-      "vegetables",
-      "herbs",
-      "flowers"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Grow Bag.webp",
     "ratingFromFive": 4.7,
@@ -3688,14 +3401,6 @@
       "customizable": "N/A",
       "transparency": "Available in both clear and opaque options"
     },
-    "commonUsages": [
-      "commonly used in packaging",
-      "food storage",
-      "industrial applications",
-      "carpets",
-      "ropes",
-      "plastic parts"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/PP Polythene.webp",
     "ratingFromFive": 4.6,
@@ -3984,13 +3689,6 @@
       "customizable": "N/A",
       "transparency": "Available in clear or translucent options"
     },
-    "commonUsages": [
-      "widely used for producing clean and safe packaging materials",
-      "such as bags and films",
-      "in industries like food packaging",
-      "retail",
-      "pharmaceuticals"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/LDPE Polythene.webp",
     "ratingFromFive": 4.9,
@@ -4047,13 +3745,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [
-      "food packaging",
-      "medical supplies",
-      "retail products",
-      "industrial applications to ensure a secure",
-      "airtight seal"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Polythene Sealer.webp",
     "ratingFromFive": 4.8,
@@ -4085,7 +3776,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Band Sealer.webp",
     "ratingFromFive": 4.5,
@@ -4117,14 +3807,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [
-      "used in packaging industries where heat or electrical sealing is required",
-      "commonly applied in food packaging",
-      "pharmaceuticals",
-      "electronics",
-      "other industries where a strong",
-      "tamper-evident seal is essential"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/sealer tape with eliment.webp",
     "ratingFromFive": 4.5,
@@ -4156,13 +3838,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [
-      "used in the plastic industry for coloring and adding specific properties to plastic products",
-      "Common applications include manufacturing containers",
-      "films",
-      "packaging materials",
-      "various molded products"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Master Batch White New.webp",
     "ratingFromFive": 4.5,
@@ -4323,14 +3998,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [
-      "Commonly used in retail",
-      "laboratories",
-      "warehouses",
-      "food packaging",
-      "shipping",
-      "scales ensure precise weight measurements for a range of applications"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Scale.webp",
     "ratingFromFive": 4.8,
@@ -4371,12 +4038,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [
-      "widely used for packaging",
-      "shipping",
-      "labeling",
-      "general organizational tasks"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Tape Despenser N.webp",
     "ratingFromFive": 4.7,
@@ -4408,13 +4069,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [
-      "applications such as heat shrinking",
-      "paint removal",
-      "drying",
-      "soldering",
-      "softening materials"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Hot Gun.webp",
     "ratingFromFive": 4.7,
@@ -4446,11 +4100,6 @@
       "customizable": "N/A",
       "transparency": "Opaque black color"
     },
-    "commonUsages": [
-      "used in industrial and commercial applications for packaging",
-      "waste management",
-      "protective covers"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Black polythene.webp",
     "ratingFromFive": 4.8,
@@ -4507,7 +4156,6 @@
       "customizable": "N/A",
       "transparency": ""
     },
-    "commonUsages": [],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Black polythene.webp",
     "ratingFromFive": 4.9,
@@ -4564,12 +4212,6 @@
       "customizable": "N/A",
       "transparency": "Available in opaque"
     },
-    "commonUsages": [
-      "packaging applications",
-      "including shopping bags",
-      "promotional packaging",
-      "product wraps"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Color Polythene.webp",
     "ratingFromFive": 4.5,
@@ -4698,12 +4340,6 @@
       "customizable": "N/A",
       "transparency": "Available in opaque"
     },
-    "commonUsages": [
-      "packaging applications",
-      "including shopping bags",
-      "promotional packaging",
-      "product wraps"
-    ],
     "tagline": "100% Recycled",
     "image": "/Assets/ProductsImages/Color Polythene.webp",
     "ratingFromFive": 4.5,

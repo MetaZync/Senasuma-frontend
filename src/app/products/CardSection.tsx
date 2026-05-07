@@ -22,7 +22,6 @@ interface Product {
   category: string;
   ratingFromFive: number;
   regularPrice: number;
-  commonUsages: string[];
 }
 
 const categories = [

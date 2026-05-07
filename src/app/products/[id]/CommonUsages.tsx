@@ -18,6 +18,7 @@ interface UsageCardProps {
 
 const UsageCard: React.FC<UsageCardProps> = ({ name }) => {
   const imageSrc = commonUsagesMap[name] || "/Assets/commonusage1.webp";
+  const displayName = name.replace(/\s\d+$/, "");
 
   return (
     <Box
@@ -45,7 +46,7 @@ const UsageCard: React.FC<UsageCardProps> = ({ name }) => {
     >
       <Image
         src={imageSrc}
-        alt={name}
+        alt={displayName}
         fill
         sizes="(max-width: 600px) 100vw, 300px"
         style={{ objectFit: "cover", zIndex: 0 }}
@@ -56,7 +57,6 @@ const UsageCard: React.FC<UsageCardProps> = ({ name }) => {
         sx={{
           width: "100%",
           backgroundColor: "#000000",
-          // borderRadius: "100px",
           py: { xs: 1, md: 2 },
           display: "flex",
           alignItems: "center",
@@ -76,7 +76,7 @@ const UsageCard: React.FC<UsageCardProps> = ({ name }) => {
             lineHeight: 1.2
           }}
         >
-          {name}
+          {displayName}
         </Typography>
       </Box>
     </Box>
