@@ -2,6 +2,7 @@
 
 import React, { useState } from "react";
 import { Box, Typography, Stack, IconButton, Pagination, Chip, Select, MenuItem, TextField, InputAdornment } from "@mui/material";
+import { useSearchParams } from "next/navigation";
 import SearchIcon from "@mui/icons-material/Search";
 import ProductCard from "./ProductCard";
 import FadeIn from "@/components/FadeIn";
@@ -20,21 +21,23 @@ interface Product {
   short_description: string;
   image: string;
   category: string;
+  type?: string | string[];
   ratingFromFive: number;
   regularPrice: number;
 }
 
 const categories = [
   "All",
-  "Packaging Bags",
+  "Top",
+  "Packaging",
   "Wrapping",
   "Industrial Supplies",
-  "Protective Packaging",
+  "Bags",
   "Tapes",
-  "Accessories",
   "Storage Containers",
   "Hardware",
   "Agricultural Supplies",
+  "Home Decorations"
 ];
 
 interface CardSectionProps {
@@ -47,7 +50,9 @@ interface CardSectionProps {
 export default function CardSection({ hideFilters, filterByType, title, excludeId }: CardSectionProps = {}) {
   const [page, setPage] = useState(1);
   const [products, setProducts] = useState<Product[]>([]);
-  const [activeType, setActiveType] = useState(filterByType || "All");
+  const searchParams = useSearchParams();
+  const categoryParam = searchParams.get("category");
+  const [activeType, setActiveType] = useState(filterByType || categoryParam || "All");
   const [searchQuery, setSearchQuery] = useState("");
   const [tempSearch, setTempSearch] = useState("");
   const [sortOption, setSortOption] = useState("featured");
@@ -66,6 +71,13 @@ export default function CardSection({ hideFilters, filterByType, title, excludeI
     fetchProducts();
   }, []);
 
+  React.useEffect(() => {
+    if (categoryParam) {
+      setActiveType(categoryParam);
+      setPage(1);
+    }
+  }, [categoryParam]);
+
   const handlePageChange = (event: React.ChangeEvent<unknown>, value: number) => {
     setPage(value);
     window.scrollTo({ top: 300, behavior: "smooth" });
@@ -76,7 +88,10 @@ export default function CardSection({ hideFilters, filterByType, title, excludeI
       if (excludeId && product.id === excludeId) return false;
       const matchesType =
         activeType === "All" ||
-        product.category.toLowerCase() === activeType.toLowerCase();
+        product.category.toLowerCase() === activeType.toLowerCase() ||
+        (Array.isArray(product.type)
+          ? product.type.some((t) => t.toLowerCase() === activeType.toLowerCase())
+          : product.type?.toLowerCase() === activeType.toLowerCase());
       const matchesSearch = product.title
         .toLowerCase()
         .includes(searchQuery.toLowerCase());
@@ -142,8 +157,8 @@ export default function CardSection({ hideFilters, filterByType, title, excludeI
                 flexShrink: 0,
                 "& .MuiChip-label": {
                   fontWeight: activeType === cat ? 900 : 500,
-                  background: activeType === cat 
-                    ? "linear-gradient(to right, #8DC38B, #527F65)" 
+                  background: activeType === cat
+                    ? "linear-gradient(to right, #8DC38B, #527F65)"
                     : "transparent",
                   WebkitBackgroundClip: activeType === cat ? "text" : "none",
                   WebkitTextFillColor: activeType === cat ? "transparent" : "inherit",
@@ -287,7 +302,7 @@ export default function CardSection({ hideFilters, filterByType, title, excludeI
       ) : null}
 
       <Box
-        component={FadeIn} 
+        component={FadeIn}
         delay={0.3}
         width="100%"
         sx={{
@@ -341,7 +356,7 @@ export default function CardSection({ hideFilters, filterByType, title, excludeI
                   backgroundColor: selected ? "#528464" : "#e0e0e0",
                 },
                 "&.Mui-disabled": {
-                   opacity: 0.5,
+                  opacity: 0.5,
                 },
                 visibility: type === 'page' || type === 'start-ellipsis' || type === 'end-ellipsis' ? 'visible' : 'hidden',
                 display: type === 'page' || type === 'start-ellipsis' || type === 'end-ellipsis' ? 'inline-flex' : 'none',

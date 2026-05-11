@@ -9,7 +9,9 @@ import {
   Rating,
   Modal,
   IconButton,
+  Chip,
 } from "@mui/material";
+import { useRouter } from "next/navigation";
 import Image from "next/image";
 import { Poppins } from "next/font/google";
 import ShoppingBagIcon from "@mui/icons-material/ShoppingBag";
@@ -40,6 +42,7 @@ export interface Product {
   product_name?: string;
   tagline: string;
   category: string;
+  type?: string | string[];
   sub_category?: string;
 
   mainDescription: string;
@@ -62,6 +65,20 @@ export interface Product {
   options: ProductOption[];
 }
 
+const categories = [
+  "All",
+  "Top",
+  "Packaging",
+  "Wrapping",
+  "Industrial Supplies",
+  "Bags",
+  "Tapes",
+  "Storage Containers",
+  "Hardware",
+  "Agricultural Supplies",
+  "Home Decorations"
+];
+
 import { necessaryGoodsIcons } from "./NecessaryGoodsData";
 interface ProductDetailContentProps {
   product: Product;
@@ -73,6 +90,7 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
   const [pdfOpen, setPdfOpen] = React.useState(false);
   const [pdfError, setPdfError] = React.useState(false);
   const [isLoadingPdf, setIsLoadingPdf] = React.useState(false);
+  const router = useRouter();
 
   const handleOpenPdf = async () => {
     if (!product.pdf) return;
@@ -110,6 +128,57 @@ export default function ProductDetailContent({ product }: ProductDetailContentPr
   return (
     <Box sx={{ backgroundColor: "#ffffff", pt: { xs: 24, sm: 26, md: 20, lg: 24 }, pb: 8 }}>
       <Container maxWidth="xl">
+        <Stack
+          component={FadeIn}
+          delay={0.1}
+          direction="row"
+          sx={{
+            justifyContent: { xs: "flex-start", md: "center" },
+            overflowX: { xs: "auto", md: "visible" },
+            flexWrap: { xs: "nowrap", md: "wrap" },
+            gap: { xs: 1, md: 1.5 },
+            mb: { xs: 8, md: 12 },
+            mx: { xs: -2, md: 0 },
+            px: { xs: 2, md: 0 },
+            pb: { xs: 1, md: 0 },
+            msOverflowStyle: "none",
+            scrollbarWidth: "none",
+            "&::-webkit-scrollbar": {
+              display: "none",
+            },
+          }}
+        >
+          {categories.map((cat) => (
+            <Chip
+              key={cat}
+              label={cat}
+              onClick={() => {
+                router.push(`/products?category=${cat}`);
+              }}
+              sx={{
+                backgroundColor: product.category === cat ? "#000000" : "#f0f0f0",
+                fontFamily: poppins.style.fontFamily,
+                fontSize: { xs: "12px", md: "14px" },
+                px: { xs: 0.5, md: 1 },
+                height: { xs: "32px", md: "40px" },
+                borderRadius: "100px",
+                flexShrink: 0,
+                "& .MuiChip-label": {
+                  fontWeight: product.category === cat ? 900 : 500,
+                  background: product.category === cat
+                    ? "linear-gradient(to right, #8DC38B, #527F65)"
+                    : "transparent",
+                  WebkitBackgroundClip: product.category === cat ? "text" : "none",
+                  WebkitTextFillColor: product.category === cat ? "transparent" : "inherit",
+                },
+                "&:hover": {
+                  backgroundColor: product.category === cat ? "#1a1a1a" : "#e0e0e0",
+                },
+              }}
+            />
+          ))}
+        </Stack>
+
         <Stack
           direction={{ xs: "column", md: "row" }}
           spacing={{ xs: 4, md: 8, lg: 12 }}

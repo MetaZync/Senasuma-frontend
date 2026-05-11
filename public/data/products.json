@@ -22,7 +22,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "packaging",
+    "type": ["Industrial Packaging", "top"],
     "options": [
       {
         "size": "2½\" x 3\"",
@@ -174,7 +174,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "packaging",
+    "type": "Industrial Packaging",
     "options": [
       {
         "size": "1¼\" x 1½\"",
@@ -926,7 +926,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "wrapping",
+    "type": ["wrapping", "bags"],
     "options": [
       {
         "size": "1\" x 16''",
@@ -979,7 +979,7 @@
     "id": 13,
     "title": "Garbage Bags – Reliable & Hygienic Waste Disposal Solution",
     "product_name": "Garbage bags",
-    "category": "Industrial Supplies",
+    "category": "Bags",
     "sub_category": "",
     "disposable": "Disposable",
     "mainDescription": "Strong, durable, and reliable, our garbage bags are designed to handle heavy loads and everyday waste. Available in various sizes, they offer excellent strength, leak resistance, and a secure solution for all your waste disposal needs.",
@@ -998,7 +998,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "industrial",
+    "type": "bags",
     "options": [
       {
         "size": "Small: 18\" x 24\"",
@@ -1035,7 +1035,7 @@
     "id": 14,
     "title": "White Bags – Clean & Versatile Packaging for Everyday Use",
     "product_name": "White bags",
-    "category": "Industrial Supplies",
+    "category": "Bags",
     "sub_category": "",
     "disposable": "Disposable",
     "mainDescription": "Simple yet versatile, our white bags are perfect for a range of packaging needs. Whether for retail, gift-giving, or general storage, these bags offer durability and a clean, professional look.",
@@ -1054,7 +1054,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "industrial",
+    "type": "bags",
     "options": [
       {
         "size": "7\" x 10\"",
@@ -1123,7 +1123,7 @@
     "id": 15,
     "title": "Thank You Bags – Polite & Practical Packaging for Customer Delight",
     "product_name": "Thank you bags",
-    "category": "Industrial Supplies",
+    "category": "Bags",
     "sub_category": "",
     "disposable": "Disposable",
     "mainDescription": "Show appreciation with our 'Thank You' bags, ideal for packaging gifts or retail items.",
@@ -1142,7 +1142,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "industrial",
+    "type": "bags",
     "options": [
       {
         "size": "Small: 10\" x 14\"",
@@ -1179,7 +1179,7 @@
     "id": 16,
     "title": "Color Bags – Clean & Versatile Packaging for Everyday Use",
     "product_name": "Color bags",
-    "category": "Industrial Supplies",
+    "category": "Bags",
     "sub_category": "",
     "disposable": "Disposable",
     "mainDescription": "Add vibrancy and style to your packaging with our colorful range of bags. Available in a variety of hues, these bags are perfect for retail, gifting, and special occasions, offering both durability and a fun, eye-catching design.",
@@ -1198,7 +1198,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "industrial",
+    "type": "bags",
     "options": [
       {
         "size": "10\" x 14\"",
@@ -1235,7 +1235,7 @@
     "id": 17,
     "title": "Tulip Bags – Elegant & Functional Packaging for Modern Needs",
     "product_name": "Tulip bags",
-    "category": "Industrial Supplies",
+    "category": "Bags",
     "sub_category": "",
     "disposable": "Disposable",
     "mainDescription": "This black carrier bag features a gold tulip flower and the words \"Tulips.\" Durable and stylish, it's perfect for shopping or everyday use and features a convenient die-cut handle.",
@@ -1254,7 +1254,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "industrial",
+    "type": "bags",
     "options": [
       {
         "size": "Small: 10\" x 14\"",
@@ -1350,7 +1350,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "protective",
+    "type": "wrapping",
     "options": [],
     "regularPrice": 0,
     "wholeSalePrice": 0,
@@ -1381,7 +1381,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "protective",
+    "type": "wrapping",
     "options": [
       {
         "size": "12\" - 30m",
@@ -1426,7 +1426,7 @@
     "id": 21,
     "title": "Shopping Bags – Convenient & Stylish Packaging for Retail",
     "product_name": "Shopping bags",
-    "category": "Industrial Supplies",
+    "category": "Bags",
     "sub_category": "",
     "disposable": "Disposable",
     "mainDescription": "Perfect for retail and daily use, available in various sizes.",
@@ -1445,7 +1445,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "industrial",
+    "type": "bags",
     "options": [
       {
         "size": "7 + 4 - Small (chicken bag)",
@@ -1498,7 +1498,7 @@
     "id": 22,
     "title": "Grocery Bags – Practical & Durable Carriers for Daily Essentials",
     "product_name": "Grocery bags",
-    "category": "Industrial Supplies",
+    "category": "Bags",
     "sub_category": "",
     "disposable": "Disposable",
     "mainDescription": "Practical and sturdy, our grocery bags are designed to make shopping convenient. Available in various sizes, these bags provide reliable strength for carrying groceries, ensuring durability and sustainability with every use.",
@@ -1517,7 +1517,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "industrial",
+    "type": "bags",
     "options": [
       {
         "size": "5\" x 8\"",
@@ -1746,7 +1746,7 @@
     "id": 26,
     "title": "Drinking Cups – Convenient & Hygienic Beverage Serving Solution",
     "product_name": "Drinking Cup",
-    "category": "Accessories",
+    "category": "Storage Containers",
     "sub_category": "Plastic Cup",
     "disposable": "Disposable",
     "mainDescription": "High-quality cups perfect for daily use, parties, and events. Designed for reliability and available in various sizes for all beverage needs.",
@@ -1765,7 +1765,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "accessories",
+    "type": "storage containers",
     "options": [
       {
         "size": "200ml",
@@ -1786,7 +1786,7 @@
     "id": 27,
     "title": "Yogurt Cup (Clear) – Transparent & Secure Packaging for Dairy and Desserts",
     "product_name": "Yogurt Cup (Clear)",
-    "category": "Accessories",
+    "category": "storage containers",
     "sub_category": "",
     "disposable": "Disposable",
     "mainDescription": "Durable, transparent yogurt cups perfect for desserts and snacks. Ideal for personal and commercial use. Order now!",
@@ -1805,7 +1805,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "accessories",
+    "type": "storage containers",
     "options": [
       {
         "size": "80ml",
@@ -1826,7 +1826,7 @@
     "id": 28,
     "title": "Yogurt Cup (White) – Secure Packaging for Dairy and Desserts",
     "product_name": "Yogurt Cup (White)",
-    "category": "Accessories",
+    "category": "storage containers",
     "sub_category": "",
     "disposable": "Disposable",
     "mainDescription": "Sturdy white yogurt cups for fresh and convenient servings. Ideal for dairy, desserts, and more. Order now!",
@@ -1845,7 +1845,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "accessories",
+    "type": "storage containers",
     "options": [
       {
         "size": "80ml",
@@ -1866,7 +1866,7 @@
     "id": 29,
     "title": "Sauce Cup – Compact & Leak-Proof Containers for Dips & Condiments",
     "product_name": "Sauce Cup",
-    "category": "Accessories",
+    "category": "storage containers",
     "sub_category": "",
     "disposable": "Disposable",
     "mainDescription": "",
@@ -1885,7 +1885,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "accessories",
+    "type": "storage containers",
     "options": [
       {
         "size": "30ml",
@@ -1906,7 +1906,7 @@
     "id": 30,
     "title": "Cup – Versatile & Disposable Solution for Beverage Service",
     "product_name": "Cup",
-    "category": "Accessories",
+    "category": "storage containers",
     "sub_category": "",
     "disposable": "Disposable",
     "mainDescription": "Ideal for serving hot and cold beverages, our high-quality cups are designed for durability and convenience. Available in various sizes to suit different needs.",
@@ -1925,7 +1925,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "accessories",
+    "type": "storage containers",
     "options": [
       {
         "size": "130ml",
@@ -1946,7 +1946,7 @@
     "id": 31,
     "title": "White Tub – Clean & Functional Packaging for Food & Storage",
     "product_name": "White tub",
-    "category": "Accessories",
+    "category": "storage containers",
     "sub_category": "",
     "disposable": "Disposable",
     "mainDescription": "Durable white tubs perfect for storing, packaging, and serving various food items. Ideal for commercial and household use.",
@@ -1965,7 +1965,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "accessories",
+    "type": "storage containers",
     "options": [
       {
         "size": "180ml",
@@ -2002,7 +2002,7 @@
     "id": 32,
     "title": "Clear Tub – Transparent & Leak-Proof Packaging for Food Visibility",
     "product_name": "Clear tub",
-    "category": "Accessories",
+    "category": "storage containers",
     "sub_category": "",
     "disposable": "Disposable",
     "mainDescription": "Transparent tubs designed for secure storage and packaging of food items. Ideal for both commercial and household use.",
@@ -2021,7 +2021,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "accessories",
+    "type": "storage containers",
     "options": [
       {
         "size": "250ml",
@@ -2050,7 +2050,7 @@
     "id": 33,
     "title": "Paper-Based Products – Pro-Eco-Friendly & Convenient Disposable Solutions",
     "product_name": "Paper Cup",
-    "category": "Accessories",
+    "category": "storage containers",
     "sub_category": "",
     "disposable": "Disposable",
     "mainDescription": "Lightweight and durable paper cups, perfect for serving hot and cold beverages. Ideal for cafes, events, and daily use.",
@@ -2069,7 +2069,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "accessories",
+    "type": "storage containers",
     "options": [
       {
         "size": "150ml",
@@ -2114,7 +2114,7 @@
     "id": 34,
     "title": "Lid",
     "product_name": "Lid",
-    "category": "Accessories",
+    "category": "storage containers",
     "sub_category": "",
     "disposable": "Disposable",
     "mainDescription": "",
@@ -2133,7 +2133,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "accessories",
+    "type": "storage containers",
     "options": [
       {
         "size": "",
@@ -2154,7 +2154,7 @@
     "id": 35,
     "title": "Paper-Based Products – Pro-Eco-Friendly & Convenient Disposable Solutions",
     "product_name": "Paper tub",
-    "category": "Accessories",
+    "category": "storage containers",
     "sub_category": "",
     "disposable": "Disposable",
     "mainDescription": "Sturdy paper tubs perfect for packaging food items. Ideal for snacks, desserts, and takeaways, offering a sustainable solution for everyday use.",
@@ -2173,7 +2173,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "accessories",
+    "type": "storage containers",
     "options": [
       {
         "size": "300ml",
@@ -2194,7 +2194,7 @@
     "id": 36,
     "title": "Paper Straw",
     "product_name": "Paper Straw",
-    "category": "Accessories",
+    "category": "storage containers",
     "sub_category": "",
     "disposable": "Disposable",
     "mainDescription": "Environmentally friendly paper straws, perfect for beverages and reducing plastic waste. Strong, reliable, and compostable for a greener alternative.",
@@ -2213,7 +2213,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "accessories",
+    "type": "storage containers",
     "options": [
       {
         "size": "6mm",
@@ -2250,7 +2250,7 @@
     "id": 37,
     "title": "Paper Serviette",
     "product_name": "Paper serviette",
-    "category": "Accessories",
+    "category": "Home Decorations",
     "sub_category": "",
     "disposable": "Disposable",
     "mainDescription": "Soft, absorbent paper serviettes ideal for meals, events, and everyday use. A convenient and eco-friendly option for dining and cleanup.",
@@ -2269,7 +2269,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "accessories",
+    "type": "Home Decorations",
     "options": [
       {
         "size": "",
@@ -2290,7 +2290,7 @@
     "id": 38,
     "title": "Paper Plate",
     "product_name": "Paper Plate",
-    "category": "Accessories",
+    "category": "home decorations",
     "sub_category": "",
     "disposable": "Disposable",
     "mainDescription": "Sturdy and disposable paper plates, perfect for parties, picnics, and everyday meals. A practical, eco-friendly option for serving food.",
@@ -2309,7 +2309,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "accessories",
+    "type": "Home Decorations",
     "options": [
       {
         "size": "Small",
@@ -2338,7 +2338,7 @@
     "id": 39,
     "title": "PVC Tray – Durable & Reliable Packaging for Food & Goods",
     "product_name": "PVC Tray",
-    "category": "Accessories",
+    "category": "Storage Containers",
     "sub_category": "",
     "disposable": "Disposable",
     "mainDescription": "Sturdy PVC trays ideal for serving, storing, and organizing items. Lightweight and easy to clean, perfect for both home and commercial use.",
@@ -2357,7 +2357,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "accessories",
+    "type": "storage containers",
     "options": [
       {
         "size": "100g",
@@ -2413,7 +2413,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "storage",
+    "type": ["storage", "top"],
     "options": [],
     "regularPrice": 0,
     "wholeSalePrice": 0,
@@ -2560,7 +2560,7 @@
     "id": 44,
     "title": "PP Ball",
     "product_name": "PP Ball",
-    "category": "Industrial Supplies",
+    "category": "Home Decorations",
     "sub_category": "",
     "disposable": "Disposable",
     "mainDescription": "High-quality PP (Polypropylene) balls, perfect for various uses including packaging, decoration, and crafts. Lightweight and strong for versatile applications.",
@@ -2579,7 +2579,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "industrial",
+    "type": "Home Decorations",
     "options": [
       {
         "size": "Small",
@@ -2608,7 +2608,7 @@
     "id": 45,
     "title": "PVC Sheet – Durable & Flexible Material for a Wide Range of Applications",
     "product_name": "PVC Sheet",
-    "category": "Industrial Supplies",
+    "category": "Home Decorations",
     "sub_category": "",
     "disposable": "Disposable",
     "mainDescription": "Versatile PVC sheets ideal for construction, signage, and various industrial applications. Lightweight, durable, and easy to cut, offering reliable performance for different projects.",
@@ -2627,7 +2627,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "industrial",
+    "type": "Home Decorations",
     "options": [
       {
         "size": "12mm",
@@ -2664,7 +2664,7 @@
     "id": 46,
     "title": "Table Cloth – Elegant & Protective Coverings for Dining Tables",
     "product_name": "Table Cloth",
-    "category": "Industrial Supplies",
+    "category": "Home Decorations",
     "sub_category": "",
     "disposable": "Both",
     "mainDescription": "Elegant and durable tablecloths, perfect for enhancing your dining experience. Protects surfaces while adding a decorative touch to any table setting.",
@@ -2683,7 +2683,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "industrial",
+    "type": "Home Decorations",
     "options": [
       {
         "size": "1 y",
@@ -2723,7 +2723,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "protective",
+    "type": "wrapping",
     "options": [
       {
         "size": "2\"",
@@ -2807,7 +2807,7 @@
     "id": 49,
     "title": "Strapping Roll – Strong & Reliable Packaging for Secure Shipping",
     "product_name": "Strapping roll",
-    "category": "Accessories",
+    "category": "Industrial Supplies",
     "sub_category": "",
     "disposable": "Non - Disposable",
     "mainDescription": "Durable strapping rolls ideal for securing and bundling items during shipping and storage. Provides a secure, tight seal for heavy-duty applications.",
@@ -2826,7 +2826,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "accessories",
+    "type": "Industrial Supplies",
     "options": [
       {
         "size": "1000m",
@@ -2847,7 +2847,7 @@
     "id": 50,
     "title": "Carpet – Durable & Stylish Flooring Solutions for Every Space",
     "product_name": "Carpet (One Color)",
-    "category": "Industrial Supplies",
+    "category": "Home Decorations",
     "sub_category": "",
     "disposable": "Non - Disposable",
     "mainDescription": "High-quality, one-color carpets offering a sleek and clean look. Perfect for any room, providing comfort, style, and durability.",
@@ -2866,7 +2866,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "industrial",
+    "type": "Home Decorations",
     "options": [
       {
         "size": "",
@@ -2887,7 +2887,7 @@
     "id": 51,
     "title": "Carpet (Design)",
     "product_name": "Carpet (Design)",
-    "category": "Industrial Supplies",
+    "category": "Home Decorations",
     "sub_category": "",
     "disposable": "Non - Disposable",
     "mainDescription": "Vibrant and patterned carpets that add character and elegance to any space. Durable, easy to maintain, and perfect for enhancing the decor of your home or office.",
@@ -2906,7 +2906,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "industrial",
+    "type": "Home Decorations",
     "options": [
       {
         "size": "",
@@ -3142,7 +3142,7 @@
     "id": 57,
     "title": "Rubber Band – Flexible & Durable Fastening Solution",
     "product_name": "Rubber Band",
-    "category": "Accessories",
+    "category": "Industrial Supplies",
     "sub_category": "",
     "disposable": "Non - Disposable",
     "mainDescription": "Durable rubber bands ideal for organizing, bundling, and securing items. Available in various sizes, perfect for both office and everyday use.",
@@ -3161,7 +3161,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "accessories",
+    "type": "Industrial Supplies",
     "options": [
       {
         "size": "100g",
@@ -3353,7 +3353,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "agricultural",
+    "type": ["agricultural", "top"],
     "options": [
       {
         "size": "7\" x 9\"",
@@ -3390,7 +3390,7 @@
     "id": 60,
     "title": "PP Polythene – Versatile & Durable Packaging Material",
     "product_name": "PP Polythene(Polypropylene polyethylene)",
-    "category": "Industrial Supplies",
+    "category": "Packaging",
     "sub_category": "",
     "disposable": "",
     "mainDescription": "Durable polypropylene polythene ideal for packaging, storage, and industrial use. Offers excellent strength, flexibility, and moisture resistance. Food Gradable",
@@ -3409,7 +3409,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "industrial",
+    "type": ["packaging", "top"],
     "options": [
       {
         "size": "1/2\" - 2\"",
@@ -3678,7 +3678,7 @@
     "id": 61,
     "title": "LDPE Clean – Flexible & Durable Packaging Solution",
     "product_name": "LDPE CLEAN",
-    "category": "Industrial Supplies",
+    "category": "Packaging",
     "sub_category": "",
     "disposable": "",
     "mainDescription": "High-quality LDPE (Low-Density Polyethylene) material, perfect for clean and reliable packaging, offering flexibility, moisture resistance, and durability. Ideal for various applications.",
@@ -3697,7 +3697,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "industrial",
+    "type": ["packaging", "top"],
     "options": [
       {
         "size": "1\"",
@@ -3796,7 +3796,7 @@
     "id": 64,
     "title": "Sealer Tape with Element – Secure and Efficient Sealing Solution",
     "product_name": "Sealer Tape with eliment",
-    "category": "Accessories",
+    "category": "Hardware",
     "sub_category": "",
     "disposable": "Non - Disposable",
     "mainDescription": "High-quality sealer tape with heating element for airtight and durable seals. Ideal for packaging and industrial applications.",
@@ -3815,7 +3815,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "accessories",
+    "type": "hardware",
     "options": [],
     "regularPrice": 0,
     "wholeSalePrice": 0,
@@ -3846,7 +3846,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "industrial",
+    "type": ["Industrial Supplies", "top"],
     "options": [
       {
         "size": "White",
@@ -3987,7 +3987,7 @@
     "id": 66,
     "title": "Scale – Precision and Accuracy for Weighing Needs",
     "product_name": "Scale",
-    "category": "Industrial Supplies",
+    "category": "Hardware",
     "sub_category": "",
     "disposable": "Non - Disposable",
     "mainDescription": "Precision scales for measuring weight efficiently. Ideal for commercial, industrial, and household applications.",
@@ -4006,7 +4006,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "industrial",
+    "type": "hardware",
     "options": [
       {
         "size": "5kg",
@@ -4027,7 +4027,7 @@
     "id": 67,
     "title": "Tape Dispenser – Convenient & Efficient Tool for Easy Tape Application",
     "product_name": "Tape dispenser",
-    "category": "Industrial Supplies",
+    "category": "Hardware",
     "sub_category": "",
     "disposable": "",
     "mainDescription": "Durable tape dispenser for quick and smooth application. Perfect for office, packaging, and industrial use.",
@@ -4046,7 +4046,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "industrial",
+    "type": "hardware",
     "options": [],
     "regularPrice": 0,
     "wholeSalePrice": 0,
@@ -4058,7 +4058,7 @@
     "id": 68,
     "title": "Hot Gun – Versatile & Powerful Tool for Heat Application",
     "product_name": "Hot Gun",
-    "category": "Industrial Supplies",
+    "category": "Hardware",
     "sub_category": "",
     "disposable": "",
     "mainDescription": "High-performance hot gun for sealing, bonding, and crafting applications. Ideal for industrial and DIY projects.",
@@ -4077,7 +4077,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "industrial",
+    "type": "hardware",
     "options": [],
     "regularPrice": 0,
     "wholeSalePrice": 0,
@@ -4089,7 +4089,7 @@
     "id": 69,
     "title": "Black Polythene – Durable & Versatile Packaging Solution",
     "product_name": "Black Polythene",
-    "category": "Industrial Supplies",
+    "category": "Wrapping",
     "sub_category": "",
     "disposable": "",
     "mainDescription": "Durable black polythene for packaging, covering, and industrial applications. Provides excellent strength and UV protection.",
@@ -4108,18 +4108,10 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "industrial",
+    "type": ["wrapping", "top"],
     "options": [
       {
-        "size": "2'",
-        "regularPrice": 0,
-        "wholeSalePrice": 350,
-        "special_notes": "roll = 350 = 1kg",
-        "per_one_price": "",
-        "image": ""
-      },
-      {
-        "size": "3' (850 gauge)",
+        "size": "3'",
         "regularPrice": 0,
         "wholeSalePrice": 350,
         "special_notes": "",
@@ -4127,7 +4119,23 @@
         "image": ""
       },
       {
-        "size": "3' (500 gauge)",
+        "size": "4'",
+        "regularPrice": 0,
+        "wholeSalePrice": 350,
+        "special_notes": "",
+        "per_one_price": "",
+        "image": ""
+      },
+      {
+        "size": "5'",
+        "regularPrice": 0,
+        "wholeSalePrice": 350,
+        "special_notes": "",
+        "per_one_price": "",
+        "image": ""
+      },
+      {
+        "size": "6'",
         "regularPrice": 0,
         "wholeSalePrice": 350,
         "special_notes": "",
@@ -4145,7 +4153,7 @@
     "id": 70,
     "title": "No 1 Black Polythene",
     "product_name": "No 1 Black Polethene",
-    "category": "Industrial Supplies",
+    "category": "Wrapping",
     "sub_category": "",
     "disposable": "",
     "mainDescription": "Durable black polythene for packaging, covering, and industrial applications. Provides excellent strength and UV protection.",
@@ -4164,29 +4172,13 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "industrial",
+    "type": "wrapping",
     "options": [
       {
         "size": "2'",
         "regularPrice": 0,
         "wholeSalePrice": 550,
         "special_notes": "roll = 550",
-        "per_one_price": "",
-        "image": ""
-      },
-      {
-        "size": "3' (500 gauge)",
-        "regularPrice": 0,
-        "wholeSalePrice": 550,
-        "special_notes": "",
-        "per_one_price": "",
-        "image": ""
-      },
-      {
-        "size": "3' (300 gauge)",
-        "regularPrice": 0,
-        "wholeSalePrice": 550,
-        "special_notes": "",
         "per_one_price": "",
         "image": ""
       }
@@ -4201,7 +4193,7 @@
     "id": 71,
     "title": "Color Polythene (2\") – Vibrant & Durable Packaging Solution",
     "product_name": "Color Polythene (2\")",
-    "category": "Industrial Supplies",
+    "category": "Wrapping",
     "sub_category": "",
     "disposable": "",
     "mainDescription": "High-quality colored polythene for packaging and wrapping. Available in various colors for versatile applications.",
@@ -4220,7 +4212,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "industrial",
+    "type": ["wrapping", "top"],
     "options": [
       {
         "size": "White",
@@ -4329,7 +4321,7 @@
     "id": 72,
     "title": "Color Polythene (3\") – Vibrant & Durable Packaging Solution",
     "product_name": "Color Polethene (3\")",
-    "category": "Industrial Supplies",
+    "category": "Wrapping",
     "sub_category": "",
     "disposable": "",
     "mainDescription": "High-quality colored polythene for packaging and wrapping. Available in various colors for versatile applications.",
@@ -4348,7 +4340,7 @@
       "eco-friendly",
       "packaging"
     ],
-    "type": "industrial",
+    "type": "wrapping",
     "options": [
       {
         "size": "White",

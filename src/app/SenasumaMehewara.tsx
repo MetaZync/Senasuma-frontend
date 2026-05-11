@@ -91,7 +91,7 @@ const SenasumaMehewara: React.FC = () => {
             }}
           >
             <Image
-              src="/Assets/HomeGallery1.webp"
+              src="/Assets/HomeG2.webp"
               alt="Beach Reservation"
               fill
               sizes="(max-width: 900px) 100vw, 33vw"
@@ -231,7 +231,7 @@ const SenasumaMehewara: React.FC = () => {
             }}
           >
             <Image
-              src="/Assets/HomeGallery2.webp"
+              src="/Assets/HomeG4.webp"
               alt="Fight Deforestation"
               fill
               sizes="(max-width: 900px) 100vw, 33vw"
@@ -265,7 +265,7 @@ const SenasumaMehewara: React.FC = () => {
             }}
           >
             <Image
-              src="/Assets/HomeGallery3.webp"
+              src="/Assets/HomeG5.webp"
               alt="Invest in Ocean Health"
               fill
               sizes="(max-width: 900px) 100vw, 33vw"
@@ -299,7 +299,7 @@ const SenasumaMehewara: React.FC = () => {
             }}
           >
             <Image
-              src="/Assets/HomeGallery4.webp"
+              src="/Assets/HomeG3.webp"
               alt="Support Animal Welfare"
               fill
               sizes="(max-width: 900px) 100vw, 33vw"

@@ -20,21 +20,22 @@ const poppins = Poppins({
 const products = [
   {
     id: 1,
-    name: "Polythene Bags",
+    name: "Garbage Bags",
     description: "Eco-friendly, durable bags designed for retail, industrial, and commercial use.",
     image: "/Assets/Carousel1.webp",
   },
   {
     id: 2,
-    name: "Garbage Bags",
-    description: "Heavy-duty waste management solutions for residential and industrial applications.",
-    image: "/Assets/Carousel2.webp",
+
+    name: "Wrapping Rolls",
+    description: "Eco-friendly, durable bags designed for retail, industrial, and commercial use.",
+    image: "/Assets/Carousel3.webp",
   },
   {
     id: 3,
-    name: "Industrial Packing",
-    description: "Superior protection for goods during transit with our high-grade industrial wrap.",
-    image: "/Assets/Carousel3.webp",
+    name: "Polythene Bags",
+    description: "Heavy-duty waste management solutions for residential and industrial applications.",
+    image: "/Assets/Carousel2.webp",
   },
   {
     id: 4,
@@ -196,17 +197,17 @@ const PopularProducts: React.FC = () => {
           </Box>
         </FadeIn>
 
-          <Box sx={{
-            position: { xs: "relative", lg: "absolute" },
-            right: { lg: "64px" },
-            mt: { xs: 1, lg: 0 }
-          }}>
-            <OrderButton
-              href="/products"
-            >
-              See all Products
-            </OrderButton>
-          </Box>
+        <Box sx={{
+          position: { xs: "relative", lg: "absolute" },
+          right: { lg: "64px" },
+          mt: { xs: 1, lg: 0 }
+        }}>
+          <OrderButton
+            href="/products"
+          >
+            See all Products
+          </OrderButton>
+        </Box>
       </Box>
 
       <Box
