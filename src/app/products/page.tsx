@@ -1,12 +1,19 @@
-import { Box } from "@mui/material";
+import { Box, CircularProgress } from "@mui/material";
 import ProductsHero from "./ProductsHero";
 import CardSection from "./CardSection";
+import { Suspense } from "react";
 
 export default function ProductsPage() {
   return (
     <Box sx={{ backgroundColor: "#ffffff", minHeight: "100vh" }}>
       <ProductsHero />
-      <CardSection />
+      <Suspense fallback={
+        <Box sx={{ display: "flex", justifyContent: "center", py: 10 }}>
+          <CircularProgress color="success" />
+        </Box>
+      }>
+        <CardSection />
+      </Suspense>
     </Box>
   );
 }
