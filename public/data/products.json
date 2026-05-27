@@ -149,7 +149,7 @@
     "wholeSalePrice": 300,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/MPR Paper 18 EM.pdf"
+    "pdf": "/Assets/Pdfs/Sticker Bags.pdf"
   },
   {
     "id": 2,
@@ -309,7 +309,7 @@
     "wholeSalePrice": 250,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/MPR Paper 18 EM.pdf"
+    "pdf": "/Assets/Pdfs/ZIplock Bags.pdf"
   },
   {
     "id": 3,
@@ -381,7 +381,7 @@
     "wholeSalePrice": 18,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Ziplock bags (White).pdf"
+    "pdf": "/Assets/Pdfs/ZIplock Bags.pdf"
   },
   {
     "id": 4,
@@ -453,7 +453,7 @@
     "wholeSalePrice": 18,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Ziplock bags (Black).pdf"
+    "pdf": "/Assets/Pdfs/ZIplock Bags.pdf"
   },
   {
     "id": 5,
@@ -501,7 +501,7 @@
     "wholeSalePrice": 18,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Ziplock bags (Red/ Green/ Pink/ Purple).pdf"
+    "pdf": "/Assets/Pdfs/ZIplock Bags.pdf"
   },
   {
     "id": 6,
@@ -573,7 +573,7 @@
     "wholeSalePrice": 18,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Ziplock bags (Aluminum).pdf"
+    "pdf": "/Assets/Pdfs/ZIplock Bags.pdf"
   },
   {
     "id": 7,
@@ -629,7 +629,7 @@
     "wholeSalePrice": 18,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Ziplock bags (Gold).pdf"
+    "pdf": "/Assets/Pdfs/ZIplock Bags.pdf"
   },
   {
     "id": 8,
@@ -693,7 +693,7 @@
     "wholeSalePrice": 18,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Ziplock bags (Kraft Paper).pdf"
+    "pdf": "/Assets/Pdfs/ZIplock Bags.pdf"
   },
   {
     "id": 9,
@@ -773,7 +773,7 @@
     "wholeSalePrice": 350,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Tea bags (Aluminum).pdf"
+    "pdf": "/Assets/Pdfs/TBag.pdf"
   },
   {
     "id": 10,
@@ -837,7 +837,7 @@
     "wholeSalePrice": 18,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Vacuum bags (100g).pdf"
+    "pdf": "/Assets/Pdfs/NoPDF.pdf"
   },
   {
     "id": 11,
@@ -901,7 +901,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Courier bags.pdf"
+    "pdf": "/Assets/Pdfs/NoPDF.pdf"
   },
   {
     "id": 12,
@@ -973,7 +973,7 @@
     "wholeSalePrice": 140,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Brown paper bags.pdf"
+    "pdf": "/Assets/Pdfs/Brown Paper Bag.pdf"
   },
   {
     "id": 13,
@@ -1029,7 +1029,7 @@
     "wholeSalePrice": 100,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Garbage bags.pdf"
+    "pdf": "/Assets/Pdfs/Garbag Bag.pdf"
   },
   {
     "id": 14,
@@ -1117,7 +1117,7 @@
     "wholeSalePrice": 200,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/White bags.pdf"
+    "pdf": "/Assets/Pdfs/NoPDF.pdf"
   },
   {
     "id": 15,
@@ -1173,7 +1173,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Thank you bags.pdf"
+    "pdf": "/Assets/Pdfs/NoPDF.pdf"
   },
   {
     "id": 16,
@@ -1229,7 +1229,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Color bags.pdf"
+    "pdf": "/Assets/Pdfs/NoPDF.pdf"
   },
   {
     "id": 17,
@@ -1285,7 +1285,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Tulip bags.pdf"
+    "pdf": "/Assets/Pdfs/Polythene Bag.pdf"
   },
   {
     "id": 18,
@@ -1325,7 +1325,7 @@
     "wholeSalePrice": 120,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Bubble wrapping.pdf"
+    "pdf": "/Assets/Pdfs/Bubble Wrap.pdf"
   },
   {
     "id": 19,
@@ -1356,7 +1356,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Stretch film.pdf"
+    "pdf": "/Assets/Pdfs/STRETCH FILM New.pdf"
   },
   {
     "id": 20,
@@ -1492,7 +1492,7 @@
     "wholeSalePrice": 90,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Shopping bags.pdf"
+    "pdf": "/Assets/Pdfs/NoPDF.pdf"
   },
   {
     "id": 22,
@@ -1540,7 +1540,7 @@
     "wholeSalePrice": 230,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Grocery bags.pdf"
+    "pdf": "/Assets/Pdfs/NoPDF.pdf"
   },
   {
     "id": 23,
@@ -1692,7 +1692,7 @@
     "wholeSalePrice": 90,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Masking tape.pdf"
+    "pdf": "/Assets/Pdfs/Tapes.pdf"
   },
   {
     "id": 25,
@@ -1740,7 +1740,7 @@
     "wholeSalePrice": 110,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Double side tape.pdf"
+    "pdf": "/Assets/Pdfs/Tapes.pdf"
   },
   {
     "id": 26,
@@ -1820,7 +1820,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Yogurt Cup (Clear).pdf"
+    "pdf": "/Assets/Pdfs/Yogurt cups.pdf"
   },
   {
     "id": 28,
@@ -1860,7 +1860,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Yogurt Cup (White).pdf"
+    "pdf": "/Assets/Pdfs/Yogurt cups.pdf"
   },
   {
     "id": 29,
@@ -1900,7 +1900,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Sauce Cup.pdf"
+    "pdf": "/Assets/Pdfs/NoPDF.pdf"
   },
   {
     "id": 30,
@@ -1940,7 +1940,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Cup.pdf"
+    "pdf": "/Assets/Pdfs/NoPDF.pdf"
   },
   {
     "id": 31,
@@ -1996,7 +1996,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/White tub.pdf"
+    "pdf": "/Assets/Pdfs/White Tub.pdf"
   },
   {
     "id": 32,
@@ -2044,7 +2044,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Clear tub.pdf"
+    "pdf": "/Assets/Pdfs/Clear Tub.pdf"
   },
   {
     "id": 33,
@@ -2108,7 +2108,7 @@
     "wholeSalePrice": 520,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Paper Cup.pdf"
+    "pdf": "/Assets/Pdfs/Paper Cups.pdf"
   },
   {
     "id": 34,
@@ -2148,7 +2148,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Lid.pdf"
+    "pdf": "/Assets/Pdfs/NoPDF.pdf"
   },
   {
     "id": 35,
@@ -2188,7 +2188,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Paper tub.pdf"
+    "pdf": "/Assets/Pdfs/Paper Tub.pdf"
   },
   {
     "id": 36,
@@ -2244,7 +2244,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Paper Straw.pdf"
+    "pdf": "/Assets/Pdfs/NoPDF.pdf"
   },
   {
     "id": 37,
@@ -2284,7 +2284,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Paper serviette.pdf"
+    "pdf": "/Assets/Pdfs/Paper Serviette.pdf"
   },
   {
     "id": 38,
@@ -2419,7 +2419,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Transparent Box.pdf"
+    "pdf": "/Assets/Pdfs/Transparant Box.pdf"
   },
   {
     "id": 41,
@@ -2475,7 +2475,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Aluminium Box.pdf"
+    "pdf": "/Assets/Pdfs/NoPDF.pdf"
   },
   {
     "id": 42,
@@ -2554,7 +2554,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Plastic Box.pdf"
+    "pdf": "/Assets/Pdfs/NoPDF.pdf"
   },
   {
     "id": 44,
@@ -2658,7 +2658,7 @@
     "wholeSalePrice": 250,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/PVC Sheet.pdf"
+    "pdf": "/Assets/Pdfs/PVC Sheets.pdf"
   },
   {
     "id": 46,
@@ -2770,7 +2770,7 @@
     "wholeSalePrice": 1300,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/shrink film.pdf"
+    "pdf": "/Assets/Pdfs/Shrink Film.pdf"
   },
   {
     "id": 48,
@@ -2801,7 +2801,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Vacuum machine.pdf"
+    "pdf": "/Assets/Pdfs/NoPDF.pdf"
   },
   {
     "id": 49,
@@ -2881,7 +2881,7 @@
     "wholeSalePrice": 900,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Carpet (One Color).pdf"
+    "pdf": "/Assets/Pdfs/Carpet.pdf"
   },
   {
     "id": 51,
@@ -2921,7 +2921,7 @@
     "wholeSalePrice": 800,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Carpet (Design).pdf"
+    "pdf": "/Assets/Pdfs/Carpet.pdf"
   },
   {
     "id": 52,
@@ -3000,7 +3000,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Mushroom seeds.pdf"
+    "pdf": "/Assets/Pdfs/Mushroom Seeds.pdf"
   },
   {
     "id": 54,
@@ -3040,7 +3040,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Caco3(calcium carbonate).pdf"
+    "pdf": "/Assets/Pdfs/Calcium Carbanate.pdf"
   },
   {
     "id": 55,
@@ -3088,7 +3088,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Magnesium sulfate.pdf"
+    "pdf": "/Assets/Pdfs/NoPDF.pdf"
   },
   {
     "id": 56,
@@ -3136,7 +3136,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Gypsum.pdf"
+    "pdf": "/Assets/Pdfs/Gypsum Powder.pdf"
   },
   {
     "id": 57,
@@ -3184,7 +3184,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Rubber Band.pdf"
+    "pdf": "/Assets/Pdfs/Rubber band.pdf"
   },
   {
     "id": 58,
@@ -3328,7 +3328,7 @@
     "wholeSalePrice": 350,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Nylon Rope.pdf"
+    "pdf": "/Assets/Pdfs/NoPDF.pdf"
   },
   {
     "id": 59,
@@ -3672,7 +3672,7 @@
     "wholeSalePrice": 750,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/PP Polythene(Polypropylene polyethylene).pdf"
+    "pdf": "/Assets/Pdfs/Polythene Bag.pdf"
   },
   {
     "id": 61,
@@ -3728,7 +3728,7 @@
     "wholeSalePrice": 1200,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/LDPE CLEAN.pdf"
+    "pdf": "/Assets/Pdfs/NoPDF.pdf"
   },
   {
     "id": 62,
@@ -3759,7 +3759,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Hand Sealer.pdf"
+    "pdf": "/Assets/Pdfs/NoPDF.pdf"
   },
   {
     "id": 63,
@@ -3790,7 +3790,7 @@
     "wholeSalePrice": 120000,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Band sealer.pdf"
+    "pdf": "/Assets/Pdfs/NoPDF.pdf"
   },
   {
     "id": 64,
@@ -3821,7 +3821,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Sealer Tape with eliment.pdf"
+    "pdf": "/Assets/Pdfs/NoPDF.pdf"
   },
   {
     "id": 65,
@@ -3981,7 +3981,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Master Batch.pdf"
+    "pdf": "/Assets/Pdfs/NoPDF.pdf"
   },
   {
     "id": 66,
@@ -4021,7 +4021,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Scale.pdf"
+    "pdf": "/Assets/Pdfs/NoPDF.pdf"
   },
   {
     "id": 67,
@@ -4052,7 +4052,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Tape dispenser.pdf"
+    "pdf": "/Assets/Pdfs/NoPDF.pdf"
   },
   {
     "id": 68,
@@ -4083,7 +4083,7 @@
     "wholeSalePrice": 0,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Hot Gun.pdf"
+    "pdf": "/Assets/Pdfs/NoPDF.pdf"
   },
   {
     "id": 69,
@@ -4187,7 +4187,7 @@
     "wholeSalePrice": 550,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/No 1 Black Polethene.pdf"
+    "pdf": "/Assets/Pdfs/Black Polythene.pdf"
   },
   {
     "id": 71,
@@ -4315,7 +4315,7 @@
     "wholeSalePrice": 600,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Color Polythene (2\").pdf"
+    "pdf": "/Assets/Pdfs/NoPDF.pdf"
   },
   {
     "id": 72,
@@ -4387,6 +4387,6 @@
     "wholeSalePrice": 750,
     "retail_limit": 100,
     "per_one_price": "",
-    "pdf": "/Assets/Pdfs/Color Polethene (3\").pdf"
+    "pdf": "/Assets/Pdfs/NoPDF.pdf"
   }
 ]
